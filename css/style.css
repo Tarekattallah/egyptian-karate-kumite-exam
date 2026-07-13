@@ -69,8 +69,8 @@ html {
 
 body {
     font-family: "Inter", "Cairo", system-ui, sans-serif;
-    background: var(--muted);
-    color: var(--foreground);
+    background: oklch(0.14 0.04 265);
+    color: #e2e8f0;
     overflow-x: hidden;
     min-height: 100vh;
     display: flex;
@@ -104,6 +104,19 @@ img {
     flex: 1;
     display: flex;
     flex-direction: column;
+}
+
+/* ============================================
+   EXAM CONTENT WRAPPER — Dark Background
+============================================ */
+.exam-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.exam-content.hidden {
+    display: none;
 }
 
 /* ============================================
@@ -276,18 +289,7 @@ img {
     50% { opacity: .5; }
 }
 
-/* ============================================
-   EXAM CONTENT
-============================================ */
-.exam-content {
-    display: flex;
-    flex-direction: column;
-    gap: 0;
-}
 
-.exam-content.hidden {
-    display: none;
-}
 
 /* ============================================
    HEADER
@@ -368,12 +370,17 @@ img {
     align-items: center;
     gap: 8px;
     transition: all var(--transition);
-    box-shadow: 0 2px 8px rgba(245,158,11,0.3);
+    box-shadow: 0 2px 12px rgba(245,158,11,0.35);
+    border: none;
 }
 
 #finishExam:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 20px rgba(245,158,11,0.4);
+    box-shadow: 0 8px 25px rgba(245,158,11,0.5);
+}
+
+#finishExam:active {
+    transform: scale(0.97);
 }
 
 /* ============================================
@@ -385,7 +392,7 @@ img {
     padding: 18px 22px;
     box-shadow: var(--shadow-soft);
     border: 1px solid var(--border);
-    margin-bottom: 16px;
+    margin-bottom: 0;
 }
 
 .progress-top {
@@ -493,7 +500,7 @@ img {
     padding: 18px 22px;
     box-shadow: var(--shadow-soft);
     border: 1px solid var(--border);
-    margin-bottom: 20px;
+    margin-bottom: 0;
 }
 
 .palette-header {
@@ -839,23 +846,22 @@ img {
    FOOTER
 ============================================ */
 .footer {
-    background: var(--card);
+    background: rgba(255,255,255,0.04);
     border-radius: var(--radius-lg);
     padding: 24px;
-    box-shadow: var(--shadow-soft);
-    border: 1px solid var(--border);
+    border: 1px solid rgba(255,255,255,0.06);
     text-align: center;
     margin-top: auto;
 }
 
 .footer-content p {
-    color: var(--muted-foreground);
+    color: rgba(255,255,255,0.5);
     font-size: 14px;
     margin-bottom: 6px;
 }
 
 .footer-name {
-    color: var(--foreground);
+    color: rgba(255,255,255,0.7);
     font-weight: 700;
     font-size: 15px;
     margin-top: 8px;
@@ -919,17 +925,17 @@ img {
 }
 
 ::-webkit-scrollbar-track {
-    background: var(--muted);
+    background: rgba(255,255,255,0.04);
     border-radius: 50px;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--border);
+    background: rgba(255,255,255,0.12);
     border-radius: 50px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #94a3b8;
+    background: rgba(255,255,255,0.2);
 }
 
 /* ============================================
