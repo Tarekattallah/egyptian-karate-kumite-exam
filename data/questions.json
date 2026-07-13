@@ -10,7 +10,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يجب أن يكون الحجاب معتمداً من الاتحاد الدولي للكاراتيه.",
+    "explanation": "المسموح هو الحجاب الديني الأسود المعتمد من الاتحاد الدولي للكاراتيه، وليس أي غطاء رأس ديني.",
     "reference": {
       "article": "2.2.5",
       "page": "6"
@@ -27,9 +27,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يجب أن يغطي الجاكت المقعدة على الأقل وألا يزيد عن ثلاثة أرباع طول الفخذ.",
+    "explanation": "يجب أن يغطي الجاكت المقعدة على الأقل وألا يزيد طوله على ثلاثة أرباع الفخذ.",
     "reference": {
-      "article": "2.2.1.5",
+      "article": "2.2.1(5)",
       "page": "6"
     }
   },
@@ -46,7 +46,7 @@
     "correctAnswerArabic": "صحيح",
     "explanation": "يجب أن يغطي البنطلون ثلثي قصبة الساق على الأقل.",
     "reference": {
-      "article": "2.2.1.11",
+      "article": "2.2.1(10)",
       "page": "6"
     }
   },
@@ -63,13 +63,13 @@
     "correctAnswerArabic": "صحيح",
     "explanation": "أقصى طول للكم لا يزيد عن رسغ اليد وألا يقل عن نصف الساعد.",
     "reference": {
-      "article": "2.2.1.8",
+      "article": "2.2.1(8)",
       "page": "6"
     }
   },
   {
     "id": 5,
-    "arabic": "إذا كانت أكمام جاكت بدلة الكاراتيه للاعب طويلة جدا ولايوجد بديل مناسب لها فى هذا الوقت فيمكن أن يسمح الحكم للاعب بتثنيها إلى الداخل.",
+    "arabic": "إذا كانت أكمام جاكت بدلة الكاراتيه للاعب طويلة جدا ولايوجد بديل مناسب لها فى هذا الوقت فيمكن أن يسمح الحكم للاعب بثنيها إلى الداخل.",
     "english": "If an Athlete’s karate-Gi jacket sleeves are too long and a suitable replacement cannot be found in time the Referee can allow him to turn them up on the inside.",
     "type": "boolean",
     "options": [
@@ -78,15 +78,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا يسمح بثني أكمام الجاكت مطلقاً.",
+    "explanation": "ثني أكمام الجاكت غير مسموح به، ويجب تصحيح الزي خلال المهلة المحددة.",
     "reference": {
-      "article": "2.2.1.9",
+      "article": "2.2.1(9)",
       "page": "6"
     }
   },
   {
     "id": 6,
-    "arabic": "يمكن للاعبين ارتداء ربط مطاطى او اثنين أو مثبت ذيل حصان. الأربطة والزينة الأخرى ممنوعة.",
+    "arabic": "يمكن للاعبين ارتداء رباط مطاطى او اثنين أو مثبت ذيل حصان. الأربطة والزينة الأخرى ممنوعة.",
     "english": "Athletes may wear 1 or 2 discreet rubber band or ponytail retainer in their hair. Ribbons, beads, and other decorations are prohibited.",
     "type": "boolean",
     "options": [
@@ -103,7 +103,7 @@
   },
   {
     "id": 7,
-    "arabic": "الحلق فى الأذن مسموح به إذا تم تغطيته بالصق.",
+    "arabic": "الحلق فى الأذن مسموح به إذا تم تغطيته بلاصق.",
     "english": "Earrings are allowed if they are covered with tape.",
     "type": "boolean",
     "options": [
@@ -112,9 +112,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الحلق غير مسموح به مطلقاً حتى لو تم تغطيته.",
+    "explanation": "يحظر على اللاعب ارتداء الحلق أو أي جسم معدني قد يسبب إصابة، ولا يجعل اللاصق ذلك مسموحاً.",
     "reference": {
-      "article": "2.2.4",
+      "article": "2.2.6",
       "page": "6"
     }
   },
@@ -154,7 +154,7 @@
   },
   {
     "id": 10,
-    "arabic": "يمكن للمدرب تغيير ترتيب منافسة أعضاء الفريق خلال الدور.",
+    "arabic": "يمكن للمدرب تغيير ترتيب لاعبي الفريق خلال الدور.",
     "english": "The coach may change the team fighting order during a round.",
     "type": "boolean",
     "options": [
@@ -163,7 +163,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن تغيير الترتيب بين الأدوار وليس أثناء الدور.",
+    "explanation": "يمكن تغيير ترتيب الفريق قبل الدور بتقديم نموذج جديد، ولا يمكن تغييره بعد تسليم النموذج وحتى نهاية الدور.",
     "reference": {
       "article": "3.6.5",
       "page": "11"
@@ -180,15 +180,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا يسمح باستبدال لاعب الفردي بعد إجراء القرعة؛ قواعد تغيير المشاركين تخص فرق الكوميتيه وتكون قبل الدور بتسليم ترتيب جديد.",
+    "explanation": "لا يوجد استبدال للاعب الفردي بعد القرعة؛ أحكام التغيير الواردة بالقانون تخص تشكيل وترتيب فرق الكوميتيه قبل الدور.",
     "reference": {
-      "article": "3.4.1 / 3.6.5",
-      "page": "9 / 11"
+      "article": "3.4.1; 3.6.5",
+      "page": "9, 11"
     }
   },
   {
     "id": 12,
-    "arabic": "يجب أن يزود كل قاضٍ بعلم أحمر وآخر أزرق أو بأداة تسجيل إلكترونية حمراء وأخرى زرقاء.",
+    "arabic": "يجب أن يزود كل قاضى بعلم أحمر وآخر أزرق أو بأداة تسجيل إلكتونية حمراء وأخرى زرقاء.",
     "english": "Each Judge must be equipped with a red and a blue flag or electronic signal device.",
     "type": "boolean",
     "options": [
@@ -197,7 +197,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يُزوَّد كل قاضٍ بعلم أحمر وأزرق أو بأداة إشارة إلكترونية حمراء وزرقاء.",
+    "explanation": "يجب تزويد كل قاض بعلمين أحمر وأزرق أو أداتي تسجيل إلكترونيتين باللونين.",
     "reference": {
       "article": "1.7",
       "page": "3"
@@ -205,24 +205,24 @@
   },
   {
     "id": 13,
-    "arabic": "إذا كان للفريقين نفس عدد مرات الفوز والنقاط فستقام مباراة فاصلة.",
+    "arabic": "إذا كان للفريقين نفس عدد الفوز والنقاط ستقام مباراة فاصلة.",
     "english": "If two teams have the same number of victories and points, a deciding bout will be held.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "لا تُقام مباراة فاصلة مباشرة في جميع الحالات؛ ففي دوري المجموعات تُطبَّق معايير كسر التعادل بالترتيب، وتكون المباراة الفاصلة هي المعيار الأخير، بينما تُقام مباشرة بعد تساوي الانتصارات والنقاط في نظام الإقصاء.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "عند تساوي فريقي الإقصاء في عدد الانتصارات والنقاط تقام مباراة فاصلة.",
     "reference": {
-      "article": "12.4.1 / 12.5.2",
-      "page": "23-24"
+      "article": "12.5.2",
+      "page": "24"
     }
   },
   {
     "id": 14,
-    "arabic": "مراقب المباراة (كانسا) سيزود بصافرة فقط.",
+    "arabic": "مراقب المباراة )كانسا( سيزود بصافرة فقط.",
     "english": "The Match Supervisor (KANSA) will be equipped with only a whistle.",
     "type": "boolean",
     "options": [
@@ -231,7 +231,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يجلس مراقب المباراة عند المنضدة الرسمية ويُزوَّد بصافرة.",
+    "explanation": "يجلس كانسا عند المنضدة الرسمية ويزود بصفارة.",
     "reference": {
       "article": "1.8",
       "page": "3"
@@ -239,7 +239,7 @@
   },
   {
     "id": 15,
-    "arabic": "الإقصاء بالانسحاب (كيكن) يعني أن اللاعبين سيتم إقصاؤهم من هذه الفئة من المنافسات.",
+    "arabic": "الإقصاء بالانسحاب )كيكن( يعنى أن اللاعبين سيتم إقصاؤهم من هذه الفئة من المنافسات.",
     "english": "Disqualification by KIKEN means that the Athletes are disqualified from that category.",
     "type": "boolean",
     "options": [
@@ -248,7 +248,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "قرار كيكن يُقصي اللاعب من هذه المسابقة، ولا يؤثر في مشاركته في مسابقات أخرى.",
+    "explanation": "كيكن يقصي اللاعب من الفئة أو المسابقة المعنية فقط.",
     "reference": {
       "article": "6.4",
       "page": "15"
@@ -256,7 +256,7 @@
   },
   {
     "id": 16,
-    "arabic": "الكعب بطول أكثر من 4 سم لا يسمح بارتدائه مع الزي الرسمي.",
+    "arabic": "الكعب بطول أكثر من 4 سم لن يسمح بارتدائه فى الزى الرسمي.",
     "english": "Heels of more than 4 cm may not be worn with the uniform.",
     "type": "boolean",
     "options": [
@@ -265,15 +265,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الكعب الذي يزيد طوله على 4 سم غير مسموح به مع الزي الرسمي.",
+    "explanation": "يحظر ارتداء كعب يزيد على 4 سم مع الزي الرسمي.",
     "reference": {
-      "article": "2.1.2.5",
+      "article": "2.1.2(5)",
       "page": "5"
     }
   },
   {
     "id": 17,
-    "arabic": "مباريات الرجال الكبار ثلاث دقائق، والسيدات والناشئون والشباب دقيقتان.",
+    "arabic": "مباريات الرجال 3 دقائق ودقيقتين للسيدات والناشئين والشباب.",
     "english": "Senior Male bouts are three minutes, and Women, Cadets, and Juniors, two minutes.",
     "type": "boolean",
     "options": [
@@ -282,7 +282,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "مباريات الكبار للرجال والسيدات مدتها ثلاث دقائق، بينما مباريات الناشئين والشباب مدتها دقيقتان.",
+    "explanation": "مباريات الكبار للرجال والنساء ثلاث دقائق، والناشئين والشباب دقيقتان.",
     "reference": {
       "article": "5.1",
       "page": "14"
@@ -290,7 +290,7 @@
   },
   {
     "id": 18,
-    "arabic": "يمكن لأعضاء فريق الكوميتيه ارتداء أي نوع من بدلة الكاراتيه.",
+    "arabic": "يمكن لأعضاء فريق الكوميتيه إرتداء أى نوع من بدلة الكاراتيه.",
     "english": "Kumite team members may wear any type of Karate Gi.",
     "type": "boolean",
     "options": [
@@ -299,7 +299,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يجب أن تكون بدلة الكاراتيه بيضاء ومعتمدة من الاتحاد الدولي ومطابقة للاشتراطات، وليست أي نوع من البدلات.",
+    "explanation": "يجب أن تكون بدلة الكاراتيه بيضاء ومعتمدة ومطابقة لاشتراطات الاتحاد الدولي.",
     "reference": {
       "article": "2.2.1",
       "page": "5"
@@ -307,7 +307,7 @@
   },
   {
     "id": 19,
-    "arabic": "يمكن لأعضاء الفريق استخدام بدل كاراتيه من علامات تجارية مختلفة.",
+    "arabic": "يمكن لأعضاء الفريق استخدام بدل من علامات تجارية مختلفة.",
     "english": "Different type of Karate-Gi brands may be used for team members.",
     "type": "boolean",
     "options": [
@@ -316,15 +316,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا يشترط الاتحاد الدولي أن يرتدي جميع أعضاء الفريق بدلات من العلامة التجارية نفسها.",
+    "explanation": "لا يشترط الاتحاد الدولي أن يرتدي جميع أعضاء الفريق العلامة التجارية نفسها.",
     "reference": {
-      "article": "2.2.1.1",
+      "article": "2.2.1(1)",
       "page": "5"
     }
   },
   {
     "id": 20,
-    "arabic": "لا يحتاج اللاعب إلى تغيير الجاكت إذا انقطعت الأربطة خلال المباراة.",
+    "arabic": "لايحتاج اللاعب إلى تغيير الجاكت إذا انقطعت الأربطة خلال المباراة.",
     "english": "An Athlete does not need to change the jacket if ties are torn off during the match.",
     "type": "boolean",
     "options": [
@@ -333,15 +333,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يجب ربط أربطة الجاكت عند بداية المباراة، وإذا انقطعت خلالها فلا يُطلب من اللاعب تغيير الجاكت.",
+    "explanation": "إذا انقطعت أربطة الجاكت خلال المباراة فلا يلزم تغيير الجاكت.",
     "reference": {
-      "article": "2.2.1.7",
+      "article": "2.2.1(7)",
       "page": "6"
     }
   },
   {
     "id": 21,
-    "arabic": "يمكن للاعبين ارتداء أي بدلة كاراتيه بيضاء.",
+    "arabic": "يمكن للاعبين إرتداء أى بدلة كاراتيه بيضاء.",
     "english": "Athletes may wear any white Karate Gi.",
     "type": "boolean",
     "options": [
@@ -350,7 +350,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يجب أن تكون البدلة البيضاء معتمدة من الاتحاد الدولي ومطابقة للقواعد، وليس مجرد أي بدلة بيضاء.",
+    "explanation": "لا تكفي كون البدلة بيضاء؛ يجب أن تكون معتمدة ومطابقة للقانون.",
     "reference": {
       "article": "2.2.1",
       "page": "5"
@@ -358,7 +358,7 @@
   },
   {
     "id": 22,
-    "arabic": "ضربة مركبة سريعة مكونة من شودان جيري وتسوكي، وكل منهما يحتسب على حدة، يمكن أن تحتسب بإيبون.",
+    "arabic": "ضربة مركبة سريعة مكونة من شودان جيرى وتسوكى كل منهما يحتسب على حدة من الممكن أن يحتسبا بإيبون.",
     "english": "A fast combination of CHUDAN Geri and TSUKI each of which score in their own right will be given IPPON.",
     "type": "boolean",
     "options": [
@@ -367,15 +367,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "في الهجمة المركبة الفعالة تُحتسب التقنية الأعلى قيمة؛ شودان جيري تستحق وازاري، وليست إيبون.",
+    "explanation": "في المجموعة الفعالة تحتسب أعلى تقنية صحيحة؛ ركلة شودان تساوي وازاري وليست إيبون لمجرد اقترانها بتسوكي.",
     "reference": {
-      "article": "8.3 / 8.6",
-      "page": "16 / 17"
+      "article": "8.3; 8.6",
+      "page": "16-17"
     }
   },
   {
     "id": 23,
-    "arabic": "في مباريات الكبار لا ينتج عن لمسة خفيفة بواقي اليد في الحلق تحذير أو عقوبة إذا لم تحدث إصابة فعلية.",
+    "arabic": "فى مباريات الرجال لمسه خفيفة بواقى اليد فى الحلق لاتحتاج الى جزاء أو عقوبة حيث أنه ليست هناك إصابة فعلية.",
     "english": "In Senior bouts a light “glove touch” to the throat need no result in a warning or penalty provided there is no actual injury.",
     "type": "boolean",
     "options": [
@@ -384,15 +384,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "أي تلامس جسدي مع الحلق ممنوع ويستوجب تحذيراً أو عقوبة، حتى دون إصابة فعلية.",
+    "explanation": "أي اصطدام بالحلق يستوجب تحذيراً أو عقوبة ما لم يكن سببه اللاعب المصاب نفسه.",
     "reference": {
-      "article": "8.8 / 10.4.6",
-      "page": "17 / 20"
+      "article": "8.8; 10.4.6",
+      "page": "17, 20"
     }
   },
   {
     "id": 24,
-    "arabic": "ركلة في الخصية لن ينتج عنها تحذير أو عقوبة إذا فعلها المنافس بدون قصد.",
+    "arabic": "ركلة فى الخصية لن ينتج عنها تحذير أو عقوبة إذا فعلها المنافس بدون قصد.",
     "english": "A kick in the groin will not result in a penalty provided the offender did not do it intentionally.",
     "type": "boolean",
     "options": [
@@ -401,15 +401,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الهجوم على الخصية من الأفعال الممنوعة ويستوجب التحذير أو العقوبة بصرف النظر عن القصد.",
+    "explanation": "الهجوم على الخصية من الأفعال الممنوعة ويخضع للتحذير أو العقوبة ولو لم يكن مقصوداً.",
     "reference": {
-      "article": "9.1.1.2",
-      "page": "17"
+      "article": "9.1.1(2); 10.4.2",
+      "page": "17, 19"
     }
   },
   {
     "id": 25,
-    "arabic": "للأعمار تحت 14 سنة، ارتداء الخوذة المعتمدة من الاتحاد الدولي للكاراتيه إجباري.",
+    "arabic": "للاعبين تحت 14 سنة إرتداء خوذة الرأس المعتمدة من الإتحاد الدولى للكاراتيه إجباري.",
     "english": "For Athletes under14 years of age, the WKF approved protective helmet is compulsory.",
     "type": "boolean",
     "options": [
@@ -418,15 +418,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الخوذة إجبارية للاعبين تحت 14 سنة.",
+    "explanation": "الخوذة الواقية المعتمدة إلزامية للفئة العمرية المحددة تحت 14 سنة.",
     "reference": {
-      "article": "2.2.7.7",
+      "article": "2.2.7(7)",
       "page": "7"
     }
   },
   {
     "id": 26,
-    "arabic": "إذا تم إلغاء السنشو عندما يكون متبقٍ أقل من 15 ثانية من المباراة لايمكن منح السنشو مرة أخرى لأي من اللاعبين.",
+    "arabic": "إذا تم الغاء السنشو عندما يكون متبقى اقل من 15 ثانية من المباراة لايمكن منح السنشو مرة أخرى لأى من اللاعبين.",
     "english": "If SENSHU is withdrawn when it is less than 15 seconds left of the bout, no further SENSHU can be awarded to either competitor.",
     "type": "boolean",
     "options": [
@@ -435,7 +435,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا يمكن منح سنشو جديد في آخر 15 ثانية إذا ألغي السابق.",
+    "explanation": "إذا ألغي السنشو في أقل من 15 ثانية فلا يمنح سنشو جديد لأي لاعب.",
     "reference": {
       "article": "12.2.10",
       "page": "23"
@@ -443,7 +443,7 @@
   },
   {
     "id": 27,
-    "arabic": "إذا حصل اللاعب الذي تم منحه السنشو على تحذير لتجنب القتال عندما يكون متبقٍ أقل من 15 ثانية من المباراة فسيفقد اللاعب تلقائياً هذه الميزة.",
+    "arabic": "اذا حصل اللاعب الذى تم منحه السنشو على تحذير لتجنب القتال –عندما يكون متبقى أقل من 15 ثانية من المباراة فسيفقد اللاعب تلقائيا هذه الميزة.",
     "english": "Should an Athlete that has been awarded SENSHU receives a warning for avoiding combat when there is less than 15 seconds left of the bout – the Athlete will automatically forfeit this advantage.",
     "type": "boolean",
     "options": [
@@ -452,7 +452,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "فقدان السنشو تلقائياً في آخر 15 ثانية عند التحذير لتجنب القتال.",
+    "explanation": "يحذف السنشو تلقائياً عند تحذير تجنب القتال في آخر 15 ثانية.",
     "reference": {
       "article": "12.2.8",
       "page": "23"
@@ -460,7 +460,7 @@
   },
   {
     "id": 28,
-    "arabic": "الحجاب المفروض دينياً يجب أن يكون معتمداً من الاتحاد الدولي للكاراتيه.",
+    "arabic": "الحجاب المفروض دينيا يجب أن يكون معتمدا من الإتحاد الدولي للكاراتيه.",
     "english": "Voluntary religiously headwear must be approved by the WKF.",
     "type": "boolean",
     "options": [
@@ -469,7 +469,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يجب أن يكون الحجاب معتمداً من الاتحاد الدولي.",
+    "explanation": "يشترط اعتماد الاتحاد الدولي للحجاب الديني.",
     "reference": {
       "article": "2.2.5",
       "page": "6"
@@ -477,7 +477,7 @@
   },
   {
     "id": 29,
-    "arabic": "يمكن لمشرف البطولة من قبل الاتحاد الدولي للكاراتيه أو اللجنة المنظمة أن تسمح للمدربين أن يرتدوا أي تي شيرت بدلاً من جاكيت التدريب الرياضي.",
+    "arabic": "يمكن لمشرف البطولة من قبل الإتحاد الدولى للكاراتيه أو للجنة المنظمة أن تسمح للمدرببين أن يرتدوا أى تي شيرت بدلا من جاكت الترنج الرياضى.",
     "english": "The WKF Competition Supervisor, or the Organizing Commission, can allow Coaches to instead of the track suit top to use any t-shirt.",
     "type": "boolean",
     "options": [
@@ -486,7 +486,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن السماح بارتداء تي شيرت رسمي للاتحاد الوطني أو تي شيرت بلون واحد بدون كتابة، وليس أي تي شيرت.",
+    "explanation": "يجوز فقط التيشيرت الرسمي للاتحاد الوطني أو تيشيرت بلون واحد بلا كتابة أو شعارات، وليس أي تيشيرت.",
     "reference": {
       "article": "2.3.3",
       "page": "7"
@@ -494,7 +494,7 @@
   },
   {
     "id": 30,
-    "arabic": "هانسكوتشوي تعطى عندما تقل فرصة فوز اللاعب جدياً بسبب خطأ منافسه.",
+    "arabic": "هانسكوتشيوي تعطى عندما تقل فرصة فوز اللاعب جديا بسبب خطأ منافسه ) (. luof s’tnenoppo eht yb",
     "english": "HANSOKU-CHUI is given when the Athlete’s potential for winning has been seriously reduced by the opponent’s foul.",
     "type": "boolean",
     "options": [
@@ -503,7 +503,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "هانسكوتشوي تعطى للتجاوزات التي تقلل فرص الفوز.",
+    "explanation": "هانسكوتشوي للتجاوزات الأشد التي تقلل فرصة المنافس في الفوز.",
     "reference": {
       "article": "10.2.1",
       "page": "19"
@@ -511,7 +511,7 @@
   },
   {
     "id": 31,
-    "arabic": "الوزن المسموح بزيادته عن الموازين الرسمية للذكور والإناث هو 0.5 كجم.",
+    "arabic": "الوزن المسموح بزيادته عن الموازين الرسمية للذكور والإناث هو 0٫5 كجم.",
     "english": "The weight tolerance admitted for male and female 0.5 kg.",
     "type": "boolean",
     "options": [
@@ -520,9 +520,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "التفاوت المسموح به هو 1.2 كجم للرجال و1.5 كجم للسيدات، وليس 0.5.",
+    "explanation": "التفاوت هو 1.2 كجم للرجال و1.5 كجم للسيدات، ويطبق على الحدين الأدنى والأقصى.",
     "reference": {
-      "article": "3.2.2.د",
+      "article": "3.2.2(d)",
       "page": "8"
     }
   },
@@ -537,7 +537,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "هانسكو عقوبة للإقصاء من المباراة للانتهاكات الخطيرة.",
+    "explanation": "هانسكو عقوبة إقصاء من المباراة بسبب تجاوز شديد أو بعد هانسكوتشوي.",
     "reference": {
       "article": "10.3.1",
       "page": "19"
@@ -554,7 +554,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "شيكاكو يمكن أن تعطى مباشرة دون تحذير مسبق في حالات السلوك العدواني الخطير.",
+    "explanation": "يمكن توقيع شيكاكو مباشرة في الحالات الجسيمة ولا يشترط تحذير سابق.",
     "reference": {
       "article": "10.3.1",
       "page": "19"
@@ -562,7 +562,7 @@
   },
   {
     "id": 34,
-    "arabic": "إذا تصرف اللاعب بعدوانية فإن شيكاكو وليس هانسكو هو القرار الصحيح.",
+    "arabic": "إذا تصرف اللاعب بعدائية فإن شيكاكو وليس هانسكو هو القرار الصحيح.",
     "english": "If an Athlete acts maliciously, SHIKKAKU and not HANSOKU is the correct penalty.",
     "type": "boolean",
     "options": [
@@ -571,7 +571,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "السلوك العدواني يستوجب شيكاكو (الإقصاء من البطولة).",
+    "explanation": "السلوك الخبيث أو العدواني الجسيم يستوجب شيكاكو.",
     "reference": {
       "article": "10.3.1",
       "page": "19"
@@ -579,7 +579,7 @@
   },
   {
     "id": 35,
-    "arabic": "إذا تصرف اللاعب بعدوانية فإن هانسكو هو القرار الصحيح.",
+    "arabic": "إذا تصرف اللاعب بعدائية فإن هانسكو هو القرار الصحيح.",
     "english": "If an Athlete acts maliciously, HANSOKU is the correct penalty.",
     "type": "boolean",
     "options": [
@@ -588,7 +588,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "السلوك العدواني يستوجب شيكاكو، وليس هانسكو.",
+    "explanation": "السلوك العدواني أو الخبيث يستوجب شيكاكو، وليس هانسكو.",
     "reference": {
       "article": "10.3.1",
       "page": "19"
@@ -596,24 +596,24 @@
   },
   {
     "id": 36,
-    "arabic": "يمكن إعطاء اللاعب شيكاكو إذا كان تصرف المدرب أو أي عضو غير متنافس من وفد اللاعب يعتبر إساءة لروح وشرف رياضة الكاراتيه.",
+    "arabic": "يمكن إعطاء اللاعب شيكاكو إذا كان تصرف المدرب أو أى عضو غير متنافس من طرف اللاعب يعتبر إساءة لروح وشرف رياضة الكاراتيه.",
     "english": "An Athlete can be given SHIKKAKU if the behavior of the coach or noncombatant members of the Athlete’s delegation is considered to harm the prestige and honor of Karate-do.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "سلوك المدرب أو البعثة يمكن أن يؤدي إلى شيكاكو للاعب.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "القانون يجيز شيكاكو لسلوك اللاعب نفسه، أما السلوك الجسيم للمرافقين فيحال لإجراءات تأديبية أخرى ولا يعني تلقائياً شيكاكو للاعب.",
     "reference": {
-      "article": "10.3.1",
+      "article": "10.3.1; 10.3.3",
       "page": "19"
     }
   },
   {
     "id": 37,
-    "arabic": "نفس السماح في الميزان يكون للحد الأدنى والأقصى من فئة الميزان.",
+    "arabic": "نفس السماح فى الميزان يكون للحد الأدنى والأقصى من فئة الميزان.",
     "english": "The same tolerance applies to both the upper and lower limits of a weight class.",
     "type": "boolean",
     "options": [
@@ -622,15 +622,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "التفاوت المسموح به ينطبق على الحدين الأدنى والأقصى.",
+    "explanation": "التفاوت في الوزن يطبق على الحد الأدنى والحد الأقصى للفئة.",
     "reference": {
-      "article": "3.2.2.د",
+      "article": "3.2.2(d)",
       "page": "8"
     }
   },
   {
     "id": 38,
-    "arabic": "في المنافسات الفردية سيتم تطبيق نظام الدوري متبوعاً بربع النهائي ثم نصف النهائي ثم النهائي.",
+    "arabic": "فى المنافسات الفردية سيتم تطبيق نظام الدورى متبوعا بربع النهائي ثم نصف النهائي ثم النهائي.",
     "english": "For individual competition, the Round-robin system followed by quarterfinals, semi-finals and final is applied.",
     "type": "boolean",
     "options": [
@@ -639,15 +639,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يطبق نظام الدوري ثم الإقصاء، لكن ليس دائماً ربع النهائي، يعتمد على عدد اللاعبين.",
+    "explanation": "دوري المجموعات يليه الإقصاء، لكن بداية أدوار الإقصاء تختلف حسب البطولة وعدد المشاركين وليست دائماً ربع النهائي.",
     "reference": {
-      "article": "3.4.3",
-      "page": "9"
+      "article": "3.4.3; 3.7.1",
+      "page": "9, 11"
     }
   },
   {
     "id": 39,
-    "arabic": "هناك خمس معايير يجب أن تستوفي لاحتساب التسجيل.",
+    "arabic": "هناك خمس معايير يجب أن تستوفى لاحتساب التسجيل.",
     "english": "There are five criteria to be met in determining a score.",
     "type": "boolean",
     "options": [
@@ -656,7 +656,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "هناك ستة معايير للتسجيل الصحيح.",
+    "explanation": "يلزم توافر ستة معايير كاملة لاحتساب التسجيل.",
     "reference": {
       "article": "8.5",
       "page": "16"
@@ -664,7 +664,7 @@
   },
   {
     "id": 40,
-    "arabic": "يجب أن يحضر 5 لاعبين من فريق الرجال على الأقل في الدور الأول.",
+    "arabic": "يجب أن يحضر 5 لاعبين من فريق الرجال على الأقل فى الدور الأول.",
     "english": "A male team must present minimum five Athletes for the initial round.",
     "type": "boolean",
     "options": [
@@ -673,15 +673,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "فريق الرجال يجب أن يحضر 5 لاعبين على الأقل للدور الأول.",
+    "explanation": "الجدول يوجب تقديم خمسة لاعبين على الأقل لفريق الرجال في الدور الأول.",
     "reference": {
-      "article": "3.5.1",
+      "article": "3.5 (جدول تكوين الفريق)",
       "page": "10"
     }
   },
   {
     "id": 41,
-    "arabic": "يتكون فريق الرجال من 5 إلى 7 لاعبين، 5 منهم في كل دور.",
+    "arabic": "يتكون فريق الرجال من 5 إلى 7 لاعبين ينافس 5 منهم فى كل دور.",
     "english": "Male teams comprise five to seven members with five competing in a round.",
     "type": "boolean",
     "options": [
@@ -690,15 +690,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "في دوري المجموعات قد يتكون فريق الرجال من 7 إلى 8 لاعبين، أما في الإقصاء فمن 5 إلى 7؛ لذلك العبارة ليست صحيحة في جميع أنظمة المنافسة.",
+    "explanation": "تكوين فريق الرجال يختلف حسب نظام الدوري أو الإقصاء؛ ففي الدوري يكون الإجمالي 7 إلى 8، وليس دائماً 5 إلى 7.",
     "reference": {
-      "article": "3.5.1",
+      "article": "3.5 (جدول تكوين الفريق)",
       "page": "10"
     }
   },
   {
     "id": 42,
-    "arabic": "يجب أن تحضر لاعبتان على الأقل من فريق الإناث في الدور الأول.",
+    "arabic": "يجب أن تحضر لاعبتان على الأقل من فريق الإناث فى الدور الأول.",
     "english": "A female team must present minimum two Athletes for the initial round.",
     "type": "boolean",
     "options": [
@@ -707,24 +707,24 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "فريق الإناث يجب أن يحضر 3 لاعبات على الأقل للدور الأول.",
+    "explanation": "يجب أن تقدم فرق الإناث ثلاث لاعبات في الدور الأول.",
     "reference": {
-      "article": "3.5.2",
+      "article": "3.5 (جدول تكوين الفريق)",
       "page": "10"
     }
   },
   {
     "id": 43,
-    "arabic": "في نظام الدوري يقسم 32 لاعباً بحد أقصى في كل فئة إلى 8 مجموعات كل مجموعة مكونة من 4 لاعبين.",
+    "arabic": "فى نظام الدوري يقسم 32 لاعب بحد أقصى فى كل فئة إلى 8 مجموعات كل مجموعة مكونة من 4 لاعبين.",
     "english": "The maximum 32 Athletes per category are divided in 8 groups of 4 Competitors in the Round-robin system.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "32 لاعباً كحد أقصى، 8 مجموعات كل مجموعة 4 لاعبين.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "المجموعات الثماني تضم أربعة لاعبين أو أقل، وليس شرطاً أن تضم كل مجموعة أربعة.",
     "reference": {
       "article": "3.7.1",
       "page": "11"
@@ -732,7 +732,7 @@
   },
   {
     "id": 44,
-    "arabic": "إذا استمر المدرب في عرقلة المباراة بعد التحذير الأول فسيوقف الحكم المباراة ويتجه نحو المدرب ثانية ويطلب منه مغادرة البساط.",
+    "arabic": "إذا استمر المدرب فى عرقلة المباراة بعد التحذير الأول فسيوقف الحكم المباراة ويتجه نحو المدرب ثانية ويطلب منه مغادرة البساط.",
     "english": "If the coach continues to interfere after first warning, the Referee will stop the bout, approach the coach again and ask him/her to leave the tatami.",
     "type": "boolean",
     "options": [
@@ -741,7 +741,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمكن للحكم طرد المدرب إذا استمر في التدخل.",
+    "explanation": "للحكم سلطة استبعاد المدرب الذي يستمر في التدخل أو تعطيل سير المباراة.",
     "reference": {
       "article": "9.1.4",
       "page": "18"
@@ -749,7 +749,7 @@
   },
   {
     "id": 45,
-    "arabic": "إذا سجل (أكا) في نفس لحظة خروج (أو) من الملعب فكل من التسجيل والخروج يمكن احتسابه.",
+    "arabic": "إذا سجل أكا فى نفس لحظة خروج آو من الملعب فكلا من التسجيل والخروج يمكن إحتسابه.",
     "english": "If AKA scores just as AO steps outside of the match area, both the score and warning or penalty can be given.",
     "type": "boolean",
     "options": [
@@ -758,15 +758,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إذا سجل اللاعب الموجود داخل الملعب على منافس خرج أو كان في طريقه للخروج، يُحتسب التسجيل ولا يُحتسب جوجاي على اللاعب الخارج.",
+    "explanation": "إذا سجل اللاعب الموجود داخل الملعب على الخارج فلا يحتسب جوجاي على الخارج في هذه الحالة.",
     "reference": {
-      "article": "9.1.3",
+      "article": "9.1.2-9.1.3",
       "page": "18"
     }
   },
   {
     "id": 46,
-    "arabic": "إذا تم دفع اللاعب جسدياً خارج منطقة الملعب فسيتم احتساب جوجاي.",
+    "arabic": "إذا تم دفع اللاعب جسديا خارج منطقة الملعب فسيتم احتساب جوجاى.",
     "english": "If an Athlete has been physically propelled from the area, Jogai will be given.",
     "type": "boolean",
     "options": [
@@ -775,15 +775,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إذا دفع خارجاً فلا يحتسب جوجاي، بل يكون سبباً للخصم.",
+    "explanation": "لا يحتسب جوجاي إذا دُفع اللاعب أو رُمي خارج المنطقة بواسطة الخصم.",
     "reference": {
-      "article": "9.1.3",
-      "page": "18"
+      "article": "10.4.13",
+      "page": "20"
     }
   },
   {
     "id": 47,
-    "arabic": "في منافسات الدوري العالمي اللاعبين الخاسرين من المتأهل للنهائي في ربع النهائي ونصف النهائي سيتنافسان على الميدالية البرونزية.",
+    "arabic": "فى منافسات الدوري العالمي اللاعبين الخاسرين من المتأهل للنهائي فى ربع النهائي ونصف النهائى سيتنافسان على الميدالية البرونزية.",
     "english": "In Premier League competition the losers to the finalists in the quarter- and semi-finals compete for the bronze medals.",
     "type": "boolean",
     "options": [
@@ -792,15 +792,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الخاسرون في ربع ونصف النهائي يتنافسون على البرونز.",
+    "explanation": "في الدوري العالمي يتنافس الخاسرون من المتأهلين للنهائي في ربع ونصف النهائي على البرونز.",
     "reference": {
-      "article": "3.7.6",
-      "page": "12"
+      "article": "3.7.1",
+      "page": "11"
     }
   },
   {
     "id": 48,
-    "arabic": "عندما يكون هناك تعادل بين اثنين أو أكثر من اللاعبين في المجموعة ولهم نفس عدد النقاط الكلية فالإعتبار سيكون للاعب الأعلى في التصنيف العالمي في تاريخ البطولة.",
+    "arabic": "عندما يكون هناك تعدل بين إثنين أو أكثر من اللاعبين فى المجموعة ولهما نفس عدد النقاط الكلية فالإعتبار سيكون للاعب الأعلى فى التصنيف العالمي فى تاريخ البطولة.",
     "english": "In cases where there is a tie between two or more Athletes in a group, having the same number of total points, the first criteria to consider is the highest World Ranking at the date of the competition.",
     "type": "boolean",
     "options": [
@@ -809,7 +809,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "المعيار الأول هو الفائز في المباراة بينهما، ثم النقاط، ثم التصنيف.",
+    "explanation": "التصنيف العالمي هو المعيار الثامن؛ تسبقه نتيجة المواجهة المباشرة ومعايير النقاط والإيبون والوازاري.",
     "reference": {
       "article": "12.3.1",
       "page": "23"
@@ -817,7 +817,7 @@
   },
   {
     "id": 49,
-    "arabic": "من الممكن للاعب أن يتم إقصاؤه بعقوبة هانسكو ويستمر في المنافسة.",
+    "arabic": "من الممكن للاعب أن يتم إقصاؤه بعقوبة هانسكو ويستمر فى المنافسة.",
     "english": "It is possible for an Athlete to be disqualified from a bout (HANSOKU) and continue the competition.",
     "type": "boolean",
     "options": [
@@ -826,7 +826,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "هانسكو إقصاء من المباراة فقط، لا يمنع الاستمرار في البطولة (ما لم يكن شيكاكو).",
+    "explanation": "هانسكو في مباراة دوري فردية لا يمنع اللاعب من إكمال بقية المنافسة.",
     "reference": {
       "article": "12.3.2",
       "page": "23"
@@ -834,7 +834,7 @@
   },
   {
     "id": 50,
-    "arabic": "اللاعب الذي يسجل ويخرج من الملعب قبل أن ينادي الحكم ياميه لن يحصل على جوجاي.",
+    "arabic": "اللاعب الذى يسجل ويخرج من الملعب قبل أن ينادى الحكم ياميه لن يحصل على جوجاى.",
     "english": "An Athlete who scores and exits the area before the Referee calls YAME will not receive JOGAI.",
     "type": "boolean",
     "options": [
@@ -843,7 +843,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "إذا سجل ثم خرج قبل يامي فلا جوجاي عليه.",
+    "explanation": "يحتسب التسجيل ولا يحتسب جوجاي إذا سجل اللاعب ثم خرج قبل يامي.",
     "reference": {
       "article": "9.1.2",
       "page": "18"
@@ -860,15 +860,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن معاقبة اللاعب عن أفعال ارتكبت قبل أو أثناء المباراة حتى بعد انتهاء الوقت.",
+    "explanation": "يمكن توقيع قرار على فعل وقع قبل نهاية الوقت، كما يمكن توقيع شيكاكو على سوء السلوك قبل المباراة أو خلالها أو بعدها.",
     "reference": {
-      "article": "8.10-8.11 / 10.3.3",
-      "page": "17 / 19"
+      "article": "8.10-8.11; 10.4.17",
+      "page": "17, 20"
     }
   },
   {
     "id": 52,
-    "arabic": "فى منافسات الشباب أي تكنيك للوجه الرأس أو الرقبة سبب إصابة سوف يحذر أو يجازى إلا إذا كان بسبب خطأ اللاعب نفسه.",
+    "arabic": "فى منافسات الشباب أى تكنيك للوجه الرأس أو الرقبة سبب إ tصlابuةa f سnوwف يo حs’ذtر nأوe iيpجiاcزeىr إeلا hإtذ ا sكiا tنi بsسsبelب nخuطأ اللاعب نفسه.",
     "english": "In Junior competition any technique to the face, head or neck, which causes injury will be warned or penalized unless it is the recipient’s own fault.",
     "type": "boolean",
     "options": [
@@ -877,7 +877,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "التكنيك المسبب للإصابة يستوجب عقوبة ما لم يكن بسبب خطأ المصاب.",
+    "explanation": "أي تقنية تسبب إصابة تستوجب تحذيراً أو عقوبة ما لم تكن الإصابة بسبب المتلقي.",
     "reference": {
       "article": "10.4.2",
       "page": "19"
@@ -885,7 +885,7 @@
   },
   {
     "id": 53,
-    "arabic": "فى منافسات الناشئين والشباب مسموح لركلات القدم أن تحدث اللمس الخفيف جدا (لمس الجلد) بحيث لاتحدث إصابة.",
+    "arabic": "فى منافسات الناشئين والشباب مسموح لركلات القدم أن تحدث اللمس الخفيف جدا ) لمس الجلد ( بحيث لاتحدث إصابة.",
     "english": "In Cadet and Junior competition Jodan kicks are allowed to make the lightest touch (“skin touch”) provided there is no injury.",
     "type": "boolean",
     "options": [
@@ -894,9 +894,9 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يسمح بلمس الجلد لركلات الجودان في فئات الناشئين والشباب بشرط عدم الإصابة.",
+    "explanation": "ركلات الجودان قد تصل بلمس الجلد الخفيف دون إصابة.",
     "reference": {
-      "article": "8.8",
+      "article": "8.8-8.9",
       "page": "17"
     }
   },
@@ -909,11 +909,11 @@
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "يسمح بلمس خفيف لضربات اليد، وتسامح أكبر لركلات القدم في الجودان للرجال.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "القانون يجيز لمس الجلد الخفيف في الجودان لكل المراحل ولا يقرر تحملاً أكبر خاصاً بركلات الكبار.",
     "reference": {
-      "article": "8.8",
+      "article": "8.8-8.9",
       "page": "17"
     }
   },
@@ -928,7 +928,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن إقصاء اللاعب المتأهل بشيكاكو لسوء السلوك حتى في نهاية الدورى.",
+    "explanation": "يمكن إقصاء اللاعب المتأهل بقرار شيكاكو، ويترتب على ذلك تأهل خصمه بالتزكية وفق النظام.",
     "reference": {
       "article": "12.3.3",
       "page": "23"
@@ -945,7 +945,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يجب الإعلان عن أي تغيير في نظام المنافسات في نشرة البطولة.",
+    "explanation": "أي تغيير في صيغة المنافسة يجب إعلانه بوضوح في نشرة البطولة.",
     "reference": {
       "article": "3.10",
       "page": "13"
@@ -953,19 +953,19 @@
   },
   {
     "id": 57,
-    "arabic": "السلوك السيء من المدرب لايسبب شيكاكو للاعبه ولايستبعد اللاعب من المباراة الفردية أو الجماعية.",
+    "arabic": "السلوك السئ من المدرب لايسبب شيكاكو للاعبه ولايستبعد اللاعب من المباراة الفردية أو الجماعية.",
     "english": "A bad behavior from a coach does not cause a SHIKKAKU to his/her Athlete and the Athlete does not need to be expelled from the match/bout.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "سلوك المدرب السيء يمكن أن يؤدي إلى شيكاكو للاعب.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "التعامل المباشر مع تدخل المدرب هو استبعاده من مكان المنافسة، ولا يترتب تلقائياً شيكاكو للاعب.",
     "reference": {
-      "article": "10.3.1",
-      "page": "19"
+      "article": "9.1.4; 10.3.3",
+      "page": "18-19"
     }
   },
   {
@@ -979,7 +979,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يشير القضاة فوراً عند رؤية تسجيل باستخدام الأدوات الإلكترونية أو الأعلام.",
+    "explanation": "القضاة يشيرون إلى التسجيل فوراً بمبادرتهم بالأعلام أو أدوات التسجيل.",
     "reference": {
       "article": "15.4.1-15.4.2",
       "page": "30"
@@ -996,10 +996,10 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يتكون طاقم التحكيم من حكم وأربع قضاة ومراقب مباراة ومسجل نقاط.",
+    "explanation": "مدير البساط ومساعدوه من طاقم إدارة الملعب، وليسوا مكونات طاقم تحكيم المباراة.",
     "reference": {
-      "article": "4.1.1",
-      "page": "13"
+      "article": "4.1.1; 4.3.1",
+      "page": "13-14"
     }
   },
   {
@@ -1013,7 +1013,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "طاقم التحكيم يتكون من حكم وأربعة قضاة وكانسا ومشرف تسجيل، ويضاف قاضي مراجعة فيديو عند استخدامها؛ فالعبارة أغفلت مشرف التسجيل.",
+    "explanation": "الطاقم يضم أيضاً مشرف التسجيل، ويضاف قاضي مراجعة الفيديو عند استخدامها.",
     "reference": {
       "article": "4.1.1",
       "page": "13"
@@ -1021,18 +1021,18 @@
   },
   {
     "id": 61,
-    "arabic": "إذا وجد اللاعب لايرتدى واقى الأسنان بعد بداية المباراة فسيتم اقصاء هذا اللاعب.",
+    "arabic": "إذا وجد اللاعب لايرتدى واقى الأسنان بعد بداية المباراة فسيتم إقصاء هذا اللاعب.",
     "english": "If after the bout has started an Athlete is found not to be wearing a gum-shield the contestant will be disqualified.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "واقي الأسنان إجباري، وعدم ارتدائه يؤدي إلى الإقصاء.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "غياب واقي الأسنان لا يؤدي تلقائياً إلى الإقصاء؛ الواقي إلزامي ويطبق إجراء تصحيح المعدات وفق القانون.",
     "reference": {
-      "article": "2.2.7.2",
+      "article": "2.2.7; 2.2.14",
       "page": "7"
     }
   },
@@ -1047,9 +1047,9 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الحكم هو المسؤول عن إعطاء الأوامر والإعلانات.",
+    "explanation": "الحكم هو صاحب جميع الأوامر والإعلانات.",
     "reference": {
-      "article": "15.3.1.2",
+      "article": "15.3.1(2)",
       "page": "29"
     }
   },
@@ -1064,7 +1064,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "مدة المباراة دقيقة ونصف للفئات العمرية تحت 14 سنة.",
+    "explanation": "مدة مباريات تحت 14 سنة والأصغر دقيقة ونصف.",
     "reference": {
       "article": "5.1",
       "page": "14"
@@ -1072,7 +1072,7 @@
   },
   {
     "id": 64,
-    "arabic": "إذا أشار ثلاثة قضاة بتسجيل ل (أكا) فيجب على الحكم إيقاف المباراة حتى إذا كان يعتقد أنهم مخطئين.",
+    "arabic": "إذا أشار ثلاثة قضاة بتسجيل ل )أكا( فيجب على الحكم إيقاف المباراة حتى إذا كان يعتقد أنهم مخطئين.",
     "english": "If three Judges signal a score for AKA, the Referee must stop the bout even if he believes they are mistaken.",
     "type": "boolean",
     "options": [
@@ -1081,7 +1081,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يجب على الحكم اتباع أغلبية القضاة وإيقاف المباراة.",
+    "explanation": "إشارة ثلاثة قضاة تتضمن أغلبية ملزمة بإيقاف المباراة وإعلان القرار.",
     "reference": {
       "article": "12.1.1",
       "page": "22"
@@ -1098,7 +1098,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "أغلبية القضاة (2 أو أكثر) تستوجب إيقاف المباراة.",
+    "explanation": "عند إشارة قاضيين أو أكثر لنفس اللاعب يجب إيقاف المباراة.",
     "reference": {
       "article": "12.1.1",
       "page": "22"
@@ -1115,7 +1115,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يبدأ الوقت بإشارة البدء، ويتوقف عند يامي أو إشارة قاضيين أو أكثر إلكترونياً بوجود تسجيل أو عند انتهاء الوقت؛ لذلك العبارة ناقصة.",
+    "explanation": "يتوقف التوقيت أيضاً عند إشارة قاضيين أو أكثر إلكترونياً بوجود تسجيل، وليس فقط عند يامي أو نهاية الوقت.",
     "reference": {
       "article": "5.3",
       "page": "14"
@@ -1132,15 +1132,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "المكوّن الصحيح هو مشرف التسجيل وليس مسجل النقاط؛ ومسجل النقاط من الطاقم المساعد وليس من طاقم التحكيم المحدد في المادة 4.1.1.",
+    "explanation": "المسمى القانوني هو مشرف التسجيل وليس مسجل النقاط ضمن تكوين طاقم التحكيم.",
     "reference": {
-      "article": "4.1.1 / 4.3.1",
-      "page": "13-14"
+      "article": "4.1.1",
+      "page": "13"
     }
   },
   {
     "id": 68,
-    "arabic": "عندما يسقط اللاعب أو ينزلق ويكون جذعه غير ملامس للأرض ويتم التسجيل فيه فورا فسيمكن خصمه إيبون.",
+    "arabic": "عندما يسقط اللاعب أو ينزلق ويكون جذعه غير ملامس للأرض ويتم التسجيل فيه فورا فسيمنح خصمه ايبون.",
     "english": "When an Athlete slips and falls with the torso not touching the Tatami and is immediately scored upon the opponent will be awarded Ippon.",
     "type": "boolean",
     "options": [
@@ -1149,7 +1149,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "التسجيل في لاعب غير ملامس جذعه للأرض يستحق إيبون.",
+    "explanation": "إذا كان الخصم ساقطاً وأصيب فوراً بتقنية مستوفية للمعايير يمنح إيبون، مع مراعاة استثناء هيزا-جامي.",
     "reference": {
       "article": "8.6",
       "page": "17"
@@ -1166,7 +1166,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن للمدرب أو الممثل الرسمي للفريق تقديم الاعتراض.",
+    "explanation": "يحق للمدرب أو الممثل الرسمي للاتحاد الوطني تقديم الاعتراض.",
     "reference": {
       "article": "13.1.2",
       "page": "25"
@@ -1183,7 +1183,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إذا لم يسمع الحكم إشارة نهاية الوقت فإن مشرف التسجيل هو من يطلق صافرته، وليس مراقب المباراة كانسا.",
+    "explanation": "مشرف التسجيل هو الذي يطلق الصافرة إذا لم يسمع الحكم إشارة نهاية الوقت، وليس كانسا.",
     "reference": {
       "article": "15.6.2",
       "page": "31"
@@ -1200,15 +1200,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يجب أداء التحية في بداية ونهاية المباراة.",
+    "explanation": "توجد تحية في البداية والنهاية، ويشارك طاقم التحكيم أيضاً في التحية الرسمية للدور.",
     "reference": {
-      "article": "7.4",
+      "article": "7.2; 7.4",
       "page": "15"
     }
   },
   {
     "id": 72,
-    "arabic": "في مباريات الفردى عندما يترك اللاعب المباراه باختياره فسيعطى كيكن وثمان نقاط إضافية لخصمه.",
+    "arabic": "فى مباريات الفردى عندما يترك اللاعب المباراه باختياره فسيعطى كيكن وثمان نقاط إضافية لخصمه.",
     "english": "In individual bouts an Athlete who withdraws voluntarily from the bout is declared KIKEN and an extra eight points are awarded to the opponent.",
     "type": "boolean",
     "options": [
@@ -1217,7 +1217,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "نتيجة كيكن في مباريات الفرق تكون 8-0، أما في المباريات الفردية بدوري المجموعات فتكون 4-0؛ لذا لا تُمنح ثماني نقاط في كل مباراة فردية.",
+    "explanation": "في الفردي بنظام الدوري تسجل نتيجة كيكن 4-0، أما 8-0 فتطبق في مباريات الفرق.",
     "reference": {
       "article": "6.2",
       "page": "15"
@@ -1225,7 +1225,7 @@
   },
   {
     "id": 73,
-    "arabic": "الإتنباه هو حالة من استمرارية الإستعداد الذي يستمر بعد تنفيذ التكنيك.",
+    "arabic": "الإنتباه هو حالة من استمرارية الإستعداد الذي يستمر بعد تنفيذ التكنيك",
     "english": "Awareness is the state of continued commitment, which endures after the technique has landed.",
     "type": "boolean",
     "options": [
@@ -1234,16 +1234,16 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الإتنباه من معايير التسجيل ويعني الاستمرارية بعد التنفيذ.",
+    "explanation": "استمرارية الانتباه تعني بقاء الالتزام والانتباه للخصم بعد تنفيذ التقنية.",
     "reference": {
-      "article": "8.5.4",
+      "article": "8.5(4)",
       "page": "16"
     }
   },
   {
     "id": 74,
-    "arabic": "إذا قامت لجنة التنظيم بفحص معدات اللاعبين قبل دخول الملعب فظل مسؤولية الكاسا أن يتأكد أن المعدات مطابقة للقانون.",
-    "english": "If the organizer has a check-up of equipment before line-up, it is still KANSA ́S responsibility to ensure that the equipment is in accordance with the rules.",
+    "arabic": "إذا قامت لجنة التنظيم بفحص معدات اللاعبين قبل دخول الملعب فتظل مسؤولية الكانسا أن يتأكد أن المعدات مطابقة للقانون.",
+    "english": "If the organizer has a check-up of equipment before line-up, it is still KANSA´S responsibility to ensure that the equipment is in accordance with the rules.",
     "type": "boolean",
     "options": [
       "صحيح",
@@ -1251,15 +1251,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "فحص المعدات قبل المباراة من اختصاص مساعدي الكانسا، وتصبح مسؤولية الكانسا مباشرة فقط عند عدم وجودهما؛ ولا يلغي فحص المنظم هذه المسؤولية الإجرائية.",
+    "explanation": "عند وجود مساعدي كانسا تكون مسؤولية فحص المعدات عليهم؛ ويتولاها كانسا فقط عند عدم وجودهم.",
     "reference": {
-      "article": "4.3.2 / 15.5.3",
-      "page": "14 / 30"
+      "article": "4.3.2; 15.5.3",
+      "page": "14, 30"
     }
   },
   {
     "id": 75,
-    "arabic": "اللاعب الموجود داخل الملعب يستطيع التسجيل في لاعب خارج الملعب.",
+    "arabic": "اللاعب الموجود داخل الملعب يستطيع التسجيل فى لاعب خارج الملعب.",
     "english": "An Athlete who stays within the match area may score on an Athlete outside the match area.",
     "type": "boolean",
     "options": [
@@ -1268,7 +1268,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمكن للاعب داخل الملعب التسجيل على لاعب خرج منه.",
+    "explanation": "يجوز للاعب داخل الملعب التسجيل على خصم خارج الملعب.",
     "reference": {
       "article": "9.1.3",
       "page": "18"
@@ -1276,7 +1276,7 @@
   },
   {
     "id": 76,
-    "arabic": "أتوشي باراكو تعني \"تبقى 15 ثانية من المباراة\".",
+    "arabic": "أتوشى باراكو تعنى 15 ثانية متبقية من المباراة.",
     "english": "ATOSHI BARAKU means “15 seconds of bout time remaining”.",
     "type": "boolean",
     "options": [
@@ -1285,7 +1285,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "أتوشي باراكو تعني تبقى 15 ثانية من المباراة.",
+    "explanation": "أتوشي باراكو هو إعلان بقاء 15 ثانية.",
     "reference": {
       "article": "5.4",
       "page": "15"
@@ -1293,7 +1293,7 @@
   },
   {
     "id": 77,
-    "arabic": "أتوشي باراكو تعني \"تبقى 10 ثوان من المباراة\".",
+    "arabic": "أتوشى باراكو تعنى 10 ثوان متبقية من المباراة.",
     "english": "ATOSHI BARAKU means “10 seconds of bout time remaining”.",
     "type": "boolean",
     "options": [
@@ -1302,7 +1302,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "أتوشي باراكو تعني 15 ثانية وليس 10.",
+    "explanation": "أتوشي باراكو تعني بقاء 15 ثانية لا 10 ثوان.",
     "reference": {
       "article": "5.4",
       "page": "15"
@@ -1310,7 +1310,7 @@
   },
   {
     "id": 78,
-    "arabic": "لمس الجلد للحلق مسموح فقط في منافسات الرجال.",
+    "arabic": "لمس الجلد فى الحلق مسموح به فقط فى مباريات الرجال.",
     "english": "A “skin touch” to the throat is allowed only in Senior competition.",
     "type": "boolean",
     "options": [
@@ -1319,7 +1319,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "ممنوع أي تلامس جسدي للحلق في جميع الفئات.",
+    "explanation": "يحظر أي تلامس جسدي مع الحلق في جميع المراحل.",
     "reference": {
       "article": "8.8",
       "page": "17"
@@ -1327,7 +1327,7 @@
   },
   {
     "id": 79,
-    "arabic": "إذا لم تكن هناك نقاط في نهاية مباراة الفرق، سيدعو الحكم للهانتي.",
+    "arabic": "إذا لم يكن هناك نقاط فى نهاية المباراة الفردية فى مباريات الجماعى فسينادى الحكم هانتي.",
     "english": "If there are no points at the end of a bout in team matches the Referee will call for HANTEI.",
     "type": "boolean",
     "options": [
@@ -1336,15 +1336,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "في مباريات الفرق، يتم تحديد الفائز بعدد المباريات الفردية، والهانتي يستخدم في المباراة الفاصلة.",
+    "explanation": "المباراة الفردية العادية ضمن الفرق قد تنتهي بهيكي واكي؛ هانتي يستخدم فقط في المباراة الفاصلة.",
     "reference": {
-      "article": "12.5.2 / 12.5.3",
-      "page": "24"
+      "article": "12.2.4-12.2.6",
+      "page": "22"
     }
   },
   {
     "id": 80,
-    "arabic": "الصدمة الزائدة بعد الفشل المتكرر في التصدي تعتبر من الموبوبي.",
+    "arabic": "الإصطدام الزائد بعد تكرار فشل الصد يعتبر موبوبى.",
     "english": "Excessive contact after repeated failure to block is a consideration for MUBOBI.",
     "type": "boolean",
     "options": [
@@ -1353,7 +1353,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "عدم حماية النفس (موبوبي) يعتبر من الأخطاء.",
+    "explanation": "تكرار الفشل في الدفاع قد يعد موبوبي لأنه يعرض اللاعب نفسه للإصابة.",
     "reference": {
       "article": "10.4.14",
       "page": "20"
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 81,
-    "arabic": "يمكن معاقبة اللاعب على تضخيم الإصابة حتى لو كانت هناك إصابة حقيقية.",
+    "arabic": "يمكن معاقبة اللاعب على التضخيم حتى لو كانت هناك إصابة فعلية.",
     "english": "An Athlete may be penalised for exaggeration even when there is an actual injury.",
     "type": "boolean",
     "options": [
@@ -1370,7 +1370,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "تضخيم الإصابة يستوجب عقوبة حتى لو كانت الإصابة حقيقية.",
+    "explanation": "يمكن معاقبة التضخيم حتى مع وجود إصابة فعلية.",
     "reference": {
       "article": "10.4.4",
       "page": "19"
@@ -1378,7 +1378,7 @@
   },
   {
     "id": 82,
-    "arabic": "الحكم يعلن الفائز \"أو (أكا) نو كاتشي\"، وإذا لزم الأمر، يكسر التعادل في حالة الهانتي.",
+    "arabic": "الحكم يعلن الفائز \" أكا / آو نوكاتشي وإذا إقتضى الأمر يكسر التعادل فى حالة الهانتى.",
     "english": "The Referee declare the winner; “AO (AKA) NO KACHI”, and if necessary, break the tie in case of HANTEI.",
     "type": "boolean",
     "options": [
@@ -1387,15 +1387,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الحكم يعلن الفائز ويكسر التعادل بالهانتي.",
+    "explanation": "الحكم يعلن الفائز ويكسر تعادل تصويت هانتي عند الضرورة.",
     "reference": {
-      "article": "7.9 / 12.2.7",
-      "page": "16 / 23"
+      "article": "12.2.7; 15.3.1",
+      "page": "23, 29"
     }
   },
   {
     "id": 83,
-    "arabic": "في حالة التعادل في النقاط في نهاية مباراة غير محسومة، سيقوم طاقم الحكام (الحكم والأربع قضاة) بتحديد الفائز بالهانتي.",
+    "arabic": "عندما يكون هناك تعادل فى نهاية مباراة غير محسومة فسيقرر طاقم الحكام ) الحكم والقضاة ( النتيجة بالتصويت هانتى.",
     "english": "In the event of a tied score at the end of an inconclusive bout the Referee Panel (the Referee and the four Judges) will decide the bout by HANTEI.",
     "type": "boolean",
     "options": [
@@ -1404,7 +1404,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا يُستخدم هانتي في كل تعادل؛ ففي مباريات الدوري والمباريات الفردية العادية ضمن الفرق قد يعلن الحكم هيكي واكي، ويقتصر هانتي في الفرق على المباراة الفاصلة.",
+    "explanation": "تطبق أولاً معايير السنشو ثم عدد الإيبون والوازاري، كما أن مباريات الدوري والفرق قد تنتهي بالتعادل؛ لذلك لا يطبق هانتي في كل تعادل.",
     "reference": {
       "article": "12.2.3-12.2.6",
       "page": "22"
@@ -1412,7 +1412,7 @@
   },
   {
     "id": 84,
-    "arabic": "عندما يصدر طاقم الحكام قراراً لا يتوافق مع قوانين المنافسات، سوف يطلق مراقب المباراة (الكنسا) صافرته فوراً.",
+    "arabic": "عندما يقوم طاقم التحكيم بقرار مخالف للقانون فسيطلق مراقب المبارة صافرته فورا.",
     "english": "When the Referee Panel has made a decision not in accordance with the Rules of Competition, the Match Supervisor (KANSA) will immediately blow his whistle.",
     "type": "boolean",
     "options": [
@@ -1421,15 +1421,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يتدخل الكنسا بالصافرة عند مخالفة القوانين.",
+    "explanation": "كانسا يطلق الصافرة فوراً إذا خالفت قرارات الطاقم قانون المنافسات.",
     "reference": {
-      "article": "15.5.1 / 15.5.4",
+      "article": "15.5.1",
       "page": "30"
     }
   },
   {
     "id": 85,
-    "arabic": "لا ينبغي معاقبة اللاعب لكونه منحنياً (فقدان التنفس نتيجة لتكنيك) أو لمجرد رد فعله على صدمة حتى لو استحق التكنيك نقطة من الخصم.",
+    "arabic": "لاينبغى معاقبة اللاعب المنحنى والفاقد لنفسه بسبب تكنيك أو أظهر رد فعل بسيط لضربة حتى لو كانت الضربة تستحق نقطة للمنافس.",
     "english": "An Athlete should not be penalized for being winded (loss of breath as a consequence of a technique) or simply reacting to an impact even if the technique merited a point by the opponent.",
     "type": "boolean",
     "options": [
@@ -1438,7 +1438,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "فقدان التنفس أو رد الفعل الطبيعي لا يعتبر خطأً للمتلقى.",
+    "explanation": "فقدان التنفس أو مجرد رد الفعل لا يستوجب عقوبة بذاته.",
     "reference": {
       "article": "8.7",
       "page": "17"
@@ -1446,7 +1446,7 @@
   },
   {
     "id": 86,
-    "arabic": "في مباريات الفرق لا توجد مباراة إضافية.",
+    "arabic": "فى مباريات الجماعى لاتوجد مباراة فاصلة.",
     "english": "In team matches there is no extra bout.",
     "type": "boolean",
     "options": [
@@ -1455,7 +1455,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "توجد مباراة إضافية في مباريات الفرق لتحديد الفائز.",
+    "explanation": "تقام مباراة فاصلة إذا تساوى الفريقان في عدد الانتصارات والنقاط.",
     "reference": {
       "article": "12.5.2",
       "page": "24"
@@ -1472,7 +1472,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "في الهجمة المركبة، يحتسب أعلى تكنيك مسجل بغض النظر عن الترتيب.",
+    "explanation": "في المجموعة الفعالة تحتسب التقنية الأعلى نقاطاً بغض النظر عن ترتيبها.",
     "reference": {
       "article": "8.3",
       "page": "16"
@@ -1480,7 +1480,7 @@
   },
   {
     "id": 88,
-    "arabic": "اللاعبون الذين يظهرون على البساط بأداة غير معتمدة أو بدلة كاراتيه غير مطابقة سيمنحون دقيقة واحدة لتعديل الزي.",
+    "arabic": "اللاعبون الذى يظهرون على البساط بأداة غير معتمدة أو بدلة كاراتيه غير مطابقة سيمنحون دقيقة واحدة لتعديل الزي.",
     "english": "Athletes that appear at the competition area with unauthorized equipment or irregular Karate-Gi will be given one minute to correct the attire.",
     "type": "boolean",
     "options": [
@@ -1489,7 +1489,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمنحون دقيقتين لتعديل الزي، وليس دقيقة واحدة.",
+    "explanation": "المهلة الممنوحة لتصحيح الزي أو المعدات دقيقتان.",
     "reference": {
       "article": "2.2.14",
       "page": "7"
@@ -1497,7 +1497,7 @@
   },
   {
     "id": 89,
-    "arabic": "اللاعب المنحني نتيجة لضربة يسمح له بوقت لالتقاط نفسه قبل استئناف المباراة.",
+    "arabic": "اللاعب المنحنى نتيجة لضربة يسمح له بوقت لالتقاط نفسه قبل استئناف المباراة.",
     "english": "Athletes that are winded as a result of an impact should be allowed time to catch their breath before the bout is resumed.",
     "type": "boolean",
     "options": [
@@ -1506,7 +1506,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يسمح للاعب المنحني بالتقاط أنفاسه.",
+    "explanation": "ينبغي منح اللاعب الذي فقد أنفاسه بسبب اصطدام وقتاً قصيراً لاستعادتها.",
     "reference": {
       "article": "10.4.3",
       "page": "19"
@@ -1514,7 +1514,7 @@
   },
   {
     "id": 90,
-    "arabic": "تعرف منطقة الجودان بأنها الأكتاف ومنطقة فوق عظمة الترقوة.",
+    "arabic": "تعرف منطقة الجودان بأنها الأكتاف ومنطقة مافوق عظمة الترقوة.",
     "english": "JODAN is described as the shoulders and the area above the collar bone.",
     "type": "boolean",
     "options": [
@@ -1523,7 +1523,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الجودان هي المنطقة فوق عظمة الترقوة، والأكتاف ليست ضمنها.",
+    "explanation": "الجودان هو المنطقة أعلى عظمة الترقوة، والكتف نفسه مستبعد من منطقة التسجيل.",
     "reference": {
       "article": "8.4",
       "page": "16"
@@ -1531,7 +1531,7 @@
   },
   {
     "id": 91,
-    "arabic": "تمنح إيبون للركالت في منطقة الجودان وأي تكنيك يسجل في اللاعب الذي لمس أي جزء من جسده البساط بخلاف القدمين.",
+    "arabic": "تمنح إيبون للركلات فى منطقة الجودان وأى تكنيك يسجل فى اللاعب الذى لامس أى جزء من جسده البساط بخلاف القدمين.",
     "english": "IPPON is awarded for JODAN kicks or any techniques against an opponent whose any part of the body other than the feet is in contact with the TATAMI.",
     "type": "boolean",
     "options": [
@@ -1540,7 +1540,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الإيبون يُمنح عند ملامسة أي جزء من جسم الخصم للبُساط غير القدمين، لكن توجد حالة مستثناة هي هيزا-جامي؛ لذلك صيغة «أي جزء» ليست صحيحة بلا استثناء.",
+    "explanation": "يوجد استثناء وضع هيزا-جامي، أي لمس ركبة واحدة للبساط أثناء تنفيذ التقنية.",
     "reference": {
       "article": "8.6",
       "page": "17"
@@ -1548,7 +1548,7 @@
   },
   {
     "id": 92,
-    "arabic": "هانسكوتشوي سوف تعطى للتظاهر بالإصابة.",
+    "arabic": "هانسكوتشيوي سوف تعطى للتظاهر بلإصابة.",
     "english": "HANSOKU CHUI will be given for feigning of injury.",
     "type": "boolean",
     "options": [
@@ -1557,7 +1557,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "جزاء ادعاء الإصابة يختلف حسب شدته: تشوي كحد أدنى، وهانسكوتشوي للتظاهر الواضح، وشيكاكو للحالات الأشد؛ لذلك ليس دائماً هانسكوتشوي.",
+    "explanation": "أي ادعاء للإصابة يبدأ على الأقل بتشوي؛ هانسكوتشوي يطبق عند الادعاء الواضح أو عند ادعاء إصابة من تقنية احتسبت تسجيلاً.",
     "reference": {
       "article": "10.4.5",
       "page": "19"
@@ -1574,15 +1574,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "تضخيم الإصابة الواضح يعطى هانسكوتشوي، والتضخيم الجسيم يعطى هانسكو أو شيكاكو.",
+    "explanation": "التضخيم البسيط يبدأ بتشوي، وليس هانسكو من أول مرة.",
     "reference": {
-      "article": "10.4.4 / 10.4.5",
+      "article": "10.4.4",
       "page": "19"
     }
   },
   {
     "id": 94,
-    "arabic": "فقدان التنفس من اللاعب المتلقي صدمة أو خبطة بعد أن يسجل فيه تكنيك في منطقة الشودان يعني قلة التحكم.",
+    "arabic": "فقدان التنفس من اللاعب المتلقى صدمة أو خبطة بعد أن يسجل فيه تكنيك فى منطقة الشودان يعنى قلة التحكم.",
     "english": "A loss of breath by the recipient of a blow after receiving a CHUDAN technique does indicate lack of control.",
     "type": "boolean",
     "options": [
@@ -1591,7 +1591,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "فقدان التنفس لا يعني بالضرورة قلة التحكم، قد يكون رد فعل طبيعي.",
+    "explanation": "فقدان التنفس لا يعني بذاته أن تقنية الشودان كانت غير متحكم فيها.",
     "reference": {
       "article": "8.7",
       "page": "17"
@@ -1599,7 +1599,7 @@
   },
   {
     "id": 95,
-    "arabic": "يمكن اعطاء هانسكو مباشرة للاعب لتضخيم أثر الإصابة.",
+    "arabic": "يمكن إعطاء هانسكو مباشرة للاعب لتضخيم أثر الإصابة.",
     "english": "An Athlete can be given Hansoku directly for exaggerating the effects of injury.",
     "type": "boolean",
     "options": [
@@ -1608,7 +1608,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "التضخيم الجسيم يمكن أن يعاقب بهانسكو مباشرة.",
+    "explanation": "التضخيم الأشد قد يعاقب بهانسكو مباشرة.",
     "reference": {
       "article": "10.4.4",
       "page": "19"
@@ -1616,7 +1616,7 @@
   },
   {
     "id": 96,
-    "arabic": "التكنيك حتى ولو كان صحيحا ووصل بعد الأمر بإيقاف المباراة لايمكن احتسابه ومن الممكن أن يؤدي لعقوبة على المهاجم.",
+    "arabic": "التكنيك حتى ولو كان صحيحا ووصل بعد الأمر بإيقاف المباراة لايمكن إحتسابه ومن الممكن أن يؤدى لعقوبة على المهاجم.",
     "english": "A technique even if effective, delivered after an order to suspend or halt the bout shall not be scored and may result in a penalty being imposed on the offender.",
     "type": "boolean",
     "options": [
@@ -1625,15 +1625,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "التسجيل بعد يامي لا يحتسب وقد يعاقب المهاجم.",
+    "explanation": "التقنية بعد أمر الإيقاف لا تحتسب وقد يعاقب منفذها.",
     "reference": {
-      "article": "8.11.1",
+      "article": "8.11",
       "page": "17"
     }
   },
   {
     "id": 97,
-    "arabic": "ركالت الجودان للناشئين يسمح لها بلمس الجلد إذا لم تحدث إصابة.",
+    "arabic": "ركلات الجودان للناشئين يسمح لها بلمس الجلد إذا لم تحدث إصابة.",
     "english": "In Cadet Kumite JODAN kicks are allowed to make a “skin touch” provided there is no injury.",
     "type": "boolean",
     "options": [
@@ -1642,15 +1642,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يسمح بلمس الجلد لركلات الجودان في فئة الناشئين.",
+    "explanation": "يسمح بلمس الجلد في ركلات جودان للناشئين بشرط عدم الإصابة.",
     "reference": {
-      "article": "8.8",
+      "article": "8.8-8.9",
       "page": "17"
     }
   },
   {
     "id": 98,
-    "arabic": "إذا حدث خطأ في القرعة وتنافس اللاعب الخطأ فلا يمكن تغيير ذلك فيما بعد.",
+    "arabic": "إذا حدث خطأ فى القرعة وتنافس اللاعب الخطأ فلا يمكن نغيير ذلك فيما بعد.",
     "english": "If there is an error in charting and the wrong Athletes compete this cannot be changed afterwards.",
     "type": "boolean",
     "options": [
@@ -1659,7 +1659,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إذا حدث خطأ في البولة، تعتبر المباراة باطلة ويجب إعادة المنافسة الصحيحة.",
+    "explanation": "المباراة التي جرت بين لاعبين أو فريقين خطأ تعتبر باطلة وتلغى، ويصحح الخطأ.",
     "reference": {
       "article": "3.6.7",
       "page": "11"
@@ -1667,7 +1667,7 @@
   },
   {
     "id": 99,
-    "arabic": "تسجيل صحيح يسجل في نفس توقيت انتهاء المباراة والمعلن عنه بالصافرة يحتسب تسجيل صحيحا.",
+    "arabic": "تسجيل صحيح يسجل فى نفس توقيت انتهاء المباراة والمعلن عنه بالصافرة يحتسب تسجيلا صحيحا",
     "english": "An effective technique delivered at the same time as the end of the bout is signalled by the buzzer is valid.",
     "type": "boolean",
     "options": [
@@ -1676,7 +1676,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "التسجيل في لحظة نهاية الوقت يحتسب إذا كان صحيحاً.",
+    "explanation": "التقنية الصحيحة المنفذة في لحظة إشارة نهاية الوقت صحيحة.",
     "reference": {
       "article": "8.10",
       "page": "17"
@@ -1684,7 +1684,7 @@
   },
   {
     "id": 100,
-    "arabic": "إذا أصيب اللاعب نتيجة خطأ شخصي (موبوبي) فلن يعاقب طاقم التحكيم الخصم.",
+    "arabic": "إذا أصيب اللاعب نتيجة خطؤه الشخصى ) موبوبى ( فلن يعاقب طاقم التحكيم الخصم.",
     "english": "If an Athlete is injured and it is considered to be their own fault (MUBOBI), the Referee will decline to give a warning or penalty to the opponent.",
     "type": "boolean",
     "options": [
@@ -1693,15 +1693,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا يعاقب الخصم إذا كانت الإصابة بسبب خطأ المصاب نفسه.",
+    "explanation": "إذا كانت الإصابة بسبب موبوبي فلا يعاقب الخصم على الإصابة التي تسبب فيها اللاعب لنفسه.",
     "reference": {
-      "article": "10.4.2 / 10.4.14",
-      "page": "19 / 20"
+      "article": "10.4.2; 10.4.14",
+      "page": "19-20"
     }
   },
   {
     "id": 101,
-    "arabic": "الكناسا ليس له تصويت أو سلطة في الأمور التقييمية مثل كون التسجيل صحيحاً أم لا.",
+    "arabic": "الكانسا ليس له تصويت أو سلطة فى الأمور التقييمية مثل كون التسجيل صحيحا ام لا.",
     "english": "KANSA has no vote or authority in matters of judgments such as whether a score was valid or not.",
     "type": "boolean",
     "options": [
@@ -1710,15 +1710,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الكنسا ليس له صلاحية في تقييم صحة التسجيل.",
+    "explanation": "كانسا لا يصوت ولا يقرر ما إذا كان التسجيل صحيحاً.",
     "reference": {
-      "article": "15.5.5.2",
+      "article": "15.5.5",
       "page": "30"
     }
   },
   {
     "id": 102,
-    "arabic": "يوكو تمنح دائماً لضربات اليد في الظهر.",
+    "arabic": "يوكو تمنح دائما لضربات اليد فى الظهر.",
     "english": "YUKO is always awarded for punches on the back.",
     "type": "boolean",
     "options": [
@@ -1727,9 +1727,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا تُمنح يوكو لمجرد أن اللكمة أصابت الظهر؛ يجب أن تكون المنطقة هدفاً صحيحاً وأن تستوفي التقنية معايير التسجيل الستة.",
+    "explanation": "يمكن احتساب اللكمة في الظهر فقط إذا أصابت منطقة تسجيل مستوفية للمعايير؛ ليست يوكو دائماً.",
     "reference": {
-      "article": "8.4-8.6",
+      "article": "8.4; 8.6",
       "page": "16-17"
     }
   },
@@ -1744,15 +1744,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لمس الجلد مسموح لجميع الفئات العمرية، مع مسافات مختلفة للفئات الصغرى.",
+    "explanation": "لمس الجلد مسموح لجميع المراحل العمرية، وليس مقصوراً على 16 سنة فأكبر.",
     "reference": {
-      "article": "8.8",
+      "article": "8.9",
       "page": "17"
     }
   },
   {
     "id": 104,
-    "arabic": "اللاعب الذي لا يطيع أوامر الحكم سيعطى شيكاكو.",
+    "arabic": "اللاعب الذى لايطيع أوامر الحكم سيعطى شيكاكو.",
     "english": "An Athlete who does not obey the Referee's orders will be given SHIKKAKU.",
     "type": "boolean",
     "options": [
@@ -1761,7 +1761,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "رفض اتباع تعليمات الحكم أو إظهار عدم الانضباط يعاقب مباشرة بقرار شيكاكو.",
+    "explanation": "عدم طاعة أوامر الحكم يستوجب شيكاكو مباشرة.",
     "reference": {
       "article": "10.4.17",
       "page": "20"
@@ -1769,7 +1769,7 @@
   },
   {
     "id": 105,
-    "arabic": "القاضي القائم بالتسجيل سيأمر الحكم بإيقاف المباراة إذا رأى انتهاكاً لقوانين المنافسات.",
+    "arabic": "القاضى القائم بالتسجيل سيأمر الحكم بإيقاف المباراة إذا رأى انتهاكا لقوانين المنافسات.",
     "english": "The Score Judge will order the Referee to halt the bout when he sees a contravention of the Rules of Competition.",
     "type": "boolean",
     "options": [
@@ -1778,15 +1778,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "مراقب المباراة (الكنسا) هو من يطلق الصافرة لتنبيه الحكم، وليس مسجل النقاط.",
+    "explanation": "كانسا هو من ينبه إلى مخالفة القانون، أما مشرف التسجيل فلا يأمر الحكم بإيقاف المباراة لهذا السبب.",
     "reference": {
-      "article": "15.5.1 / 15.5.4",
+      "article": "15.5.1",
       "page": "30"
     }
   },
   {
     "id": 106,
-    "arabic": "إذا تم تسجيل هجمة مركبة الأولى تحتسب نقطة والثانية تحتسب عقوبة فينبغي أن يعطى اللاعب كالهما.",
+    "arabic": "إذا تم تسجيل هجمة مركبة الأولى تحتسب نقطة والثانية تحتسب عقوبة فينبغى أن يعطى اللاعب كلاهما.",
     "english": "If in a combination, the first technique merits a YUKO and the second merits a penalty, both shall be given.",
     "type": "boolean",
     "options": [
@@ -1795,9 +1795,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إذا أعقب التكنيك المسجل فعل ممنوع أو مخالفة فلا يُحتسب التسجيل، مع توقيع التحذير أو العقوبة المناسبة عند اللزوم.",
+    "explanation": "إذا أعقبت تقنية التسجيل مخالفة أو اصطدام مسبب لإصابة فلا يحتسب التسجيل وتطبق المخالفة.",
     "reference": {
-      "article": "8.11.6",
+      "article": "8.11(4),(6)",
       "page": "17"
     }
   },
@@ -1810,9 +1810,9 @@
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "لمس الجلد هو لمس خفيف بدون انتقال طاقة.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "التعريف هو لمس الهدف دون نقل طاقة إلى الخوذة الواقية أو رأس اللاعب، وليس إلى الجسم بصفة عامة.",
     "reference": {
       "article": "8.9",
       "page": "17"
@@ -1820,24 +1820,24 @@
   },
   {
     "id": 108,
-    "arabic": "لايمكن للاعب أن يسجل وهو مستلقٍ أرضاً.",
+    "arabic": "لايمكن للاعب أن يسجل وهو مستلقى أرضا.",
     "english": "It is not possible to score while lying on the floor.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "لا يمكن التسجيل من وضع الاستلقاء.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "لا يوجد منع مطلق من التسجيل لمجرد أن المهاجم على الأرض؛ المنع الصريح يتعلق بركل خصم مستلقٍ بشكل مسطح.",
     "reference": {
-      "article": "8.6",
-      "page": "17"
+      "article": "8.5; 9.1.1(16)",
+      "page": "16-18"
     }
   },
   {
     "id": 109,
-    "arabic": "اللاعب الذي لايرتدى الأدوات المعتمدة من الإتحاد الدولي للكاراتيه سيمنح دقيقتين للتغير إلى الأدوات المعتمدة.",
+    "arabic": "اللاعب الذى لايرتدى الأدوات المعتمدة من الإتحاد الدولى للكاراتيه سيمنح دقيقتين للتغير الى الأدوات المعتمدة.",
     "english": "An Athlete not wearing the WKF approved equipment will be given two minutes to change for the approved type.",
     "type": "boolean",
     "options": [
@@ -1846,7 +1846,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمنح اللاعب دقيقتين لتعديل الأدوات غير المعتمدة.",
+    "explanation": "يمنح اللاعب دقيقتين لتصحيح المعدات أو الزي غير المطابق.",
     "reference": {
       "article": "2.2.14",
       "page": "7"
@@ -1854,7 +1854,7 @@
   },
   {
     "id": 110,
-    "arabic": "اللاعب المصاب في الكوميتيه والذي تم إستبعاده طبقاً لقاعدة العشر ثواني لايمكن أن يشارك في منافسات الكاتا.",
+    "arabic": "اللاعب المصاب فى الكوميتيه والذى تم إستبعاده طبقا لقاعدة العشر ثوانى لايمكن أن يشارك فى منافسات الكاتا.",
     "english": "An Athlete injured in Kumite and withdrawn under the ten-second rule may not compete in the Kata competition.",
     "type": "boolean",
     "options": [
@@ -1863,7 +1863,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الإستبعاد بقاعدة العشر ثواني يمنع المشاركة في الكوميتيه فقط، وليس الكاتا.",
+    "explanation": "قاعدة العشر ثوان تسحب اللاعب من منافسات الكوميتيه في البطولة، ولا تمنعه تلقائياً من منافسات الكاتا.",
     "reference": {
       "article": "11.2.4",
       "page": "21"
@@ -1871,7 +1871,7 @@
   },
   {
     "id": 111,
-    "arabic": "اللاعب المصاب الذي قرر طبيب البطولة انه غير مؤهل للمنافسه لايمكن أن يلعب ثانية في هذه المنافسة.",
+    "arabic": "اللاعب المصاب الذى قرر طبيب البطولة انه غير مؤهل للمنافسه لايمكن أن يلعب ثانية فى هذه المنافسة.",
     "english": "An injured Athlete who has been declared unfit to fight by the Tournament Doctor cannot fight again in that competition.",
     "type": "boolean",
     "options": [
@@ -1880,9 +1880,9 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا يسمح للاعب غير المؤهل طبياً بالقتال مرة أخرى.",
+    "explanation": "اللاعب الذي يعلن الطبيب عدم أهليته لا يعود للقتال في منافسات الكوميتيه المعنية.",
     "reference": {
-      "article": "11.1.1-11.1.2 / 11.2.4",
+      "article": "11.1.1-11.1.2",
       "page": "21"
     }
   },
@@ -1897,15 +1897,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمكن معاقبة اللاعب بشيكاكو حتى بعد انتهاء المباراة.",
+    "explanation": "يمكن تطبيق شيكاكو قبل المباراة أو خلالها أو بعدها.",
     "reference": {
-      "article": "10.3.3",
-      "page": "19"
+      "article": "10.4.17",
+      "page": "20"
     }
   },
   {
     "id": 113,
-    "arabic": "مراقب المباراة له صوت في حالة الشيكاكو.",
+    "arabic": "مراقب المباراة له صوت فى حالة الشيكاكو.",
     "english": "The Match Supervisor has a vote in cases of SHIKKAKU.",
     "type": "boolean",
     "options": [
@@ -1914,9 +1914,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الكنسا ليس له تصويت في قرارات الشيكاكو، القرار للحكم بعد استشارة القضاة.",
+    "explanation": "كانسا لا يملك صوتاً في مسائل التقدير، ومنها قرار شيكاكو.",
     "reference": {
-      "article": "15.5.5.2",
+      "article": "15.5.5",
       "page": "30"
     }
   },
@@ -1931,7 +1931,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "في نظام الإقصاء تنتهي مباراة الرجال عند تحقق عدد كافٍ من الانتصارات أو النقاط، لكن في دوري المجموعات يجب استكمال جميع المباريات الفردية.",
+    "explanation": "تنتهي المباراة عند تحقق عدد كاف من الانتصارات أو النقاط، باستثناء دوري المجموعات حيث يجب استكمال جميع المباريات.",
     "reference": {
       "article": "12.5.4",
       "page": "24"
@@ -1948,7 +1948,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "في نظام الإقصاء تنتهي مباراة السيدات عند تحقق عدد كافٍ من الانتصارات أو النقاط، لكن في دوري المجموعات يجب استكمال جميع المباريات الفردية.",
+    "explanation": "الاستثناء نفسه ينطبق على فرق الإناث في دوري المجموعات؛ لا تنتهي دائماً بمجرد فوزين.",
     "reference": {
       "article": "12.5.4",
       "page": "24"
@@ -1956,7 +1956,7 @@
   },
   {
     "id": 116,
-    "arabic": "عندما يمسك اللاعب بخصمه ولايقوم بتنفيذ هجوم أو محاولة إسقاط فوراً فسينادي الحكم \"يامي\".",
+    "arabic": "عندما يمسك اللاعب بخصمه ولايقوم بتنفيذ هجوم او محاولة إسقاط فورا فسينادى الحكم \"يامي\".",
     "english": "When an Athlete seizes the opponent and does not perform an immediate technique or throw the Referee will call “YAME”.",
     "type": "boolean",
     "options": [
@@ -1965,32 +1965,32 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الإمساك دون هجوم فوري يستوجب إيقاف المباراة.",
+    "explanation": "يمرر الحكم يامي عند المسك دون تقنية أو إسقاط فوري.",
     "reference": {
-      "article": "7.10.5 / 9.1.1.11",
+      "article": "7.10(5); 9.1.1(13)",
       "page": "16-17"
     }
   },
   {
     "id": 117,
-    "arabic": "عندما يكون القاضي غير متأكد بأن الضربة وصلت فعلاً لمنطقة تسجيل فمن الممكن أن يشير بالتسجيل.",
+    "arabic": "عندما يكون القاضى غير متأكد بأن الضربة وصلت فعلا لمنطقة تسجيل فمن الممكن أن يشير بالتسجيل.",
     "english": "When a Judge is not sure that a technique actually reached a scoring area s/he may signal for the score.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "يجب أن يكون القاضي متأكداً قبل الإشارة بالتسجيل.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "يمكن للقاضي الإشارة إلى التسجيل عند تحقق المعايير حتى إن لم ير نقطة الاصطدام الفعلية بوضوح كامل.",
     "reference": {
-      "article": "15.4.2",
+      "article": "15.4.1-15.4.2",
       "page": "30"
     }
   },
   {
     "id": 118,
-    "arabic": "عندما يقوم اللاعب بفعل يسيء لهيبة وشرف رياضة الكاراتيه فسيعاقب بهانسكو.",
+    "arabic": "عندما يقوم اللاعب بفعل يسئ لهيبة وشرف رياضة الكاراتيه فسيعاقب بهانسكو.",
     "english": "An Athlete who commits an act which harms the prestige and honour of Karate-Do will be given HANSOKU.",
     "type": "boolean",
     "options": [
@@ -1999,7 +1999,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الفعل المسيء للشرف يستوجب شيكاكو (إقصاء من البطولة) وليس هانسكو.",
+    "explanation": "الفعل المسيء لشرف وهيبة الكاراتيه يستوجب شيكاكو، لا هانسكو.",
     "reference": {
       "article": "10.3.1",
       "page": "19"
@@ -2007,7 +2007,7 @@
   },
   {
     "id": 119,
-    "arabic": "عندما يعتبر تصرف اللاعب خطيراً وينتهك بشدة قواعد الأفعال الممنوعة فسيجازى اللاعب بشيكاكو.",
+    "arabic": "عندما يعتبر تصرف اللاعب خطيرا وينتهك بشدة قواعد الأفعال الممنوعة فسيجازى اللاعب بشيكاكو.",
     "english": "When an action of an Athlete is considered to be dangerous and deliberately violates the rules concerning prohibited behavior, the Athlete will be given Shikkaku.",
     "type": "boolean",
     "options": [
@@ -2016,10 +2016,10 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الانتهاك الخطير والمتعمد يستوجب شيكاكو.",
+    "explanation": "السلوك الخطير المتعمد أو الخبيث يمكن أن يستوجب شيكاكو.",
     "reference": {
-      "article": "10.3.1",
-      "page": "19"
+      "article": "10.3.1; 10.4.17",
+      "page": "19-20"
     }
   },
   {
@@ -2033,15 +2033,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "التكنيكات بعد نهاية الوقت لا تحتسب.",
+    "explanation": "التقنيات المنفذة بعد إشارة نهاية الوقت لا تحتسب؛ الصحيح هو التقنية المنفذة في لحظة الإشارة.",
     "reference": {
-      "article": "8.11.1",
+      "article": "8.10-8.11",
       "page": "17"
     }
   },
   {
     "id": 121,
-    "arabic": "التكنيكات المنفذة بطريقة صحيحة مع أو بعد \"واكاريته\" ستحتسب.",
+    "arabic": "التكنيكات المنفذة بطريقة صحيحة مع أو بعد \"واكاريتيه\" ستحتسب.",
     "english": "Correctly executed techniques executed upon or after “WAKARETE” are valid.",
     "type": "boolean",
     "options": [
@@ -2050,32 +2050,32 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "التكنيكات بعد واكاريتيه لا تحتسب.",
+    "explanation": "لا يحتسب أي تكنيك مع أو بعد واكاريتيه وقبل تسوزوكيتيه.",
     "reference": {
-      "article": "8.11.2",
-      "page": "17"
+      "article": "8.11(2); 10.1.5",
+      "page": "17-18"
     }
   },
   {
     "id": 122,
-    "arabic": "يمكن الإشارة بالنقاط حتى وإن لم يرَ القاضي النهاية الفعلية للضربة.",
+    "arabic": "يمكن الإشارة بالنقاط حتى وإن لم يرى القاضي النهاية الفعلية للضربة.",
     "english": "A point may be signaled even if the Judge cannot see the actual point of impact.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "يجب على القاضي رؤية نقطة التأثير الفعلية للإشارة.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "يجوز الإشارة للتسجيل عند توافر المعايير حتى إذا لم تظهر نقطة الاصطدام نفسها من زاوية القاضي.",
     "reference": {
-      "article": "8.4 / 15.4.2",
-      "page": "16 / 30"
+      "article": "15.4.2",
+      "page": "30"
     }
   },
   {
     "id": 123,
-    "arabic": "فى الهانتي إذا أشار ثلاثة قضاة بالفوز لأكا والرابع أشار بالفوز لآو فيجب أن يعطى الحكم الفوز لأكا.",
+    "arabic": "فى الهانتي إذا أشار ثلاثة قضاة بالفوز ل )أكا( والقاضى الرابع أشار بالفوز ل )آو( فيجب أن يعطى الحكم الفوز ل ) أكا (.",
     "english": "At HANTEI if three Judges signal victory for AKA and the fourth Judge signals victory for AO, the Referee must give victory for AKA.",
     "type": "boolean",
     "options": [
@@ -2084,7 +2084,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "قرار الأغلبية (3 من 4) يحدد الفائز في الهانتي.",
+    "explanation": "أغلبية ثلاثة قضاة لأكا تحسم هانتي لصالح أكا.",
     "reference": {
       "article": "12.2.7",
       "page": "23"
@@ -2101,15 +2101,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "السلبية لا تعطى للاعب المتقدم بالنقاط أو السنشو.",
+    "explanation": "لا تعطى السلبية للمتقدم بالنقاط أو بالسنشو.",
     "reference": {
-      "article": "9.1.1.10 / 10.4.15",
-      "page": "17 / 20"
+      "article": "9.1.1(10)",
+      "page": "17"
     }
   },
   {
     "id": 125,
-    "arabic": "يسمح فقط للمدرب المحدد للمباراة خصيصاً أن يوجه اللاعب من المكان المخصص لجلوس المدرب قريباً من الملعب.",
+    "arabic": "يسمح فقط للمدرب المحدد للمباراة خصيصا أن يوجه اللاعب من المكان المخصص لجلوس المدرب قريبا من الملعب.",
     "english": "Only the Coach designated for the specific bout is allowed to coach and guide the Athlete from the place allocated to the coach close to the competition area.",
     "type": "boolean",
     "options": [
@@ -2118,7 +2118,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "المدرب المخصص فقط له الحق في توجيه اللاعب.",
+    "explanation": "المدرب المحدد للمباراة وحده يوجه اللاعب من المكان المخصص.",
     "reference": {
       "article": "9.1.5",
       "page": "18"
@@ -2135,7 +2135,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يعلن الحكم عدم أهلية اللاعب، ثم يستدعي الطبيب، ويعطي الفوز للخصم، وليس كيكن مباشرة.",
+    "explanation": "عدم الوقوف خلال عشر ثوان يجعل اللاعب غير مؤهل ويستدعي الطبيب، لكن تحديد الفائز يكون بحسب سبب الإصابة وقد يكون هانسكو أو كيكن أو شيكاكو.",
     "reference": {
       "article": "11.2.4-11.2.5",
       "page": "21"
@@ -2143,24 +2143,24 @@
   },
   {
     "id": 127,
-    "arabic": "إذا تم رمي لاعب وهبط جزئياً خارج البساط فسينادى الحكم \"يامي\" فوراً.",
+    "arabic": "إذا تم رمى لاعب وهبط جزئيا خارج البساط فسينادى الحكم \"يامي\" فورا.",
     "english": "If an Athlete is thrown and lands partly outside the match area, the Referee will immediately call “YAME”.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "يوقف الحكم المباراة إذا هبط اللاعب خارج البساط.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "بعد الرمية يمكن إتاحة فرصة لتقنية فعالة فورية، كما لا يحتسب جوجاي إذا كان الخروج نتيجة الرمية.",
     "reference": {
-      "article": "7.10.1",
-      "page": "16"
+      "article": "7.10(6); 10.4.13",
+      "page": "16, 20"
     }
   },
   {
     "id": 128,
-    "arabic": "لايمكن للاعب الإشارة إلى المدرب برغبته في طلب مراجعة الفيديو.",
+    "arabic": "لايمكن للاعب الإشارة إلى المدرب برغبته فى طلب مراجعة الفيديو.",
     "english": "The Athlete may not signal to the Coach the wish for him/her to request a video review.",
     "type": "boolean",
     "options": [
@@ -2169,15 +2169,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن للاعب الإشارة بشكل غير ظاهر للمدرب لطلب المراجعة.",
+    "explanation": "يجوز للاعب الإشارة للمدرب بطلب المراجعة بشرط أن تكون الإشارة غير ظاهرة ولا تعطل المباراة.",
     "reference": {
-      "article": "14.4",
-      "page": "27"
+      "article": "9.1.7; 14.4",
+      "page": "18, 27"
     }
   },
   {
     "id": 129,
-    "arabic": "ينبغي فحص اللاعب خارج البساط.",
+    "arabic": "ينبغى فحص اللاعب خارج البساط.",
     "english": "The Athlete should be examined outside the tatami.",
     "type": "boolean",
     "options": [
@@ -2186,15 +2186,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يفحص اللاعب المصاب خارج البساط.",
+    "explanation": "إذا كان اللاعب قادراً بدنياً يتجه خارج البساط للفحص والعلاج.",
     "reference": {
-      "article": "11.2.2",
+      "article": "11.2.2; 11.2.4",
       "page": "21"
     }
   },
   {
     "id": 130,
-    "arabic": "يجب على الكناسا إطلاق صافرته إذا أمسك القضاة أدوات التسجيل الإلكترونية بالأيدي الخاطئة.",
+    "arabic": "يجب على الكانسا اطلاق صافرته إذا أمسك القضاة أدوات التسجيل الإلكترونية بالأيدي الخاطئة.",
     "english": "KANSA has to blow the whistle if the Judges are holding the joy sticks in the wrong hands.",
     "type": "boolean",
     "options": [
@@ -2203,15 +2203,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يتدخل الكنسا بالصافرة إذا أمسك القاضي الأداة باليد الخاطئة.",
+    "explanation": "يطلق كانسا الصافرة إذا حمل القاضي الأعلام أو أدوات التسجيل في اليد الخاطئة.",
     "reference": {
-      "article": "15.5.4.17",
+      "article": "15.5.4(17)",
       "page": "30"
     }
   },
   {
     "id": 131,
-    "arabic": "واقى الأسنان إجبارى لكل لاعبي الكوميتيه.",
+    "arabic": "واقى الأسنان إجبارى لكل لاعبى الكوميتيه.",
     "english": "Gum-shields (mouth guards) are obligatory for all Kumite contestants.",
     "type": "boolean",
     "options": [
@@ -2220,9 +2220,9 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "واقي الأسنان إجباري في الكوميتيه.",
+    "explanation": "واقي الأسنان إلزامي لجميع لاعبي الكوميتيه.",
     "reference": {
-      "article": "2.2.7",
+      "article": "2.2.7(2)",
       "page": "7"
     }
   },
@@ -2237,15 +2237,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "القانون يشترط أن يتبع الرمي تكنيك فعال فوراً، ولا يمنح مهلة ثابتة مقدارها ثانيتان للتسجيل.",
+    "explanation": "القانون يشترط أن تكون التقنية التالية للرمية فورية ولا يحدد مهلة ثابتة مقدارها ثانيتان.",
     "reference": {
-      "article": "7.10.6",
+      "article": "7.10(6)",
       "page": "16"
     }
   },
   {
     "id": 133,
-    "arabic": "إذا سجل اللاعب في خصمه بركلة جانبية قوية ودفعه خارج منطقة الملعب فينبغي على الحكم أن يعطى وازاري للاعب ولخصمه تحذير أو جزاء من التصنيف الثاني للخروج.",
+    "arabic": "إذا سجل اللاعب فى خصمة بركلة جانبية قوية ودفعه خارج منطقة الملعب فينبغى على الحكم أن يعطى وازارى للاعب ولخصمه تحذير أو جزاء من التصنيف الثانى للخروج.",
     "english": "If an Athlete scores with a strong side kick and propels the opponent out of the area, the Referee should award WAZA-ARI and give the opponent a warning or penalty for Jogai.",
     "type": "boolean",
     "options": [
@@ -2254,15 +2254,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إذا دُفع أو رُمي اللاعب خارج الملعب بواسطة الخصم فلا يُحتسب عليه جوجاي؛ ويُقيَّم التسجيل نفسه وفق معايير التسجيل.",
+    "explanation": "لا يحتسب جوجاي عندما يكون الخروج بسبب دفع أو رمية من الخصم.",
     "reference": {
-      "article": "9.1.3 / 10.4.13",
-      "page": "18 / 20"
+      "article": "9.1.3; 10.4.13",
+      "page": "18, 20"
     }
   },
   {
     "id": 134,
-    "arabic": "عندما يقدم إعتراض رسمي يجب تأخير المباريات التالية حتى يتم البت في الإعتراض.",
+    "arabic": "عندما يقدم إعتراض رسمي يجب تأخير المباريات التالية حتى يتم البت فى الإعتراض.",
     "english": "When an official protest is lodged the ensuing matches must be delayed until the result of the protest is given.",
     "type": "boolean",
     "options": [
@@ -2271,15 +2271,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا يتم تأخير المباريات إلا إذا طلبت لجنة الإعتراضات ذلك.",
+    "explanation": "يؤجل فقط الدور التالي الذي يتضمن اللاعبين المعنيين إذا كان الاعتراض في فئة جارية، وليس جميع المباريات التالية.",
     "reference": {
-      "article": "13.4.3",
-      "page": "26"
+      "article": "13.1.5",
+      "page": "25"
     }
   },
   {
     "id": 135,
-    "arabic": "سيتم إجالس كل قاضٍ في ركن من أركان البساط وخارج منطقة الأمان.",
+    "arabic": "سيتم إجلاس كل قاض فى ركن من أركان البساط وخارج منطقة الأمان.",
     "english": "Each Judge will be seated in the corners of the TATAMI and outside the safety area.",
     "type": "boolean",
     "options": [
@@ -2288,7 +2288,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "القضاة يجلسون في المنطقة المحددة، وإذا جلسوا على البساط يكونون داخل منطقة الأمان على مسافة تقارب 1.5 متر من الزوايا، وليس خارج منطقة الأمان.",
+    "explanation": "يجلس القضاة داخل منطقة الأمان قرب زوايا الملعب، لا خارج منطقة الأمان.",
     "reference": {
       "article": "1.6",
       "page": "3"
@@ -2296,19 +2296,19 @@
   },
   {
     "id": 136,
-    "arabic": "عندما يعطى الحكم تسجيلاً لتكنيك أحدث إصابة فسيشير مراقب المباراة بإيقاف المباراة.",
+    "arabic": "عندما يعطى الحكم تسجيلا لتكنيك أحدث إصابة فسيشير مراقب المباراة بإيقاف المباراة.",
     "english": "When the Referee awards a point for a technique which has caused injury the Match Supervisor should signal for the bout to be stopped.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "التكنيك الذي يسبب إصابة لا يُحتسب، وعلى الكانسا التدخل عند صدور قرار مخالف للقانون.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "لا توجد قاعدة عامة تلزم كانسا بالصفارة لمجرد أن التقنية سببت إصابة؛ يتدخل عند مخالفة القانون والحالات المحددة بالمادة 15.5.4.",
     "reference": {
-      "article": "8.11.4 / 15.5.1",
-      "page": "17 / 30"
+      "article": "10.4.2; 15.5.4",
+      "page": "19, 30"
     }
   },
   {
@@ -2322,7 +2322,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "مراقب المباراة (الكنسا) هو من يطلق الصافرة، وليس مسجل النقاط.",
+    "explanation": "مشرف التسجيل، وليس المسجل، هو الذي يطلق الصافرة عند عدم سماع الحكم لنهاية الوقت.",
     "reference": {
       "article": "15.6.2",
       "page": "31"
@@ -2330,7 +2330,7 @@
   },
   {
     "id": 138,
-    "arabic": "واكاريته لفك الإلتحام ممكن أن تعطى فى أى وقت فى المباراة.",
+    "arabic": "واكاريتيه لفك الإلتحام ممكن أن تعطى فى أى وقت فى المباراة.",
     "english": "WAKARETE for breaking up a clinch can be given at any time of the bout.",
     "type": "boolean",
     "options": [
@@ -2339,24 +2339,24 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمكن استخدام واكاريتيه في أي وقت لفك الالتحام.",
+    "explanation": "يمكن استخدام واكاريتيه لفك التحضين في أي وقت؛ القيد الزمني يخص تسوزوكيتيه.",
     "reference": {
-      "article": "10.1.2",
+      "article": "10.1.2-10.1.4",
       "page": "18"
     }
   },
   {
     "id": 139,
-    "arabic": "عندما يريد الحكم إعطاء شيكاكو فيستدعي القضاة لإستشارة مختصرة.",
+    "arabic": "عندما يريد الحكم إعطاء شيكاكو فسيستدعي القضاة لاستشارة مختصرة.",
     "english": "When the Referee wants to give SHIKKAKU she/he may call the Judges for a brief consultation.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "استدعاء القضاة (شوجو) إجباري في حالة شيكاكو.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "استدعاء القضاة في حالة شيكاكو إلزامي، وليس أمراً اختيارياً.",
     "reference": {
       "article": "10.3.4",
       "page": "19"
@@ -2364,7 +2364,7 @@
   },
   {
     "id": 140,
-    "arabic": "عندما يصاب لاعب خلال المباراة ويحتاج لعلاج طبي فسيُعطى ثلاث دقائق للعلاج وبعدها سيقرر الحكم إذا كان اللاعب غير لائق لاستكمال المباراة أو يحتاج الى وقت إضافي للعلاج.",
+    "arabic": "عندما يصاب لاعب خلال المباراة ويحتاج لعلاج طبى فسيعطى ثلاث دقائق للعلاج وبعدها سيقرر الحكم إذا كان اللاعب غير لائق لاستكمال المباراة أو يحتاج الى وقت إضافي للعلاج.",
     "english": "When an Athlete is injured during a bout in progress and needs medical treatment three minutes will be given in which to receive it, after that the Referee will decide whether the Athlete will be declared unfit to fight or whether more time will be given.",
     "type": "boolean",
     "options": [
@@ -2373,7 +2373,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمنح 3 دقائق للعلاج الطبي، ويقرر الحكم الاستمرار أو الإيقاف.",
+    "explanation": "العلاج الطبي مدته ثلاث دقائق، وبعدها يقرر الحكم عدم الأهلية أو تمديد الوقت.",
     "reference": {
       "article": "11.2.3",
       "page": "21"
@@ -2381,24 +2381,24 @@
   },
   {
     "id": 141,
-    "arabic": "اللاعب الذي يخرج من الملعب (جوجاي) قبل نهاية المباراة بأقل من 15 ثانية سيعطى \"تشوي\" على الأقل.",
+    "arabic": "اللاعب الذى يخرج من الملعب \"جوجاى\" قبل نهاية المباراة بأقل من 15 ثانية سيعطى \"تشوي\" على الأقل.",
     "english": "An Athlete who exits the area (JOGAI) with less than 15 seconds of bout time remaining will be given a minimum of CHUI.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "الخروج الذي يُعد جوجاي مخالفة تستوجب تشوي على الأقل، ما لم يكن الخروج بسبب الخصم أو بعد تسجيل محتسب.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "الخروج بقصد تجنب القتال في آخر 15 ثانية يستوجب على الأقل هانسكوتشوي، لا تشوي.",
     "reference": {
-      "article": "9.1.1.7 / 10.2.1",
-      "page": "17 / 19"
+      "article": "10.4.16",
+      "page": "20"
     }
   },
   {
     "id": 142,
-    "arabic": "لتصحيح تسجيل أعطى بالخطأ للاعب ينبغي على الحكم أن يستدير تجاه اللاعب الذي أعطاه التسجيل بالخطأ ويشير بإشارة توريماسين وبعد ذلك يعطى التسجيل للخصم.",
+    "arabic": "لتصحيح تسجيل أعطى بالخطأ للاعب ينبغى على الحكم أن يستدير تجاه اللاعب الذى أعطاه التسجيل بالخطأ ويشير بإشارة توريماسين وبعد ذلك يعطى التسجيل للخصم.",
     "english": "To correct a score given to the wrong Athlete the Referee should turn towards the Athlete given the score in error, make the sign of TORIMASEN, and then give the score to the opponent.",
     "type": "boolean",
     "options": [
@@ -2407,15 +2407,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "إشارة توريماسين تستخدم لإلغاء التسجيل الخاطئ ثم منحه للخصم الصحيح.",
+    "explanation": "يلغي الحكم التسجيل الخاطئ بتوريماسين ثم يمنح التسجيل للاعب الصحيح.",
     "reference": {
-      "article": "ملحق 2 – النقاط والإلغاء",
-      "page": "35"
+      "article": "15.5.4(3)-(4)",
+      "page": "30"
     }
   },
   {
     "id": 143,
-    "arabic": "إذا سجل اللاعب ركلة متحكم فيها جيداً فى منطقة الشودان ثم لكم خصمه بطريق الخطأ فى وجهه مسبباً إصابة طفيفة فينبغى إعطائه وازاري وتحذير.",
+    "arabic": "إذا سجل اللاعب ركلة متحكم فيها جيدا فى منطقة الشودان ثم لكم خصمه بطريق الخطأ فى وجهه مسببا إصابة طفيفة فينبغى إعطائه وازارى وتحذير.",
     "english": "If an Athlete scores with a well-controlled CHUDAN Geri, then accidentally punches his opponent in the face causing a slight injury, WAZA-ARI and a warning should be given",
     "type": "boolean",
     "options": [
@@ -2424,9 +2424,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إذا أعقب ركلة الشودان فعل ممنوع سبب إصابة فلا يُحتسب التسجيل، وتُطبق على اللكمة المخالفة العقوبة المناسبة.",
+    "explanation": "التسجيل لا يحتسب إذا أعقبته مخالفة تسببت في إصابة؛ تطبق المخالفة ولا يمنح وازاري معها.",
     "reference": {
-      "article": "8.11.4 / 8.11.6",
+      "article": "8.11(4),(6)",
       "page": "17"
     }
   },
@@ -2441,10 +2441,10 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "للحكم السلطة النهائية في تحديد أهلية اللاعب للاستمرار، بعد استشارة الطبيب.",
+    "explanation": "الطبيب يقرر القدرة البدنية على الاستمرار فقط، بينما يظل للحكم قرار إدارة المباراة وتحديد النتيجة.",
     "reference": {
-      "article": "11.2.5 / 15.3.1.4",
-      "page": "21 / 29"
+      "article": "11.2.5",
+      "page": "21"
     }
   },
   {
@@ -2458,15 +2458,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "للحكم سلطة إيقاف المباراة بمبادرة منه.",
+    "explanation": "للحكم إيقاف المباراة لأسباب متعددة حتى دون إشارة القضاة.",
     "reference": {
-      "article": "15.3.1.4-15.3.1.5",
-      "page": "29"
+      "article": "7.10",
+      "page": "16"
     }
   },
   {
     "id": 146,
-    "arabic": "بمجرد أن ينادي الحكم \"واكاريته\" فليس هناك فرصة للمدربين لطلب مراجعة الفيديو إلا إذا كان التكنيك المطلوب مراجعته تم تسجيله قبل نداء \"واكاريته\".",
+    "arabic": "بمجرد أن ينادي الحكم \"واكاريتيه\" فليس هناك فرصة للمدربين لطلب مراجعة الفيديو إلا إذا كان التكنيك المطلوب مراجعته تم تسجيله قبل نداء \"واكاريتيه\".",
     "english": "Once WAKARETE is called by the Referee the Coaches do not have the opportunity to make a video request unless the techniques happened before WAKARETE was called.",
     "type": "boolean",
     "options": [
@@ -2475,7 +2475,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا يمكن طلب المراجعة بعد واكاريتيه إلا إذا حدث التكنيك قبلها.",
+    "explanation": "لا يقبل طلب المراجعة بعد واكاريتيه إلا لتقنية حدثت قبله.",
     "reference": {
       "article": "14.15",
       "page": "28"
@@ -2483,7 +2483,7 @@
   },
   {
     "id": 147,
-    "arabic": "تجنب القتال يشير إلى الحالة التى يمنع فيها اللاعب خصمه من فرصة التسجيل باستخدام أسلوب إضاعة الوقت.",
+    "arabic": "تجنب القتال يشير الى الحالة التى يمنع فيها اللاعب خصمه من فرصة التسجيل باستخدام أسلوب إضاعة الوقت.",
     "english": "“Avoiding Combat” refers to a situation where an Athlete attempts to prevent the opponent from having the opportunity to score by using time wasting behavior.",
     "type": "boolean",
     "options": [
@@ -2492,7 +2492,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "تجنب القتال هو إضاعة الوقت لمنع الخصم من التسجيل.",
+    "explanation": "تجنب القتال هو منع الخصم من فرصة التسجيل بسلوك إضاعة الوقت.",
     "reference": {
       "article": "10.4.16",
       "page": "20"
@@ -2500,7 +2500,7 @@
   },
   {
     "id": 148,
-    "arabic": "لاستخدم \"تسوزوكتيه\" إذا كان الوقت المتبقي من المباراة أقل من 15 ثانية إلا إذا سبقتها \"واكاريته\".",
+    "arabic": "لاتستخدم \"تسوزوكتيه\" إذا كان الوقت المتبقى من المباراة أقل من 15 ثانية إلا إذا سبقتها \"واكاريتيه\"",
     "english": "TSUZUKTETE, unless preceded by WAKARETE, is not used if there is less than 15 seconds left of the bout.",
     "type": "boolean",
     "options": [
@@ -2509,7 +2509,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا تستخدم تسوزوكتيه في آخر 15 ثانية إلا بعد واكاريتيه.",
+    "explanation": "لا تستخدم تسوزوكيتيه في آخر أقل من 15 ثانية إلا بعد واكاريتيه.",
     "reference": {
       "article": "10.1.4",
       "page": "18"
@@ -2517,7 +2517,7 @@
   },
   {
     "id": 149,
-    "arabic": "في مباريات الفرق إذا أصاب اللاعبان بعضهما ولم يستطيعا الاستمرار وكانت النقاط متساوية فسيعلن الحكم هيكي واكي.",
+    "arabic": "فى مباريات الجماعى إذا جرح كلا اللاعبين بعضهما ولم يستطيعا الاستمرار فى المباراة ونقاطهما متساوية فسيعلن الحكم هيكى واكى.",
     "english": "In team matches if two Athletes injure each other and cannot continue and the points score is equal the Referee will announce HIKIWAKE.",
     "type": "boolean",
     "options": [
@@ -2526,32 +2526,32 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إصابة اللاعبين معاً لا تؤدي تلقائياً إلى هيكي واكي؛ تُحدد النتيجة بالطريقة المعتادة عند انتهاء الوقت مع مراعاة السنشو ومعايير كسر التعادل.",
+    "explanation": "عند إصابة الطرفين تحدد النتيجة كما عند انتهاء الوقت؛ قد تحسم بالسنشو أو الإيبون أو الوازاري، فلا تعلن هيكي واكي لمجرد تساوي مجموع النقاط.",
     "reference": {
-      "article": "11.3.1 / 12.2.3-12.2.5",
+      "article": "11.3.1; 12.2.1-12.2.5",
       "page": "22"
     }
   },
   {
     "id": 150,
-    "arabic": "عندما يكون متبقياً أقل من 15 ثانية واللاعب الخاسر يحاول جاهداً التعادل ثم يخرج من الملعب، فسيحذر بهانسكوتشوي على الأقل.",
+    "arabic": "عندما يكون متبقى من زمن المباراة أقل من 15 ثانيه واللاعب الخاسر يحاول جاهدا التعادل وخرج من الملعب جوجاى بطريق الخطأ فسيحذر بهانسكوتشيوى على الأقل.",
     "english": "When there are less than 15 seconds of bout time remaining and a losing Athlete, desperately trying to equalise, exits the area (JOGAI) they will be given a minimum of HANSOKU-CHUI.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "الخروج العادي يُعامل كجوجاي؛ الحد الأدنى هانسكوتشوي في آخر 15 ثانية يطبق عندما يكون الخروج بقصد تجنب القتال.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "الخروج بقصد تجنب القتال في آخر 15 ثانية يستوجب على الأقل هانسكوتشوي.",
     "reference": {
-      "article": "10.4.13 / 10.4.16",
+      "article": "10.4.16",
       "page": "20"
     }
   },
   {
     "id": 151,
-    "arabic": "التقنيات التي تصل أسفل الحزام لا يمكن احتسابها.",
+    "arabic": "التكنيكات تحت الحزام لايمكن إحتسابها.",
     "english": "Techniques which land below the belt cannot score.",
     "type": "boolean",
     "options": [
@@ -2560,7 +2560,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "منطقة شودان تبدأ أعلى تجويف الحوض، ولذلك لا تُحتسب التقنيات التي تصل أسفل الحزام.",
+    "explanation": "منطقة الشودان تبدأ أعلى تجويف الحوض؛ ما تحت الحزام ليس منطقة تسجيل.",
     "reference": {
       "article": "8.4",
       "page": "16"
@@ -2568,16 +2568,16 @@
   },
   {
     "id": 152,
-    "arabic": "التقنيات التي تصل إلى لوح الكتف يمكن احتسابها.",
+    "arabic": "التكنيك المسجل فى لوح الكتف يمكن إحتسابه.",
     "english": "Techniques, which land on the shoulder blade, can score.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": true,
-    "correctAnswerArabic": "صحيح",
-    "explanation": "لوح الكتف يقع ضمن منطقة الظهر في نطاق شودان، بينما المستثنى هو الكتف نفسه.",
+    "correctAnswer": false,
+    "correctAnswerArabic": "خطأ",
+    "explanation": "الأكتاف نفسها مستبعدة من منطقة الشودان، فلا تحتسب التقنية على لوح الكتف تلقائياً.",
     "reference": {
       "article": "8.4",
       "page": "16"
@@ -2585,7 +2585,7 @@
   },
   {
     "id": 153,
-    "arabic": "إذا ركل أكا آو في منطقة الحوض عن طريق الخطأ ولم يستطع آو إكمال المباراة فسيعطى آو كيكن.",
+    "arabic": "إذا ركل أكا مقعدة آو عن طريق الخطأ ولم يستطع آو إكمال المباراة فسيعطى آو كيكن.",
     "english": "If AKA accidentally kicks AO on the hip and AO cannot continue the bout, then AO will be given KIKEN.",
     "type": "boolean",
     "options": [
@@ -2594,15 +2594,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "كيكن للإصابة التي لا يتسبب فيها الخصم؛ إذا كانت الإصابة بسبب مخالفة من أكا فتطبق العقوبة المناسبة على أكا.",
+    "explanation": "تحديد النتيجة يعتمد على مسؤولية الإصابة؛ إصابة سببها تكنيك غير قانوني قد تستوجب تحذير أو عقوبة على المنفذ، لا كيكن تلقائياً للمصاب.",
     "reference": {
-      "article": "10.4.2 / 11.2.5",
-      "page": "19 / 21"
+      "article": "10.4.2; 11.2.5",
+      "page": "19, 21"
     }
   },
   {
     "id": 154,
-    "arabic": "إذا كان اللاعب يلهث بصورة واضحة نتيجة لنقص اللياقة فينبغي أن يوقف الحكم المباراة ليعطيه وقتاً ليتعافى.",
+    "arabic": "إذا كان اللاعب يلهث بصورة واضحة نتيجة لنقص اللياقة فينبغى أن يوقف الحكم المباراة ليعطيه وقتا ليتعافى.",
     "english": "If an Athlete is obviously out of breath due to lack of endurance, he Referee should stop the match to give him time to recover.",
     "type": "boolean",
     "options": [
@@ -2611,15 +2611,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "القانون لا يمنح وقتاً للتعافي بسبب ضعف اللياقة؛ يوقف الحكم المباراة للإصابة أو المرض أو لأسباب السلامة.",
+    "explanation": "التوقف لالتقاط الأنفاس يخص فقدان التنفس الناتج عن اصطدام؛ الإرهاق البدني وحده لا يمنح وقت تعافٍ.",
     "reference": {
-      "article": "10.4.3",
-      "page": "19"
+      "article": "8.7; 10.4.3",
+      "page": "17, 19"
     }
   },
   {
     "id": 155,
-    "arabic": "اللاعب الذي يتقدم بفارق ثماني نقاط يُعلن فائزاً.",
+    "arabic": "اللاعب الذى يسجل ثمان نقاط نظيفه سيعلن فائزا.",
     "english": "An Athlete who establishes a clear lead of eight points is declared the winner.",
     "type": "boolean",
     "options": [
@@ -2628,15 +2628,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "تنتهي المباراة عندما يتقدم أحد اللاعبين بفارق ثماني نقاط.",
+    "explanation": "فارق ثماني نقاط ينهي المباراة بفوز المتقدم.",
     "reference": {
-      "article": "7.7 / 12.2.1",
-      "page": "15 / 22"
+      "article": "7.7; 12.2.1",
+      "page": "15, 22"
     }
   },
   {
     "id": 156,
-    "arabic": "عند انتهاء الوقت يُعلن اللاعب صاحب العدد الأكبر من النقاط فائزاً.",
+    "arabic": "عند إنتهاء الوقت اللاعب الذى سجل عدد أكبر من النقاط سيعلن فائزا.",
     "english": "When time is up; the Athlete who has scored the most points is declared the winner.",
     "type": "boolean",
     "options": [
@@ -2645,15 +2645,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "عند انتهاء زمن المباراة يكون الفائز هو اللاعب الذي حصل على نقاط أكثر.",
+    "explanation": "عند انتهاء الوقت يفوز صاحب النقاط الأكثر.",
     "reference": {
-      "article": "7.8 / 12.2.1",
-      "page": "15 / 22"
+      "article": "7.8; 12.2.1",
+      "page": "15, 22"
     }
   },
   {
     "id": 157,
-    "arabic": "التقنية المؤداة بطريقة صحيحة في نفس توقيت نداء واكاريتيه سيتم المعاقبة عليها.",
+    "arabic": "التكنيكات المؤداة بطريقة صحيحة فى نفس توقيت نداء \"واكاريتيه\" سيتم المعاقبة عليها.",
     "english": "An otherwise correctly executed technique will be penalized if executed at the same time as WAKARETE has been called.",
     "type": "boolean",
     "options": [
@@ -2662,7 +2662,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "التقنية الصحيحة المتزامنة مع واكاريتيه لا تُحتسب، لكنها لا تُعاقب؛ العقوبة تكون إذا كانت التقنية غير متحكم فيها.",
+    "explanation": "التقنية الصحيحة المتزامنة مع واكاريتيه لا تحتسب لكنها لا تعاقب ما لم تكن غير متحكم فيها.",
     "reference": {
       "article": "10.1.5",
       "page": "18"
@@ -2670,7 +2670,7 @@
   },
   {
     "id": 158,
-    "arabic": "هناك درجتان من التحذيرات الرسمية.",
+    "arabic": "هناك درجتين من التحذيرات الرسمية.",
     "english": "There are two degrees of official warnings.",
     "type": "boolean",
     "options": [
@@ -2679,7 +2679,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "التحذيرات الرسمية درجتان: تشوي وهانسكوتشوي.",
+    "explanation": "للقانون درجتان من التحذيرات الرسمية: تشوي وهانسكوتشوي.",
     "reference": {
       "article": "10.2.1",
       "page": "19"
@@ -2687,7 +2687,7 @@
   },
   {
     "id": 159,
-    "arabic": "تشوي تُعطى حتى ثلاث مرات للمخالفات الصغيرة.",
+    "arabic": "\"تشوي\" تعطى حتى ثلاثة مرات للمخالفات الصغيرة.",
     "english": "CHUI is given, up to three times, for smaller infractions.",
     "type": "boolean",
     "options": [
@@ -2696,7 +2696,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمكن إعطاء تشوي حتى ثلاث مرات للمخالفات الصغيرة التي لا تقلل فرصة المنافس في الفوز.",
+    "explanation": "يمكن إعطاء تشوي حتى ثلاث مرات للتجاوزات الصغيرة.",
     "reference": {
       "article": "10.2.1",
       "page": "19"
@@ -2704,7 +2704,7 @@
   },
   {
     "id": 160,
-    "arabic": "لا يمكن إعطاء هانسكوتشوي إلا إذا سبق إعطاء تشوي ثلاث مرات.",
+    "arabic": "لايمكن إعطاء هانسكوتشوي إلا إذا تم التحذير ب تشوي ثلاثة مرات.",
     "english": "HANSOKU CHUI cannot be given if three CHUI has not already been given.",
     "type": "boolean",
     "options": [
@@ -2713,7 +2713,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن إعطاء هانسكوتشوي مباشرة للمخالفة الأكثر خطورة التي تقلل فرصة المنافس في الفوز، ولا يشترط دائماً سبق ثلاث تشوي.",
+    "explanation": "يمكن منح هانسكوتشوي مباشرة لتجاوز خطير يقلل فرصة الفوز، دون اشتراط ثلاث مرات تشوي.",
     "reference": {
       "article": "10.2.1",
       "page": "19"
@@ -2721,24 +2721,24 @@
   },
   {
     "id": 161,
-    "arabic": "التحذير أو العقوبة للموبوبي يعطى فقط إذا أصيب اللاعب نتيجة خطئه أو قلة احتراسه.",
+    "arabic": "التحذير أو العقوبى للموبوبى يعطى فقط إذا أصيب اللاعب نتيجة خطئه أو قله إحتراسه.",
     "english": "A warning or penalty for MUBOBI is only given when an Athlete is hit or injured through his own fault or negligence.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "وفق القانون الحالي يُعطى موبوبي عندما يُصاب اللاعب بسبب خطئه أو إهماله؛ مجرد تلقي ضربة دون إصابة لا يكفي وحده.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "موبوبي يطبق عندما يصاب اللاعب بسبب خطئه أو إهماله.",
     "reference": {
-      "article": "9.1.1.8 / 10.4.14",
-      "page": "17 / 20"
+      "article": "10.4.14",
+      "page": "20"
     }
   },
   {
     "id": 162,
-    "arabic": "اللاعب الذي يصاب نتيجة خطئه ثم يبالغ في الإصابة فينبغي إعطاؤه تحذيراً أو عقوبة للموبوبي أو للتضخيم وليس لكليهما.",
+    "arabic": "اللاعب الذى يصاب نتيجة خطؤه ثم يبالغ فى الإصابة فينبغى اعطاءه تحذير او عقوبة للموبوبى أو للتضخيم وليس لكلاهما.",
     "english": "An Athlete who is hit through their own fault and exaggerates the effect should receive a warning or penalty for MUBOBI or exaggeration but not both.",
     "type": "boolean",
     "options": [
@@ -2747,15 +2747,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا يعطى اللاعب عقوبتين لنفس الواقعة (موبوبي وتضخيم).",
+    "explanation": "عند اجتماع موبوبي مع التضخيم في الواقعة نفسها يختار الطاقم التحذير المناسب ولا يكرر العقوبة عن الأثر نفسه.",
     "reference": {
-      "article": "10.4.4 / 10.4.14",
-      "page": "19 / 20"
+      "article": "10.4.4; 10.4.14",
+      "page": "19-20"
     }
   },
   {
     "id": 163,
-    "arabic": "إذا سجل اللاعب ركلة شودان جيدة وأمسك خصمه بقدمه فلا يمكن احتساب التسجيل.",
+    "arabic": "إذا سجل اللاعب ركلة شودان جيدة وأمسك خصمه بقدمه فلا يمكن إحتساب التسجيل.",
     "english": "If an Athlete makes a good CHUDAN kick and the opponent catches the leg a score cannot be given.",
     "type": "boolean",
     "options": [
@@ -2764,15 +2764,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إمساك الخصم بالساق بعد الركلة لا يُبطل التسجيل تلقائياً؛ يمكن احتساب الركلة إذا استوفت معايير التسجيل الستة.",
+    "explanation": "إمساك الخصم بالساق بعد ركلة شودان صحيحة لا يلغي التسجيل إذا استوفت الركلة المعايير.",
     "reference": {
-      "article": "8.5",
+      "article": "8.3; 8.5",
       "page": "16"
     }
   },
   {
     "id": 164,
-    "arabic": "إذا قام اللاعب بعمل ركلة بمنطقة الجودان مستوفية للستة شروط وقام الخصم بوضع يده لصد الركلة وبعدها اليد تضرب الوجه بشكل خفيف فسيعطى الحكم إيبون حيث أن الركلة لم يتم صدها بفاعلية.",
+    "arabic": "إذا قام اللاعب بعمل ركلة بمنطقة الجودان مستوفية للستة شروط وقام الخصم بوضع يده لصد الركلة وبعدها اليد تضرب الوجه بشكل خفيف فسيعطى الحكم ايبون حيث أن الركلة لم يتم صدها بفاعلية.",
     "english": "An Athlete makes a JODAN kick with all six scoring criteria. The opponent puts his hand up to intercept the kick and the hand then lightly hits his own face; the Referee can give IPPON since the kick was not effectively blocked.",
     "type": "boolean",
     "options": [
@@ -2781,15 +2781,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "إذا لم يتم صد الركلة بفاعلية، تحتسب إيبون.",
+    "explanation": "إذا استوفت ركلة الجودان المعايير ولم يكن الاعتراض فعالاً في منع وصول أثرها فيمكن احتساب إيبون.",
     "reference": {
-      "article": "8.5 / 8.8",
-      "page": "16 / 17"
+      "article": "8.5; 8.8",
+      "page": "16-17"
     }
   },
   {
     "id": 165,
-    "arabic": "يمكن أن ينافس فريق الذكور بلاعبين اثنين فقط.",
+    "arabic": "يمكن أن ينافس فريق الذكور بلاعبين إثنين فقط.",
     "english": "A male team can compete with only two Athletes.",
     "type": "boolean",
     "options": [
@@ -2798,15 +2798,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "فريق الرجال يحتاج إلى 3 لاعبين على الأقل للمنافسة.",
+    "explanation": "الحد الأدنى لفريق الرجال في الدور الأول خمسة لاعبين، وليس لاعبين اثنين.",
     "reference": {
-      "article": "3.5.1",
+      "article": "3.5 (جدول تكوين الفريق)",
       "page": "10"
     }
   },
   {
     "id": 166,
-    "arabic": "الإعلانات المعتمدة من الاتحاد الدولي للكاراتيه سيتم وضعها على الكم الأيسر لبدلة الكاراتيه.",
+    "arabic": "الإعلانات المعتمدة من الإتحاد الدولى للكاراتيه سيتم وضعها على الكم الأيسر لبدلة الكاراتيه.",
     "english": "Authorised advertising for WKF is displayed on the left sleeve of the Karate-Gi.",
     "type": "boolean",
     "options": [
@@ -2815,7 +2815,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الإعلانات الموافق عليها توضع عادة على الكتف أو الصدر حسب اللوائح، وليس الكم الأيسر تحديداً.",
+    "explanation": "القانون لا يقرر أن إعلان الاتحاد الدولي يوضع تحديداً على الكم الأيسر؛ مواضع العلامات والشعارات تخضع للاعتماد والنشرة.",
     "reference": {
       "article": "2.2.1-2.2.2",
       "page": "5-6"
@@ -2823,7 +2823,7 @@
   },
   {
     "id": 167,
-    "arabic": "ليس مسموحاً للاتحادات الوطنية بوضع إعلانات على بدلة الكاراتيه لللاعب.",
+    "arabic": "ليس مسموحا للإتحادات الوطنية بوضع إعلانات على بدلة الكاراتيه للاعب.",
     "english": "National Federations are not allowed to put advertising on the Athlete’s Karate-Gi.",
     "type": "boolean",
     "options": [
@@ -2832,7 +2832,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن للاتحادات الوطنية وضع الشعارات الوطنية والإعلانات المصرح بها.",
+    "explanation": "يمكن للجنة التنفيذية التصريح بشعارات أو علامات للرعاة الرسميين، لذلك المنع ليس مطلقاً.",
     "reference": {
       "article": "2.2.2",
       "page": "6"
@@ -2840,7 +2840,7 @@
   },
   {
     "id": 168,
-    "arabic": "لايمكن للاعب الكوميتيه الحاصل على كيكن أن ينافس ثانية في هذه البطولة.",
+    "arabic": "لايمكن للاعب الكوميتيه الحاصل على كيكن أن ينافس ثانية فى هذه البطولة.",
     "english": "A Kumite Athlete who receives KIKEN cannot compete again in that tournament.",
     "type": "boolean",
     "options": [
@@ -2849,7 +2849,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "كيكن يعفي اللاعب من هذه الفئة فقط، ولا يمنعه من منافسات أخرى في البطولة.",
+    "explanation": "كيكن يقصي اللاعب من المسابقة أو الفئة المعنية ولا يمنعه من جميع مسابقات البطولة.",
     "reference": {
       "article": "6.4",
       "page": "15"
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 169,
-    "arabic": "المباراة الإضافية تكون في مباريات الجماعي فقط.",
+    "arabic": "المباراة الإضافية تكون فى مباريات الجماعى فقط.",
     "english": "An extra bout is used only for team matches.",
     "type": "boolean",
     "options": [
@@ -2866,15 +2866,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "المباراة الفاصلة ليست مقصورة على مباريات الفرق؛ فهي أيضاً آخر معيار لكسر تعادل لاعبين في ترتيب دوري المجموعات الفردي.",
+    "explanation": "قد تستخدم مباراة فاصلة أيضاً لكسر تعادل دوري الفردي، وليست مقصورة على الفرق.",
     "reference": {
-      "article": "12.3.1 / 12.5.2",
-      "page": "23 / 24"
+      "article": "12.3.1(9); 12.5.2",
+      "page": "23-24"
     }
   },
   {
     "id": 170,
-    "arabic": "يحتاج الكنساً لإطلاق الصافرة إذا أعطى الحكم تسجيلاً للاعب وموبوبي للاعب الآخر.",
+    "arabic": "يحتاج الكانسا لإطلاق الصافرة إذا أعطى الحكم تسجيلا للاعب وموبوبي للاعب الآخر.",
     "english": "KANSA needs to blow the whistle if the Referee gives a score to an Athlete and MUBOBI to the other.",
     "type": "boolean",
     "options": [
@@ -2883,15 +2883,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يتدخل الكنساً إذا أعطى الحكم نقطة مع موبوبي للخصم.",
+    "explanation": "يجب على كانسا إطلاق الصافرة عند منح تسجيل لطرف وموبوبي للطرف الآخر.",
     "reference": {
-      "article": "15.5.4.6",
+      "article": "15.5.4(6)",
       "page": "30"
     }
   },
   {
     "id": 171,
-    "arabic": "الإساءة البالغة في السلوك أو في الإنضباط أو التصرف بعدوانية تستحق هانسكوتشوي.",
+    "arabic": "الإساءة البالغة فى السلوك أو فى الإنضباط أو التصرف بعدائية تستحق هانسكوتشوي.",
     "english": "Serious violation of conduct, discipline, or malicious behavior merits a HANSOKU CHUI.",
     "type": "boolean",
     "options": [
@@ -2900,7 +2900,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "السلوك العدواني الخطير يستوجب شيكاكو وليس هانسكوتشوي.",
+    "explanation": "السلوك العدواني الجسيم أو الخبيث يستوجب شيكاكو، وليس هانسكوتشوي.",
     "reference": {
       "article": "10.3.1",
       "page": "19"
@@ -2908,7 +2908,7 @@
   },
   {
     "id": 172,
-    "arabic": "في المنافسات الدولية لايمكن للحكم أن يكون من نفس جنسية اللاعبين بينما يمكن ذلك لأحد القضاة إذا وافق كلا المدربين على ذلك.",
+    "arabic": "فى المنافسات الدولية لايمكن للحكم أن يكون من نفس جنسية اللاعبين بينما يمكن ذلك لأحد القضاة إذا وافق كلا المدربين على ذلك.",
     "english": "In international competitions the Referee must not have the same nationality as either of the Athletes although one of the Judges can if both coaches agree.",
     "type": "boolean",
     "options": [
@@ -2917,7 +2917,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا يسمح القانون بمشاركة أي عضو من طاقم التحكيم يحمل جنسية أحد اللاعبين، ولا يوجد استثناء بموافقة المدربين.",
+    "explanation": "لا يجوز لأي عضو من طاقم التحكيم أن يكون من جنسية أي لاعب، ولا يغير اتفاق المدربين هذا الشرط.",
     "reference": {
       "article": "4.1.2",
       "page": "13"
@@ -2925,7 +2925,7 @@
   },
   {
     "id": 173,
-    "arabic": "سوف يصطف مراقب المباراة \"كنساً\" مع الحكم والقضاة.",
+    "arabic": "سوف يصطف مراقب المباراة \"كانسا\" مع الحكم والقضاة",
     "english": "The Match Supervisor (KANSA) will line up together with the Referee and the Judges.",
     "type": "boolean",
     "options": [
@@ -2934,10 +2934,10 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الكنساً لا يصطف مع الحكام، بل يجلس عند المنضدة الرسمية.",
+    "explanation": "كانسا يجلس عند المنضدة الرسمية ولا يصطف مع الحكم والقضاة.",
     "reference": {
-      "article": "1.8",
-      "page": "3"
+      "article": "1.8; 4.4.3",
+      "page": "3, 14"
     }
   },
   {
@@ -2951,7 +2951,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الأصل جلوس المدربين خارج منطقة الأمان في مواجهة المنضدة، لكن إذا لم يسمح ترتيب الملاعب بذلك يمكن جلوسهما على جانبي المنضدة؛ لذلك العبارة ليست صحيحة في جميع الحالات.",
+    "explanation": "الوضع المعتاد مواجهة المنضدة الرسمية، لكن يمكن وضع المدربين على جانبي المنضدة عندما لا يسمح ترتيب الملاعب؛ لذا ليست العبارة صحيحة في كل الحالات.",
     "reference": {
       "article": "1.10",
       "page": "3"
@@ -2959,7 +2959,7 @@
   },
   {
     "id": 175,
-    "arabic": "لايحتاج الكناسا إلى التدخل إذا أعطى الحكم تسجيلاً للاعب وتضخيماً للإصابة للاعب الآخر.",
+    "arabic": "لايحتاج الكانسا إلى التدخل إذا أعطى الحكم تسجيلا للاعب وتضخيما للإصابة للاعب الآخر.",
     "english": "KANSA does not need to interfere if the Referee gives a score to an Athlete and exaggeration to the other.",
     "type": "boolean",
     "options": [
@@ -2968,15 +2968,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يتدخل الكنساً إذا أعطى الحكم نقطة مع تضخيم للخصم.",
+    "explanation": "يجب على كانسا التدخل إذا احتسب الحكم تسجيلاً للاعب وتضخيماً للإصابة للآخر.",
     "reference": {
-      "article": "15.5.4.5",
+      "article": "15.5.4(5)",
       "page": "30"
     }
   },
   {
     "id": 176,
-    "arabic": "في مباريات الفرق سيدور الحكم والقضاة لكل مباراة فردية إذا كان لديهم الرخصة المطلوبة لذلك.",
+    "arabic": "فى مباريات الفرق سيدور الحكم والقضاة لكل مباراة فردية إذا كان لديهم الرخصة المطلوبة لذلك.",
     "english": "In team matches the referee and the judges will rotate for each bout - provided that all hold the required license.",
     "type": "boolean",
     "options": [
@@ -2985,7 +2985,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يتم تناوب الحكام في مباريات الفرق إذا كانوا مؤهلين.",
+    "explanation": "في مباريات الفرق يتناوب الحكم والقضاة في كل مباراة فردية إذا كان الطاقم كله يحمل الشارة المطلوبة.",
     "reference": {
       "article": "4.4.5",
       "page": "14"
@@ -2993,7 +2993,7 @@
   },
   {
     "id": 177,
-    "arabic": "في مباريات الفرق سيدور طاقم الحكام لكل مباراة فردية في مباريات الميداليات فقط.",
+    "arabic": "فى مباريات الفرق سيدور طاقم الحكام لكل مباراة فردية في مباريات الميداليات فقط.",
     "english": "In team matches the Panel will rotate for each bout only in bouts for medals.",
     "type": "boolean",
     "options": [
@@ -3002,7 +3002,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "التناوب يكون في جميع مباريات الفرق وليس فقط الميداليات.",
+    "explanation": "التناوب في مباريات الفرق يطبق في كل مباراة فردية عند توافر الشارات المطلوبة، وليس في مباريات الميداليات فقط.",
     "reference": {
       "article": "4.4.5",
       "page": "14"
@@ -3010,7 +3010,7 @@
   },
   {
     "id": 178,
-    "arabic": "يمكن للحكم أن يتحرك في منطقة الملعب بالكامل بما فيها منطقة الأمان.",
+    "arabic": "يمكن للحكم أن يتحرك فى منطقة الملعب بالكامل بما فيها منطقة الأمان.",
     "english": "The Referee can move about the entire tatami including the safety zones.",
     "type": "boolean",
     "options": [
@@ -3019,7 +3019,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "للحكم الحركة في كامل البساط ومنطقة الأمان.",
+    "explanation": "يستطيع الحكم التحرك في كامل البساط بما فيه منطقة الأمان.",
     "reference": {
       "article": "1.7",
       "page": "3"
@@ -3027,7 +3027,7 @@
   },
   {
     "id": 179,
-    "arabic": "يجب على اللاعبات إرتداء واقي الجسم المعتمد من الاتحاد الدولي للكاراتيه المصمم للإناث.",
+    "arabic": "يجب على اللاعبات إرتداء واقى الجسم المعتمد من الإتحاد الدولي للكاراتيه المصمم للإناث.",
     "english": "Female Athletes must have WKF approved body protector female designed.",
     "type": "boolean",
     "options": [
@@ -3036,9 +3036,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "للاعبات اختيار واقي الصدر مع واقي الجسم أو الواقي المدمج للصدر والجسم؛ فلا يشترط دائماً واقي جسم بتصميم نسائي واحد.",
+    "explanation": "اللاعبات لهن خيارات واقي الصدر وواقي الجسم أو الواقي المدمج؛ لا يشترط واقٍ واحد موصوف بهذه الصيغة.",
     "reference": {
-      "article": "2.2.7.3",
+      "article": "2.2.7(3)",
       "page": "7"
     }
   },
@@ -3053,15 +3053,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الأحزمة يجب أن تكون خالية من الزخارف الشخصية.",
+    "explanation": "يجب أن يكون الحزامان الأحمر والأزرق بلا تطريز أو علامات شخصية.",
     "reference": {
-      "article": "2.2.1.3",
+      "article": "2.2.1(3)",
       "page": "6"
     }
   },
   {
     "id": 181,
-    "arabic": "عندما يستدعي الموقف احتمالية الإقصاء فيمكن للحكم إستدعاء قاضٍ أو أكثر لإستشارة مختصرة قبل إعلان القرار.",
+    "arabic": "عندما يستدعى الموقف إحتمالية الإقصاء فيمكن للحكم إستدعاء قاضى أو أكثر لاستشارة مختصرة قبل إعلان القرار.",
     "english": "When a situation appears to possibly warrant a disqualification the Referee can call one or more of judges for a brief consultation (FUKUSHIN SHUGO) before announcing any decision.",
     "type": "boolean",
     "options": [
@@ -3070,7 +3070,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "استدعاء القضاة (شوجو) اختياري في معظم حالات الإقصاء إلا في شيكاكو.",
+    "explanation": "يمكن للحكم استدعاء قاض أو أكثر للتشاور قبل قرار الإقصاء، ويكون الاستدعاء إلزامياً في حالات شيكاكو.",
     "reference": {
       "article": "10.3.4",
       "page": "19"
@@ -3087,7 +3087,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "البدلة البيضاء بدون زخارف شخصية.",
+    "explanation": "يجب ارتداء بدلة كاراتيه بيضاء من دون تطريز شخصي غير مصرح به.",
     "reference": {
       "article": "2.2.1",
       "page": "5"
@@ -3095,7 +3095,7 @@
   },
   {
     "id": 183,
-    "arabic": "الزخرفة الشخصية على بدلة الكاراتيه مسموح بها في مباريات الميداليات فقط.",
+    "arabic": "الزخرفة الشخصية على بدلة الكاراتيه مسموح بها فى مباريات الميداليات فقط.",
     "english": "Personal embroidery in the Karate-Gi is allowed only in bouts for medals.",
     "type": "boolean",
     "options": [
@@ -3104,7 +3104,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الزخرفة الشخصية غير مسموحة في جميع المباريات.",
+    "explanation": "التطريز الشخصي غير مسموح به، ولا يوجد استثناء خاص بمباريات الميداليات.",
     "reference": {
       "article": "2.2.1",
       "page": "5"
@@ -3112,7 +3112,7 @@
   },
   {
     "id": 184,
-    "arabic": "عندما يعتبر الحكم أن التصادم كان قوياً جداً ولكن لم ينقص من فرصة اللاعب في الفوز فيمكن أن يعطى تحذير \"تشوي\".",
+    "arabic": "عندما يعتبر الحكم أن التصادم كان قويا جدا ولكن لم ينقص من فرصة اللاعب فى الفوز فيمكن أن يعطى تحذير \"تشوي\".",
     "english": "Where contact is considered by the Referee to be too strong, but does not diminish the Athlete’s chances of winning, a warning (CHUI) can be given.",
     "type": "boolean",
     "options": [
@@ -3121,7 +3121,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الإصطدام القوي ولكن غير المؤثر يعطى تشوي.",
+    "explanation": "الاصطدام الأقوى من اللازم الذي لا يقلل فرصة الفوز يمكن أن يعاقب بتشوي.",
     "reference": {
       "article": "10.4.1",
       "page": "19"
@@ -3138,7 +3138,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "التكنيك المسبب للإصابة يستوجب عقوبة ما لم يكن خطأ المصاب.",
+    "explanation": "التقنية المسببة لإصابة تستوجب تحذيراً أو عقوبة إلا إذا كان المتلقي هو السبب.",
     "reference": {
       "article": "10.4.2",
       "page": "19"
@@ -3146,7 +3146,7 @@
   },
   {
     "id": 186,
-    "arabic": "أى تضخيم واضح للتصادم سيعطى \"تشوي\".",
+    "arabic": "أى تضخيم واضح للتصادم سيعطى \"تشوي\"",
     "english": "An obvious overreaction to a contact will receive a CHUI.",
     "type": "boolean",
     "options": [
@@ -3155,7 +3155,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "التضخيم الواضح يعاقب بهانسكوتشوي، أما تشوي فهو للتضخيم البسيط.",
+    "explanation": "التضخيم الواضح يعاقب بهانسكوتشوي؛ تشوي يخص التضخيم البسيط.",
     "reference": {
       "article": "10.4.4",
       "page": "19"
@@ -3172,10 +3172,10 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يشير القضاة فور رؤيتهم للتسجيل، ويوقف الحكم المباراة بناءً عليه.",
+    "explanation": "القضاة يشيرون إلى التسجيل بمبادرتهم فور رؤيته، ولا ينتظرون يامي.",
     "reference": {
-      "article": "12.1.1 / 15.4.2",
-      "page": "22 / 30"
+      "article": "15.4.1-15.4.2",
+      "page": "30"
     }
   },
   {
@@ -3189,7 +3189,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "التضخيم الواضح للإصابة يعاقب بهانسكوتشوي؛ أما هانسكو المباشر فيمكن أن يطبق على التضخيم الأكثر جدية.",
+    "explanation": "التضخيم الواضح يعاقب بهانسكوتشوي، أما التضخيم الأشد فقد يؤدي إلى هانسكو مباشرة.",
     "reference": {
       "article": "10.4.4",
       "page": "19"
@@ -3197,7 +3197,7 @@
   },
   {
     "id": 189,
-    "arabic": "أى حالة إدعاء إصابة مهما كان بسيط سيعاقب على الأقل ب\"تشوي\".",
+    "arabic": "أى حالة إدعاء إصابة مهما كان بسيطا سيحذر على الأقل ب\"تشوي\".",
     "english": "Any instance of feigning an injury, whoever slight, will receive a minimum warning of CHUI.",
     "type": "boolean",
     "options": [
@@ -3206,7 +3206,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "أي ادعاء إصابة ولو بسيط يعطى تشوي كحد أدنى.",
+    "explanation": "أي ادعاء إصابة مهما كان بسيطاً يستوجب تشوي على الأقل.",
     "reference": {
       "article": "10.4.5",
       "page": "19"
@@ -3214,7 +3214,7 @@
   },
   {
     "id": 190,
-    "arabic": "أى إدعاء مبتذل وواضح للإصابة كالترنح جانباً أو السقوط أرضاً والوقوف ثم السقوط ثانية وهكذا سيعاقب بشيكاكو مباشرة.",
+    "arabic": "أى إدعاء مبتذل وواضح للإصابة كالترنح جانبا أو السقوط أرضا والوقوف ثم السقوط ثانية وهكذا سيعاقب بشيكاكو مباشرة.",
     "english": "An obvious display of any feigning such as staggering around, falling on the floor, standing up and falling down again, and so on, will receive SHIKKAKU directly.",
     "type": "boolean",
     "options": [
@@ -3223,7 +3223,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الادعاء المبتذل والمتكرر يستوجب شيكاكو مباشرة.",
+    "explanation": "الادعاء الجسيم الواضح مثل الترنح والسقوط المتكرر يستوجب شيكاكو مباشرة.",
     "reference": {
       "article": "10.4.5",
       "page": "19"
@@ -3231,7 +3231,7 @@
   },
   {
     "id": 191,
-    "arabic": "أى إدعاء لإصابة نتيجة لتكنيك إحتسبه القضاة كتسجيل صحيح سيعطى على الأقل هانسكو تشوي.",
+    "arabic": "أى إدعاء للإصابة نتيجة لتكنيك إحتسبه القضاة كتسجيل صحيح سيعطى على الأقل هانسكوتشوي.",
     "english": "Any feigning of an injury from a technique that in fact have been determined by the judges as a point will as a minimum result in HANSOKU CHUI.",
     "type": "boolean",
     "options": [
@@ -3240,7 +3240,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "ادعاء الإصابة بعد احتساب نقطة يستوجب هانسكوتشوي كحد أدنى.",
+    "explanation": "ادعاء الإصابة من تقنية احتسبها القضاة تسجيلاً يستوجب هانسكوتشوي على الأقل.",
     "reference": {
       "article": "10.4.5",
       "page": "19"
@@ -3257,7 +3257,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "في الهجمات المتتابعة، تحتسب النقاط الأعلى بغض النظر عن الترتيب.",
+    "explanation": "عند تعدد التقنيات المتتابعة قبل يامي تحتسب القيمة الأعلى.",
     "reference": {
       "article": "8.3",
       "page": "16"
@@ -3265,24 +3265,24 @@
   },
   {
     "id": 193,
-    "arabic": "فى المباراة الإضافية فى مباريات الفرق إذا لم يكن هناك نقاط أو كان هناك تعادل بدون سنشو فستحدد نتيجة المباراة بهانتي.",
+    "arabic": "فى المباراة الإضافية فى مباريات الفرق إذا لم يكن هناك نقاط أو كان هناك تعادل بدون سنشو فستحدد نتيجة المباراة ب هانتي.",
     "english": "In team matches, if after the extra bout there are no scores, or it is equal scores with no SENSHU, the match will be decided by HANTEI.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "عند تساوي النقاط وغياب السنشو تُقارن أولاً أعداد الإيبون ثم الوازارى؛ ولا يُلجأ إلى هانتي إلا إذا استمر التعادل، وفي مباريات الفرق يطبق ذلك على المباراة الفاصلة.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "إذا لم تحسم المباراة الفاصلة بالنقاط أو السنشو فتحدد بالهانتي.",
     "reference": {
-      "article": "12.2.3-12.2.4 / 12.5.3",
-      "page": "22 / 24"
+      "article": "12.5.3",
+      "page": "24"
     }
   },
   {
     "id": 194,
-    "arabic": "يحدث جوجاي عندما يخرج اللاعب من منطقة المنافسات ولم يكن ذلك بسبب خصمه.",
+    "arabic": "يحدث جوجاى عندما يخرج اللاعب من منطقة المنافسات ولم يكن ذلك بسبب خصمه.",
     "english": "JOGAI occurs when an Athlete exits from the competition area, and it is not caused by the opponent.",
     "type": "boolean",
     "options": [
@@ -3291,15 +3291,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الخروج يكون جوجاي إذا لم يكن سببه الخصم ولم يقع بعد تسجيل محتسب؛ فالعبارة أغفلت استثناء الخروج بعد التسجيل.",
+    "explanation": "لا يحتسب جوجاي إذا كان الخروج بسبب الخصم أو بعد تسجيل محتسب؛ لذلك تعريف العبارة ناقص.",
     "reference": {
-      "article": "9.1.2-9.1.3 / 10.4.13",
-      "page": "18 / 20"
+      "article": "9.1.2; 10.4.13",
+      "page": "18, 20"
     }
   },
   {
     "id": 195,
-    "arabic": "الحد الأدنى من الإنذار للهروب أو تجنب القتال وتضييع الوقت خلال أتوشي باراكو هو هانسكو تشوي.",
+    "arabic": "الحد الأدنى من الإنذار للهروب او تجنب القتال وتضييع الوقت خلال أتوشي باراكو هو هانسكوتشيوي.",
     "english": "The minimum warning for running away, avoiding combat or/and wasting time during ATOSHI BARAKU is HANSOKU CHUI.",
     "type": "boolean",
     "options": [
@@ -3308,7 +3308,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "تجنب القتال في آخر 15 ثانية يستوجب هانسكوتشوي كحد أدنى.",
+    "explanation": "تجنب القتال أو إضاعة الوقت في آخر 15 ثانية يستوجب هانسكوتشوي على الأقل.",
     "reference": {
       "article": "10.4.16",
       "page": "20"
@@ -3316,7 +3316,7 @@
   },
   {
     "id": 196,
-    "arabic": "يجب ألا تكون نقطة الإرتكاز للرمي أعلى من مستوى مقدمة الرامي ويجب أن يمسك الخصم ليسمح بهبوط آمن.",
+    "arabic": "يجب ألا تكون نقطة الإرتكاز للرمي أعلى من مستوى مقعدة الرامي ويجب أن يمسك الخصم ليسمح بهبوط آمن.",
     "english": "The pivotal point of the throw must not be above the thrower’s hip level and the opponent must be held onto throughout, so that a safe landing can be made.",
     "type": "boolean",
     "options": [
@@ -3325,7 +3325,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الرمية الآمنة تتطلب إمساكاً كاملاً ونقطة ارتكاز منخفضة.",
+    "explanation": "يجب ألا تعلو نقطة ارتكاز الرمية مستوى الورك وأن يمسك الخصم طوال الرمية لضمان هبوط آمن.",
     "reference": {
       "article": "10.4.8",
       "page": "20"
@@ -3342,7 +3342,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يسمح بإمساك بدلة الخصم بيد واحدة لعرقلة السقوط، لذلك العبارة التي تمنع ذلك مطلقاً غير صحيحة.",
+    "explanation": "يسمح بمسك بدلة الخصم بيد واحدة لعرقلة السقوط.",
     "reference": {
       "article": "10.4.12",
       "page": "20"
@@ -3350,7 +3350,7 @@
   },
   {
     "id": 198,
-    "arabic": "لايحتاج الكناساً إلى التدخل إذا احتسب الحكم نقاطاً لتكنيك تم بعد انتهاء وقت المباراة.",
+    "arabic": "لايحتاج الكانسا إلى التدخل إذا احتسب الحكم نقاطا لتكنيك تم بعد انتهاء وقت المباراة.",
     "english": "KANSA does not need to interfere if the Referee gives a score for a technique done after the time is up.",
     "type": "boolean",
     "options": [
@@ -3359,15 +3359,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يتدخل الكنساً إذا احتسب الحكم نقطة بعد انتهاء الوقت.",
+    "explanation": "يجب على كانسا إطلاق الصافرة إذا منح الحكم تسجيلاً بعد نهاية الوقت.",
     "reference": {
-      "article": "15.5.4.7",
+      "article": "15.5.4(7)",
       "page": "30"
     }
   },
   {
     "id": 199,
-    "arabic": "يوكو تساوي نقطة واحدة.",
+    "arabic": "يوكو تساوى نقطة واحدة.",
     "english": "YUKO is worth one point.",
     "type": "boolean",
     "options": [
@@ -3384,7 +3384,7 @@
   },
   {
     "id": 200,
-    "arabic": "وازاري تساوي نقطتين.",
+    "arabic": "وازاري تساوى نقطتين.",
     "english": "WAZA-ARI is worth two points.",
     "type": "boolean",
     "options": [
@@ -3401,7 +3401,7 @@
   },
   {
     "id": 201,
-    "arabic": "إيبون يساوي ثلاث نقاط.",
+    "arabic": "إيبون يساوى ثلاث نقاط.",
     "english": "IPPON is worth three points.",
     "type": "boolean",
     "options": [
@@ -3427,10 +3427,10 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "المسؤولية المباشرة لمساعدي الكانسا، وتنتقل للكانسا فقط عند عدم وجودهما.",
+    "explanation": "عند وجود مساعدي كانسا تقع عليهم مسؤولية فحص المعدات، ويتولاها كانسا فقط عند غيابهم.",
     "reference": {
-      "article": "4.3.2 / 15.5.3",
-      "page": "14 / 30"
+      "article": "4.3.2; 15.5.3",
+      "page": "14, 30"
     }
   },
   {
@@ -3444,10 +3444,10 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "فحص الأدوات ليس من واجبات مدير البساط، بل من واجبات مساعدي الكانسا أو الكانسا عند غيابهما.",
+    "explanation": "فحص معدات اللاعبين مسؤولية مساعدي كانسا أو كانسا عند غيابهم، وليس مدير البساط.",
     "reference": {
-      "article": "4.3.2 / 15.5.3",
-      "page": "14 / 30"
+      "article": "4.3.2; 15.5.3",
+      "page": "14, 30"
     }
   },
   {
@@ -3461,7 +3461,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يقدم المدرب بطاقته وبطاقة اللاعب أو الفريق إلى مشرف المدرب أو مساعد الكانسا، وليس إلى المنضدة الرسمية كما ورد في العبارة.",
+    "explanation": "تقدم الاعتمادات إلى مشرف المدرب أو مساعد كانسا، لا إلى المنضدة الرسمية.",
     "reference": {
       "article": "3.6.3",
       "page": "11"
@@ -3469,7 +3469,7 @@
   },
   {
     "id": 205,
-    "arabic": "وازاري تمنح لركلات القدم في منطقة الشودان.",
+    "arabic": "وازارى تمنح لركلات القدم فى منطقة الشودان.",
     "english": "WAZA-ARI is awarded for CHUDAN Kicks.",
     "type": "boolean",
     "options": [
@@ -3478,7 +3478,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "تُمنح وازاري، وقيمتها نقطتان، لركلات الشودان.",
+    "explanation": "تمنح وازاري لركلات الشودان.",
     "reference": {
       "article": "8.6",
       "page": "17"
@@ -3486,7 +3486,7 @@
   },
   {
     "id": 206,
-    "arabic": "إيبون تمنح لركلة بمنطقة الجودان أو تكنيك صحيح تم تسجيله في لاعب تم رميه أو سقط من نفسه أو بأي طريقة.",
+    "arabic": "إيبون تمنح لركلة بمنطقة الجودان أو تكنيك صحيح تم تسجيله فى لاعب تم رميه أو سقط من نفسه أو بأى طريقة.",
     "english": "IPPON is awarded for JODAN GERI and scoring techniques which are delivered on an opponent who has been thrown, has fallen of their own accord, or is otherwise off their feet.",
     "type": "boolean",
     "options": [
@@ -3495,7 +3495,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "تُمنح إيبون لركلات الجودان وللتسجيل على خصم لامس البساط بغير قدميه، مع استثناء وضع هيزا-جامي؛ لذلك العبارة المطلقة غير صحيحة.",
+    "explanation": "يوجد استثناء هيزا-جامي، كما يجب أن تستوفي التقنية جميع معايير التسجيل؛ ليست كل حالة خروج عن القدمين إيبوناً تلقائياً.",
     "reference": {
       "article": "8.6",
       "page": "17"
@@ -3503,7 +3503,7 @@
   },
   {
     "id": 207,
-    "arabic": "المباريات الفردية لايمكن أن تنتهي بالتعادل.",
+    "arabic": "المباريات الفردية لايمكن أن تنتهى بالتعادل.",
     "english": "Individual bouts cannot be declared a tie.",
     "type": "boolean",
     "options": [
@@ -3512,7 +3512,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يمكن أن تنتهي المباريات الفردية بالتعادل في نظام الدوري، ويتم كسر التعادل بالسنشو أو الهانتي.",
+    "explanation": "يمكن إعلان هيكي واكي في مباريات دوري الفردي ومباريات الفرق؛ المنع يخص فردي الإقصاء.",
     "reference": {
       "article": "12.2.5",
       "page": "22"
@@ -3520,7 +3520,7 @@
   },
   {
     "id": 208,
-    "arabic": "السلبية يمكن أن تعطى لأي لاعب في أي وقت.",
+    "arabic": "السلبية يمكن أن تعطى لأى لاعب فى أى وقت.",
     "english": "Passivity can be given to any Athlete at any time.",
     "type": "boolean",
     "options": [
@@ -3529,15 +3529,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا تعطى السلبية في أول 15 ثانية أو للاعب المتقدم بالنقاط.",
+    "explanation": "للسلبية قيود؛ فلا تعطى في أول 15 ثانية ولا في آخر أقل من 15 ثانية ولا للمتقدم بالنقاط أو السنشو.",
     "reference": {
-      "article": "9.1.1.10 / 10.4.15",
-      "page": "17 / 20"
+      "article": "9.1.1(10); 10.4.15",
+      "page": "17, 20"
     }
   },
   {
     "id": 209,
-    "arabic": "السلبية لايمكن إعطاؤها في أول 15 ثانية في المباراة.",
+    "arabic": "السلبية لايمكن إعطاؤها فى أول 15 ثانية فى المباراة.",
     "english": "Passivity cannot be given during the first 15 seconds of a bout.",
     "type": "boolean",
     "options": [
@@ -3546,10 +3546,10 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا تعطى السلبية في أول 15 ثانية من المباراة.",
+    "explanation": "لا تعطى السلبية في أول 15 ثانية.",
     "reference": {
-      "article": "9.1.1.10",
-      "page": "17"
+      "article": "9.1.1(10); 10.4.15",
+      "page": "17, 20"
     }
   },
   {
@@ -3563,15 +3563,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "محاكاة الهجوم بالرأس والركبة والكوع ممنوعة.",
+    "explanation": "محاكاة الهجوم بالرأس أو الركبة أو الكوع من الأفعال الممنوعة.",
     "reference": {
-      "article": "9.1.1.15",
+      "article": "9.1.1(15)",
       "page": "18"
     }
   },
   {
     "id": 211,
-    "arabic": "تجنب القتال خلال آخر 15 ثانية في المباراة (أتوشي باراكو) سوف يعاقب على الأقل ب\"هانسكوتشوي\" وفقد السنشو.",
+    "arabic": "تجنب القتال خلال آخر 15 ثانية فى المباراة )أتوشي باراكو( سوف يعاقب على الأقل ب\"هانسكوتشوي\" وفقد السنشو.",
     "english": "Avoiding combat during the last 15 seconds of the bout (ATO SHIBARAKU) will as a minimum result in HANSOKU CHUI and loss of SENSHU.",
     "type": "boolean",
     "options": [
@@ -3580,10 +3580,10 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "تجنب القتال في آخر 15 ثانية يستوجب هانسكوتشوي على الأقل، وتُلغى السنشو إذا كان اللاعب حاصلاً عليها.",
+    "explanation": "تجنب القتال في آخر 15 ثانية يستوجب هانسكوتشوي على الأقل ويلغي السنشو إن كان موجوداً.",
     "reference": {
-      "article": "10.4.16 / 12.2.8",
-      "page": "20 / 23"
+      "article": "10.4.16; 12.2.8",
+      "page": "20, 23"
     }
   },
   {
@@ -3597,15 +3597,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا يجوز الاعتراض على حكم تقييمي لأعضاء طاقم التحكيم؛ الاعتراض الرسمي يكون على مخالفة إجراءات التحكيم للقانون ويقدمه المدرب أو ممثل الفريق إلى مدير البساط.",
+    "explanation": "لا يجوز تقديم الاعتراض مباشرة إلى أعضاء طاقم التحكيم؛ يقدم كتابة وفق إجراءات الاعتراض الرسمي.",
     "reference": {
-      "article": "13.1.1-13.1.2 / 13.1.6",
+      "article": "13.1.1-13.1.2",
       "page": "25"
     }
   },
   {
     "id": 213,
-    "arabic": "في بساط الكوميتيه يتم قلب قطعتين من البساط بالوجه الأحمر للأعلى على بعد متر واحد من مركز البساط لتكون حداً فاصلاً بين اللاعبين.",
+    "arabic": "فى بساط الكوميتيه يتم قلب قطعتى بساط بالوجه الأحمر للأعلى على بعد متر واحد من مركز البساط لتكون حد فاصل بين اللاعبين.",
     "english": "In a Kumite Tatami two mats are inverted with the red side turned up in a one meter distance from the mat centre to form a boundary between the contestants.",
     "type": "boolean",
     "options": [
@@ -3614,7 +3614,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "توضع قطعتي البساط المقلوبتين للفصل بين اللاعبين.",
+    "explanation": "تقلب قطعتان من البساط على بعد متر من المركز لتحديد موضعي وقوف اللاعبين.",
     "reference": {
       "article": "1.5",
       "page": "3"
@@ -3633,13 +3633,13 @@
     "correctAnswerArabic": "صحيح",
     "explanation": "يجب ربط أربطة الجاكت في بداية المباراة.",
     "reference": {
-      "article": "2.2.1.7",
+      "article": "2.2.1(7)",
       "page": "6"
     }
   },
   {
     "id": 215,
-    "arabic": "عند بداية المباراة يمكن استخدام جاكت بدون أربطة.",
+    "arabic": "عند بداية المباراة يمكن استعمال جاكت بدون أربطة.",
     "english": "At the beginning of a bout Jackets without ties can be used.",
     "type": "boolean",
     "options": [
@@ -3648,9 +3648,9 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الجاكت بدون أربطة لا يمكن استخدامه.",
+    "explanation": "الجاكت غير المزود بأربطة لا يمكن استخدامه، ويجب ربط الأربطة في بداية المباراة.",
     "reference": {
-      "article": "2.2.1.7",
+      "article": "2.2.1(7)",
       "page": "6"
     }
   },
@@ -3665,15 +3665,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "لا يمكن استبدال اللاعب بعد إجراء القرعة.",
+    "explanation": "لا يسمح باستبدال لاعب الفردي بعد إجراء القرعة.",
     "reference": {
-      "article": "3.3-3.4 / 3.6.7",
-      "page": "9 / 11"
+      "article": "3.4.1; 3.6",
+      "page": "9-11"
     }
   },
   {
     "id": 217,
-    "arabic": "في مباريات الميداليات يطلب من المدربين إرتداء بدلة داكنة اللون وقميص وربطة عنق وحذاء يغطي أصابع القدم.",
+    "arabic": "فى مباريات الميداليات يطلب من المدربين إرتداء بدلة داكنة اللون وقميص وربطة عنق وحذاء يغطي أصابع القدم.",
     "english": "At medal bouts male coaches are required to wear a dark suit, shirt, tie and shoes covering the toes.",
     "type": "boolean",
     "options": [
@@ -3682,7 +3682,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يجب على المدربين ارتداء البدلة الرسمية في مباريات الميداليات.",
+    "explanation": "يرتدي المدربون الرجال في مباريات الميداليات بدلة داكنة وقميصاً وربطة عنق وحذاءً مغلقاً.",
     "reference": {
       "article": "2.3.1",
       "page": "7"
@@ -3690,7 +3690,7 @@
   },
   {
     "id": 218,
-    "arabic": "في مباريات الميداليات المدربات يمكن أن تختار بين بدلة رسمية أو جاكت وتنورة بلون داكن وحذاء يغطي أصابع القدم.",
+    "arabic": "فى مباريات الميداليات المدربات يمكن أن تختار بين بدلة رسمية أو جاكت وتنورة بلون داكن وحذاء يغطي أصابع القدم.",
     "english": "At medal bouts female coaches may choose to wear a dress, pantsuit or a combination of jacket and skirt in dark colours and shoes covering the toes.",
     "type": "boolean",
     "options": [
@@ -3699,7 +3699,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "للمدربات اختيار الزي الرسمي المناسب في مباريات الميداليات.",
+    "explanation": "للمدربات في مباريات الميداليات خيارات الزي الرسمي الداكن والحذاء المغلق كما تحدد المادة.",
     "reference": {
       "article": "2.3.1",
       "page": "7"
@@ -3707,7 +3707,7 @@
   },
   {
     "id": 219,
-    "arabic": "في مباريات الميداليات لايمكن للمدربات ارتداء الحجاب الديني.",
+    "arabic": "فى مباريات الميداليات لايمكن للمدربات ارتداء الحجاب الدينى.",
     "english": "At medal bouts female coaches cannot wear religious headwear.",
     "type": "boolean",
     "options": [
@@ -3716,7 +3716,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يسمح بارتداء الحجاب الديني المعتمد من الاتحاد الدولي.",
+    "explanation": "يجوز للمدربات ارتداء الحجاب الديني المعتمد في مباريات الميداليات.",
     "reference": {
       "article": "2.3.2",
       "page": "7"
@@ -3724,7 +3724,7 @@
   },
   {
     "id": 220,
-    "arabic": "اللاعب الذي يرفض إطاعة تعليمات الحكم أو يفقد أعصابه سوف يعطى هانسكو تلقائياً.",
+    "arabic": "اللاعب الذي يرفض إطاعة تعليمات الحكم أو يفقد أعصابه سوف يعطى هانسكو تلقائيا.",
     "english": "An Athlete that refuses following the instructions of the Referee or display a loss of temper will automatically receive HANSOKU.",
     "type": "boolean",
     "options": [
@@ -3733,7 +3733,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "رفض تعليمات الحكم أو فقدان الانضباط يستوجب شيكاكو مباشرة، وليس هانسكو.",
+    "explanation": "رفض تعليمات الحكم أو فقدان الانضباط يستوجب شيكاكو مباشرة، لا هانسكو.",
     "reference": {
       "article": "10.4.17",
       "page": "20"
@@ -3741,7 +3741,7 @@
   },
   {
     "id": 221,
-    "arabic": "لايسمح للاعبين بفترة من الوقت بين المباريات مساوية للزمن القياسي للمباراة بغرض الراحة.",
+    "arabic": "لايسمح للاعبين بفترة من الوقت بين المباريات مساوية للزمن القياسى للمباراة بغرض الراحة.",
     "english": "Athletes are not entitled to a period of time between matches, equal to the standard duration time of the match, for purpose of rest.",
     "type": "boolean",
     "options": [
@@ -3750,7 +3750,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يحق للاعبين فترة راحة مساوية لزمن المباراة القياسي.",
+    "explanation": "يستحق اللاعب فترة راحة بين المباريات مساوية للمدة القياسية للمباراة.",
     "reference": {
       "article": "5.5",
       "page": "15"
@@ -3767,9 +3767,9 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "السلبية ممنوعة عندما يتبقى أقل من 15 ثانية من المباراة.",
+    "explanation": "لا تعطى السلبية عندما يكون المتبقي أقل من 15 ثانية.",
     "reference": {
-      "article": "9.1.1.10",
+      "article": "9.1.1(10)",
       "page": "17"
     }
   },
@@ -3784,7 +3784,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الاحتفالات المبالغ فيها والتعبيرات السياسية أو الدينية ممنوعة وقد تترتب عليها غرامة.",
+    "explanation": "الاحتفال الزائد والتعبيرات السياسية أو الدينية ممنوعة وقد تترتب عليها غرامة.",
     "reference": {
       "article": "10.5",
       "page": "20"
@@ -3792,7 +3792,7 @@
   },
   {
     "id": 224,
-    "arabic": "إذا أعطى اللاعب كيكن أو شيكاكو في نظام الدورى فستلغى كل مبارياته السابقة من النتيجة.",
+    "arabic": "إذا أعطى اللاعب كيكن أو شيكاكو فى نظام الدورى فستلغى كل مبارياته السابقة من النتيجة",
     "english": "If an Athlete receives KIKEN, or SHIKKAKU, in Round-robin competition all previous bouts are voided from the result.",
     "type": "boolean",
     "options": [
@@ -3801,32 +3801,32 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "تلغى المباريات السابقة إلا إذا كانت المباراة الأخيرة في الجدول.",
+    "explanation": "تلغى المباريات السابقة في الدوري عند كيكن أو شيكاكو إلا إذا كانت مباراة اللاعب الأخيرة في الجدول.",
     "reference": {
-      "article": "11.7.2",
+      "article": "10.7.2",
       "page": "21"
     }
   },
   {
     "id": 225,
-    "arabic": "إمساك ذراع الخصم أو بدلة الكاراتيه بيد واحدة مسموح به فقط لمحاولة تسجيل أو إسقاط فوري.",
+    "arabic": "إمساك يد الخصم أو بدلته بيد واحدة مسموح به فقط فى حالة محاولة التسجيل أو الإسقاط فورا.",
     "english": "Grabbing the opponent’s arm or Karate-GI with one hand is only allowed for attempting an immediately scoring technique or takedown.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "يسمح بالمسك بيد واحدة للتسجيل أو الإسقاط الفوري، كما يسمح أيضاً بإمساك بدلة الخصم بيد واحدة لعرقلة السقوط؛ لذلك كلمة «فقط» تجعل العبارة خاطئة.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "يسمح بالمسك بيد واحدة فقط لتنفيذ تسجيل أو إسقاط فوري.",
     "reference": {
-      "article": "10.4.11-10.4.12",
+      "article": "10.4.11",
       "page": "20"
     }
   },
   {
     "id": 226,
-    "arabic": "غير مسموح إطلاقاً بمسك الخصم بكلتا اليدين خلال المباراة.",
+    "arabic": "غير مسموح إطلاقا بمسك الخصم بكلتا اليدين خلال المباراة.",
     "english": "Grabbing the opponent with both hands is never allowed during the match.",
     "type": "boolean",
     "options": [
@@ -3835,15 +3835,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يوجد استثناء: يسمح بالإمساك بكلتا اليدين عند التقاط قدم الخصم أثناء الركلة لتنفيذ إسقاط.",
+    "explanation": "يجوز المسك بكلتا اليدين فقط عند الإمساك بساق الخصم أثناء ركلة بقصد إسقاطه.",
     "reference": {
-      "article": "10.4.9",
-      "page": "20"
+      "article": "9.1.1(12); 10.4.9",
+      "page": "17, 20"
     }
   },
   {
     "id": 227,
-    "arabic": "من مهام مدير البساط تعيين قاضي مراجعة الفيديو.",
+    "arabic": "إنها مهمة مدير البساط أن يعين قاضي مراجعة الفيديو.",
     "english": "It is the Tatami Manager’s duty to appoint the video review Judge.",
     "type": "boolean",
     "options": [
@@ -3852,32 +3852,32 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "مدير البساط يعيّن حكماً بدرجة حكم أ ليعمل قاضي مراجعة فيديو.",
+    "explanation": "من واجبات مدير البساط تعيين قاضي مراجعة الفيديو.",
     "reference": {
-      "article": "15.2.1.5",
+      "article": "15.2.1(5)",
       "page": "29"
     }
   },
   {
     "id": 228,
-    "arabic": "إذا تساوى اللاعبان في عدد الإيبون والوازاري فسيكون القرار بالترجيح هانتي.",
+    "arabic": "إذا تساوى اللاعبان فى عدد الإيبون والوازارى فسيكون القرار بالترجيح \"هانتى\".",
     "english": "Should the number of IPPON and WAZA ARI be equal, the decision will be by HANTEI.",
     "type": "boolean",
     "options": [
       "صحيح",
       "خطأ"
     ],
-    "correctAnswer": false,
-    "correctAnswerArabic": "خطأ",
-    "explanation": "الترجيح لا يطبق بمجرد تساوي الإيبون والوازاري؛ يجب أيضاً تساوي النقاط وعدم وجود سنشو، وفي مباريات الدوري والفرق العادية يُعلن التعادل بدلاً من هانتي.",
+    "correctAnswer": true,
+    "correctAnswerArabic": "صحيح",
+    "explanation": "بعد تساوي النقاط وعدم السنشو وتساوي الإيبون والوازاري يحسم القرار بالهانتي، مع استثناءات الدوري والفرق المبينة بالقانون.",
     "reference": {
-      "article": "12.2.3-12.2.5",
+      "article": "12.2.3-12.2.4",
       "page": "22"
     }
   },
   {
     "id": 229,
-    "arabic": "في أي مباراة فردية انتهت بنتيجة متساوية ولم يكن لأي لاعب سنشو، يكون المعيار الأول للقرار هو العدد الأكبر من الإيبون.",
+    "arabic": "فى أى مباراة فردية انتهت بنتيجة متساوية وليس هناك سينشو لكلا اللاعبين فسيكون المعيار الأول للقرار بناء على العدد الأكبر من التسجيل بإيبون خلال المباراة.",
     "english": "In any individual bout, with equal score, and no SENSHU by either Athlete, the first criteria of the decision will be made based on the higher number of IPPON scored in the bout.",
     "type": "boolean",
     "options": [
@@ -3886,15 +3886,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "عند تساوي النقاط وعدم وجود سنشو يكون المعيار الأول هو عدد الإيبون الأعلى.",
+    "explanation": "أول معيار في التعادل الفردي بلا سنشو هو العدد الأعلى من الإيبون.",
     "reference": {
-      "article": "12.2.3",
+      "article": "12.2.3-12.2.4",
       "page": "22"
     }
   },
   {
     "id": 230,
-    "arabic": "إذا أشار أكثر من قاضٍ بتسجيل لنفس اللاعب واختلفت قيمة النقاط، فتحتسب القيمة الأعلى إلا إذا كانت هناك أغلبية للقيمة الأقل.",
+    "arabic": "إذا أشار أكثر من قاضى بتسجيل لنفس اللاعب والنقاط مختلفة بين القضاة فستحتسب النقاط الأعلى للاعب إلا إذا كان هناك أغلبية للتسجيل الأقل.",
     "english": "If one Athlete has a score indicated by more than one Judge and the score is different between the Judges, the higher will be applied, unless there is a majority for a lower score.",
     "type": "boolean",
     "options": [
@@ -3903,7 +3903,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "تطبق القيمة الأعلى عند اختلاف إشارات القضاة، لكن رأي الأغلبية في قيمة أقل يتغلب على قاعدة القيمة الأعلى.",
+    "explanation": "تحتسب القيمة الأعلى عند اختلاف إشارات القضاة، إلا إذا وجدت أغلبية للقيمة الأقل.",
     "reference": {
       "article": "12.1.3-12.1.4",
       "page": "22"
@@ -3911,7 +3911,7 @@
   },
   {
     "id": 231,
-    "arabic": "يجب أن يبلغ مدير البساط المنضدة الرئيسية إذا تم إيقاف لاعب عن الاستمرار بناءً على قاعدة العشر ثواني.",
+    "arabic": "يجب أن يبلغ مدير البساط المنضدة المركزية إذا تم إيقاف لاعب عن الاستمرار فى المنافسة بناء على قاعدة ال 10 ثوانى.",
     "english": "The Tatami Manager must notify the central table when a Athlete has been stopped from further competition based on the 10-second rule.",
     "type": "boolean",
     "options": [
@@ -3920,7 +3920,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "مدير البساط مسؤول عن إبلاغ المنضدة الرئيسية عندما يُمنع لاعب من مواصلة المنافسة وفق قاعدة العشر ثواني.",
+    "explanation": "يبلغ مدير البساط المنضدة الرئيسية عند إيقاف لاعب بقاعدة العشر ثوان.",
     "reference": {
       "article": "11.2.4",
       "page": "21"
@@ -3928,7 +3928,7 @@
   },
   {
     "id": 232,
-    "arabic": "الميقاتي مسؤول عن بدء احتساب ثلاث دقائق للاعب المصاب الذي يحتاج إلى علاج طبي.",
+    "arabic": "الميقاتى مسؤول عن بدء احتساب 3 دقائق للاعب الذى أصيب خلال سير المباراة واحتاج إلى العلاج الطبي.",
     "english": "The timekeeper is responsible of starting the 3-minute count for an Athlete who is injured during a bout in progress and requires medical treatment.",
     "type": "boolean",
     "options": [
@@ -3937,7 +3937,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "مدير البساط هو المسؤول عن إعطاء التعليمات للميقاتي لبدء احتساب مدة العلاج البالغة ثلاث دقائق.",
+    "explanation": "مدير البساط هو الذي يأمر الميقاتي ببدء عد الثلاث دقائق؛ ليست مسؤولية الميقاتي منفرداً.",
     "reference": {
       "article": "11.2.3",
       "page": "21"
@@ -3945,7 +3945,7 @@
   },
   {
     "id": 233,
-    "arabic": "ينادي الحكم يامي عندما يمسك اللاعب خصمه ولا ينفذ تكنيكاً أو إسقاطاً فورياً.",
+    "arabic": "الحكم سينادى ياميه عندما يمسك اللاعب الخصم ولايؤدى تكنيك او إسقاط على الفور.",
     "english": "The Referee will call YAME when an Athlete seizes the opponent and does not perform an immediate technique or throw.",
     "type": "boolean",
     "options": [
@@ -3954,15 +3954,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يوقف الحكم المباراة عندما يحدث الإمساك دون تنفيذ هجوم أو إسقاط فوري.",
+    "explanation": "ينادي الحكم يامي عند المسك دون تقنية أو إسقاط فوري.",
     "reference": {
-      "article": "7.10.5",
+      "article": "7.10(5)",
       "page": "16"
     }
   },
   {
     "id": 234,
-    "arabic": "يعلن الحكم الفائز بإشارة اليد وبالأمر أكا/آو نو كاتشي، وعند الحاجة يكسر التعادل في حالة هانتي.",
+    "arabic": "الحكم يعلن الفائز بإشارة من يده وأمر أكا / آو نو كاتشي وهذا الفعل أيضا يكسر أى تعادل.",
     "english": "The Referee indicates the winner by hand signal and the order (AKA/AO NO KACHI), and by this action also resolve any tie.",
     "type": "boolean",
     "options": [
@@ -3971,15 +3971,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "من سلطات الحكم إعلان الفائز، وعند الحاجة المشاركة في هانتي لكسر التعادل.",
+    "explanation": "يعلن الحكم الفائز بأكا/آو نو كاتشي ويكسر بذلك تعادل هانتي عند الحاجة.",
     "reference": {
-      "article": "12.2.7 / 15.3.1.10-15.3.1.11",
-      "page": "23 / 29"
+      "article": "12.2.7",
+      "page": "23"
     }
   },
   {
     "id": 235,
-    "arabic": "عندما يمسك اللاعب خصمه يمنحه الحكم عدة ثوانٍ لتنفيذ الرمي أو التسجيل.",
+    "arabic": "عندما يمسك اللاعب بخصمه فالحكم سيعطيه عدة ثوان ليقوم بالرمى أو التسجيل.",
     "english": "When an Athlete seizes the opponent, the Referee will give several seconds for the contestant to perform a throw or technique.",
     "type": "boolean",
     "options": [
@@ -3988,15 +3988,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يشترط أن يكون الهجوم أو الإسقاط فورياً؛ لا يمنح الحكم عدة ثوانٍ للاستمرار في الإمساك.",
+    "explanation": "يجب تنفيذ التقنية أو الإسقاط فوراً؛ لا يمنح الحكم عدة ثوان للمسك.",
     "reference": {
-      "article": "7.10.5 / 10.4.11",
-      "page": "16 / 20"
+      "article": "7.10(5)",
+      "page": "16"
     }
   },
   {
     "id": 236,
-    "arabic": "يطلب المدرب أو ممثل الاتحاد الوطني نموذج الاعتراض الرسمي من مدير البساط.",
+    "arabic": "سيطلب المدرب أو ممثل الإتحاد الوطنى الإعتراض الرسمي من مدير البساط.",
     "english": "The Coach / NF representative will request the official protest from the Tatami Manager.",
     "type": "boolean",
     "options": [
@@ -4005,7 +4005,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يطلب المدرب أو ممثل الاتحاد الوطني نموذج الاعتراض الرسمي من مدير البساط ويقدمه وفق الإجراءات المحددة.",
+    "explanation": "يطلب المدرب أو ممثل الاتحاد نموذج الاعتراض الرسمي من مدير البساط.",
     "reference": {
       "article": "13.1.6",
       "page": "25"
@@ -4022,7 +4022,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يحتاج الحكم إلى إشارة قاضيين أو أكثر لمنح النقاط.",
+    "explanation": "لا يمنح الحكم نقطة من تلقاء نفسه؛ يلزم قرار قاضيين أو أكثر أو قبول قاضي مراجعة الفيديو.",
     "reference": {
       "article": "8.1",
       "page": "16"
@@ -4030,7 +4030,7 @@
   },
   {
     "id": 238,
-    "arabic": "إذا لم ينادى الحكم على الطبيب فى حالة قاعدة العشر ثوانى فيجب على الكناساً أن يطلق الصافرة.",
+    "arabic": "إذا لم ينادى الحكم على الطبيب فى حالة قاعدة العشر ثوانى فيجب على الكانسا أن يطلق الصافرة.",
     "english": "If the referee does not call the doctor in a 10 second rule situation, Kansa must blow the whistle.",
     "type": "boolean",
     "options": [
@@ -4039,9 +4039,9 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يتدخل الكنساً إذا لم يستدع الحكم الطبيب في حالة العشر ثواني.",
+    "explanation": "يجب على كانسا إطلاق الصافرة إذا لم يستدع الحكم الطبيب في حالة قاعدة العشر ثوان.",
     "reference": {
-      "article": "15.5.4.15",
+      "article": "15.5.4(15)",
       "page": "30"
     }
   },
@@ -4056,7 +4056,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "الفوز بالسنشو يعتبر فوزاً في المباريات الفردية ويحتسب.",
+    "explanation": "تدخل الانتصارات المحققة بالسنشو ضمن عدد انتصارات الفريق.",
     "reference": {
       "article": "12.5.1",
       "page": "24"
@@ -4073,15 +4073,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا يتجاوز طول الحزام ثلاثة أرباع طول الفخذ.",
+    "explanation": "لا يجوز أن يزيد طول الحزام الأحمر أو الأزرق على ثلاثة أرباع الفخذ.",
     "reference": {
-      "article": "2.2.1.4",
+      "article": "2.2.1(4)",
       "page": "6"
     }
   },
   {
     "id": 241,
-    "arabic": "فشل المدرب أو الممثل الوطني في تسليم الإعتراض في توقيت مناسب يمكن أن يؤدي إلى رفضه.",
+    "arabic": "فشل المدرب أو الممثل الوطنى فى تسليم الإعتراض فى توقيت مناسب يمكن أن يؤدي إلى رفضه.",
     "english": "Failure of a Coach / NF representative to deliver a protest in a timely manner can lead to its rejection.",
     "type": "boolean",
     "options": [
@@ -4090,7 +4090,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يجب تقديم الاعتراض في الوقت المحدد وإلا يرفض.",
+    "explanation": "التأخر غير المبرر في تقديم الاعتراض قد يؤدي إلى رفضه.",
     "reference": {
       "article": "13.1.7",
       "page": "25"
@@ -4098,7 +4098,7 @@
   },
   {
     "id": 242,
-    "arabic": "العقوبة الصحيحة لإدعاء الإصابة (عندما يقرر طاقم التحكيم ان التكنيك فى الحقيقة هو تسجيل صحيح) هي هانسكو.",
+    "arabic": "العقوبة الصحيحة لإدعاء الإصابة ) عندما يقرر طاقم التحكيم أن التكنيك فى الحقيقة هو تسجيل صحيح ( هى هانسكو.",
     "english": "The correct penalty for feigning an injury when the judges have determined that the technique in fact was a score is HANSOKU.",
     "type": "boolean",
     "options": [
@@ -4107,7 +4107,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "العقوبة في هذه الحالة هي هانسكوتشوي على الأقل.",
+    "explanation": "الحد الأدنى عند ادعاء إصابة من تقنية احتسبت تسجيلاً هو هانسكوتشوي، وليس هانسكو تلقائياً.",
     "reference": {
       "article": "10.4.5",
       "page": "19"
@@ -4124,15 +4124,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "مدير البساط يكمل بيانات الطاقم في استمارة الاعتراض.",
+    "explanation": "مدير البساط يستكمل بيانات الحكام والمسؤولين المعنيين في نموذج الاعتراض.",
     "reference": {
-      "article": "13.1.8 / 13.1.11",
+      "article": "13.1.8; 13.1.11",
       "page": "25"
     }
   },
   {
     "id": 244,
-    "arabic": "الإقصاء بقرار كيكن يعنى أن اللاعب تم استبعاده من هذه المسابقة لكنه لايؤثر على مشاركة اللاعب فى باقى المسابقات.",
+    "arabic": "الاقصاء بقرار كيكن يعنى أن اللاعب تم استبعاده من هذه المسابقة لكنه لايؤثر على مشاركة اللاعب فى باقى المسابقات.",
     "english": "Disqualification by KIKEN means that the Athlete is disqualified from that category, although it does not affect participation in another category.",
     "type": "boolean",
     "options": [
@@ -4141,7 +4141,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "كيكن يعفي اللاعب من هذه الفئة فقط.",
+    "explanation": "كيكن يقصي اللاعب من الفئة المعنية ولا يمنعه من فئة أخرى.",
     "reference": {
       "article": "6.4",
       "page": "15"
@@ -4149,7 +4149,7 @@
   },
   {
     "id": 245,
-    "arabic": "لللاعبين فترة راحة بين المباريات مساوية للزمن القياسي للمباراة، إلا في حالة تغيير لون الأدوات فسيُمدد الوقت إلى 5 دقائق.",
+    "arabic": "للاعبين فترة راحة بين المباريات مساوية للزمن القياسى للمباراة الا فى حالة تغيير لون الأدوات فسيمدد الوقت الى 5 دقائق.",
     "english": "Athletes are entitled to a rest period of time between matches, equal to the standard duration time of the bout. The exception is in the case of change of equipment color, where this time is extended to five minutes.",
     "type": "boolean",
     "options": [
@@ -4158,7 +4158,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "فترة الراحة مساوية لزمن المباراة، وتزيد إلى 5 دقائق عند تغيير لون الأدوات.",
+    "explanation": "الراحة بين المباريات تساوي زمن المباراة القياسي وتمتد إلى خمس دقائق عند تغيير لون المعدات.",
     "reference": {
       "article": "5.5",
       "page": "15"
@@ -4166,7 +4166,7 @@
   },
   {
     "id": 246,
-    "arabic": "إذا انتهى الوقت في أى مباراة والنقاط متساوية ولكن أحد اللاعبين لديه ميزة مبادرة التسجيل (سنشو) فسيكون هذا اللاعب هو الفائز بالمباراة.",
+    "arabic": "إذا انتهى الوقت فى أى مباراة والنقاط متساوية ولكن أحد اللاعبين لديه ميزة مبادرة التسجيل سنشو فسيكون هذا اللاعب هو الفائز بالمباراة.",
     "english": "In any bout, if after full time the scores are equal, but one Athlete has obtained “first unopposed score advantage” (SENSHU), that contestant will be declared the winner.",
     "type": "boolean",
     "options": [
@@ -4175,15 +4175,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "السنشو تحسم الفوز في حالة التعادل.",
+    "explanation": "عند التعادل في النقاط يفوز صاحب السنشو.",
     "reference": {
-      "article": "12.2.2",
+      "article": "12.2.1",
       "page": "22"
     }
   },
   {
     "id": 247,
-    "arabic": "تعرف ميزة مبادرة التسجيل (سنشو) بأنها حصول اللاعب على التسجيل الأول الصحيح فى خصمه بدون أن يسجل الخصم فيه قبل إشارة الحكم.",
+    "arabic": "تعرف ميزة مبادرة التسجيل ) سنشو ( بانها حصول اللاعب على التسجيل الأول الصحيح فى خصمه بدون أن يسجل الخصم فيه قبل إشارة الحكم.",
     "english": "By “first unopposed score advantage” (SENSHU) is understood that one Athlete has achieved the first instance of scoring on the opponent without having the opponent also score before the signal.",
     "type": "boolean",
     "options": [
@@ -4192,7 +4192,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "السنشو هو التسجيل الأول دون رد من الخصم قبل الإشارة.",
+    "explanation": "السنشو هو أول تسجيل صحيح غير معارض بتسجيل للخصم قبل الإشارة.",
     "reference": {
       "article": "12.2.2",
       "page": "22"
@@ -4200,7 +4200,7 @@
   },
   {
     "id": 248,
-    "arabic": "عندما يسجل كلا اللاعبين تسجيلاً صحيحاً قبل إشارة الحكم فلن تمنح ميزة مبادرة التسجيل (السنشو) ويبقى لكلا اللاعبين احتمالية أن يحصل على السنشو في باقي المباراة.",
+    "arabic": "عندما يسجل كلا اللاعبين تسجيلا صحيحا قبل إشارة الحكم فلن تمنح ميزة مبادرة التسجيل ) السنشو ( ويبقى لكلا من اللاعبين احتمالية أن يحصل على السنشو فى باقى المباراة.",
     "english": "Where both Athletes score before the signal, no “first unopposed score advantage” is awarded and both Athletes retain the possibility of SENSHU later in the bout.",
     "type": "boolean",
     "options": [
@@ -4209,7 +4209,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "إذا سجل كلا اللاعبين، لا يمنح سنشو ويظل ممكناً لاحقاً.",
+    "explanation": "إذا سجل الطرفان قبل الإشارة فلا يمنح السنشو ويبقى متاحاً لاحقاً.",
     "reference": {
       "article": "12.2.2",
       "page": "22"
@@ -4217,7 +4217,7 @@
   },
   {
     "id": 249,
-    "arabic": "في حال سقوط اللاعب على الأرض أو رميه أو تلقيه ضربة قاضية وعدم استطاعته الوقوف مباشرة على قدميه، فإن على الحكم أن ينادي الطبيب وفي نفس الوقت يبدأ العد إلى عشرة موضحاً العد بالإشارة بأصبع لكل ثانية.",
+    "arabic": "في حال سقوط اللاعب على الأرض أو رميه أو تلقيه ضربة قاضية وعدم استطاعته الوقوف مباشرة على قدميه، فإن على الحكم أن ينادى الطبيب وفى نفس الوقت يبدأ العد إلى عشرة موضحا العد بالإشارة بأصبع لكل ثانية.",
     "english": "In the event that an Athlete falls, is thrown, or knocked down and does not regain his or her feet immediately, the Referee will call the doctor, and at the same time start a count to ten indicating his count showing a finger for each second.",
     "type": "boolean",
     "options": [
@@ -4226,7 +4226,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "قاعدة العشر ثوان تشترط أن يكون اللاعب مستلقياً بشكل مسطح على الأرض ولا يقف فوراً.",
+    "explanation": "يبدأ العد إذا كان اللاعب راقداً بشكل مسطح ولم يقف فوراً؛ مجرد السقوط دون هذا الشرط لا يكفي.",
     "reference": {
       "article": "11.2.4",
       "page": "21"
@@ -4234,7 +4234,7 @@
   },
   {
     "id": 250,
-    "arabic": "ستعطى إشارة مسموعة بواسطة الميقاتي قبل النهاية الفعلية للمباراة بـ15 ثانية وسيعلن الحكم أتوشي باراكو.",
+    "arabic": "ستعطى إشارة مسموعة بواسطة الميقاتى قبل النهاية الفعلية للمباراة ب15 ثانية وسيعلن الحكم أتوشي باراكو.",
     "english": "An audible signal will be given by the timekeeper 15 seconds before the actual end of the bout and the Referee will announce “ATOSHI BARAKU”.",
     "type": "boolean",
     "options": [
@@ -4243,7 +4243,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يعلن الميقاتي قبل 15 ثانية من النهاية.",
+    "explanation": "يعطي الميقاتي إشارة قبل النهاية بـ15 ثانية ويعلن الحكم أتوشي باراكو.",
     "reference": {
       "article": "5.4",
       "page": "15"
@@ -4251,7 +4251,7 @@
   },
   {
     "id": 251,
-    "arabic": "يجب على الكناساً أن يبقى صامتاً إذا أعطى الحكم تحذيراً أو عقوبة للسلبي خلال أتوشي باراكو.",
+    "arabic": "يجب على الكانسا أن يبقى صامتا إذا أعطى الحكم تحذيرا أو عقوبة للسلبية خلال أتوشي باراكو.",
     "english": "Kansa must remain silent if the referee gives a warning or penalty for passivity during ATOSHI BARAKU.",
     "type": "boolean",
     "options": [
@@ -4260,15 +4260,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يجب على الكانسا إطلاق الصافرة إذا أعطى الحكم تحذيراً أو عقوبة للسلبية خلال أتوشي باراكو، لأن السلبية لا تُعطى عندما يتبقى أقل من 15 ثانية.",
+    "explanation": "يجب على كانسا إطلاق الصافرة إذا أعطى الحكم تحذيراً أو عقوبة للسلبية خلال أتوشي باراكو.",
     "reference": {
-      "article": "15.5.4.9 / 9.1.1.10",
-      "page": "30 / 17"
+      "article": "15.5.4(9)",
+      "page": "30"
     }
   },
   {
     "id": 252,
-    "arabic": "في فئات الفردي بنظام الإقصاء يمكن أن تنتهي المباراة بالتعادل.",
+    "arabic": "فى فئات الفردى بنظام الإقصاء يمكن أن تنتهى المباراة بالتعادل.",
     "english": "In individual categories with elimination format a bout can be declared a tie.",
     "type": "boolean",
     "options": [
@@ -4277,7 +4277,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "في نظام الإقصاء لا يمكن أن تنتهي بالتعادل، بل تحسم بالسنشو أو الهانتي.",
+    "explanation": "مباراة الفردي بنظام الإقصاء لا يمكن أن تنتهي بالتعادل.",
     "reference": {
       "article": "12.2.5",
       "page": "22"
@@ -4285,7 +4285,7 @@
   },
   {
     "id": 253,
-    "arabic": "في كل أنظمة المنافسات سيسمح للمدرب بكارت مراجعة فيديو واحد للاعب.",
+    "arabic": "فى كل أنظمة المنافسات سيسمح للمدرب بكارت مراجعة فيديو واحد للاعب.",
     "english": "For all competition formats the Coach will be allowed one video review card for the athlete.",
     "type": "boolean",
     "options": [
@@ -4294,7 +4294,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "يختلف عدد كروت المراجعة حسب النظام والمرحلة.",
+    "explanation": "عدد بطاقات مراجعة الفيديو يختلف باختلاف النظام والمرحلة، وليس بطاقة واحدة في جميع الصيغ.",
     "reference": {
       "article": "14.17",
       "page": "28"
@@ -4302,7 +4302,7 @@
   },
   {
     "id": 254,
-    "arabic": "في نظام دورى المجموعات المكونة من 4 لاعبين سيسمح للمدرب بكارت مراجعة فيديو لكل مشارك فى مرحلة الدورى.",
+    "arabic": "فى نظام دورى المجموعات المكونة من 4 لاعبين سيسمح للمدرب بكارت مراجعة فيديو لكل مشارك فى مرحلة الدورى.",
     "english": "For Round-robin in groups of four the Coach will be allowed one VR card for each participant in the round-robin phase.",
     "type": "boolean",
     "options": [
@@ -4311,7 +4311,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "في مرحلة دوري المجموعات المكونة من أربعة لاعبين يكون لكل مشارك كارت مراجعة فيديو وفق جدول المادة 14.17.",
+    "explanation": "في دوري المجموعات من أربعة لاعبين يمنح المدرب بطاقة مراجعة لكل مشارك.",
     "reference": {
       "article": "14.17",
       "page": "28"
@@ -4328,7 +4328,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يسمح للاعب بالإشارة بشكل غير ظاهر لطلب المراجعة.",
+    "explanation": "يجوز للاعب طلب المراجعة من مدربه بإشارة غير ظاهرة.",
     "reference": {
       "article": "14.4",
       "page": "27"
@@ -4336,7 +4336,7 @@
   },
   {
     "id": 256,
-    "arabic": "يستطيع المدرب طلب مراجعة فيديو إذا إعتقد أن القضاة إحتسبوا نقاطاً أقل وفي رأيه أن اللاعب سجل نقاطاً أعلى.",
+    "arabic": "يستطيع المدرب طلب مراجعة فيديو إذا إعتقد أن القضاة إحتسبوا نقاطا أقل وفى رأيه أن اللاعب سجل نقاطا أعلى.",
     "english": "The video review can be requested by the Coach in instances where the Judges awarded a lower score than, in the opinion of the Coach, should be for a higher scoring technique.",
     "type": "boolean",
     "options": [
@@ -4345,7 +4345,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يحق للمدرب طلب المراجعة إذا رأى أن التسجيل يستحق نقاطاً أعلى.",
+    "explanation": "يجوز طلب المراجعة إذا رأى المدرب أن التقنية تستحق قيمة أعلى.",
     "reference": {
       "article": "14.5",
       "page": "27"
@@ -4353,7 +4353,7 @@
   },
   {
     "id": 257,
-    "arabic": "يمكن لقاضي مراجعة الفيديو أن يمنح نقاطاً إذا كان تسجيل اللاعب سابقاً أو متزامناً مع تسجيل اللاعب الآخر فقط.",
+    "arabic": "يمكن لقاضى مراجعة الفيديو أن يمنح نقاطا إذا كان تسجيل اللاعب سابقا أو متزامنا مع تسجيل اللاعب الآخر فقط.",
     "english": "The Video Review Judge may only award points if scoring before or simultaneously with the other Athlete.",
     "type": "boolean",
     "options": [
@@ -4362,7 +4362,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمنح قاضي المراجعة النقاط للتسجيل السابق أو المتزامن.",
+    "explanation": "يحتسب قاضي الفيديو التسجيل إذا وقع قبل أو بالتزامن مع تسجيل الخصم.",
     "reference": {
       "article": "14.6",
       "page": "27"
@@ -4370,7 +4370,7 @@
   },
   {
     "id": 258,
-    "arabic": "سيتم مراجعة الفيديو دائماً لآخر 6 ثوانٍ قبل توقف المباراة بسبب طلب مراجعة الفيديو.",
+    "arabic": "سيتم مراجعة الفيديو دائما لآخر 6 ثوانى قبل توقف المباراة بسبب طلب مراجعة الفيديو.",
     "english": "The last 6 seconds before the bout was stopped for the request will always be evaluated for Video Review.",
     "type": "boolean",
     "options": [
@@ -4379,7 +4379,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "تراجع آخر 6 ثوانٍ قبل الإيقاف.",
+    "explanation": "تراجع دائماً آخر ست ثوان قبل إيقاف المباراة لطلب المراجعة.",
     "reference": {
       "article": "14.8",
       "page": "27"
@@ -4387,7 +4387,7 @@
   },
   {
     "id": 259,
-    "arabic": "إذا طلب كلا المدربين مراجعة فيديو في نفس الوقت فسيمنح قاضي مراجعة الفيديو التسجيل فقط إلى اللاعب الذي سجل أولاً.",
+    "arabic": "إذا طلب كلا المدربين مراجعة فيديو فى نفس الوقت فسيمنح قاضي مراجعة الفيديو التسجيل فقط إلى اللاعب الذى سجل أولا",
     "english": "If both Coaches requests video review at the same time, the Video Judge may only award the point to whoever is deemed to score first.",
     "type": "boolean",
     "options": [
@@ -4396,7 +4396,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "عند طلب المدربين مراجعة الفيديو في الوقت نفسه يمكن منح النقاط لكلا اللاعبين إذا كان التسجيل متزامناً؛ فلا يقتصر القرار دائماً على من سجل أولاً.",
+    "explanation": "إذا كان التسجيلان متزامنين يجوز منح النقاط لكلا اللاعبين؛ لذلك ليست النقطة دائماً لمن سجل أولاً فقط.",
     "reference": {
       "article": "14.9",
       "page": "27"
@@ -4404,7 +4404,7 @@
   },
   {
     "id": 260,
-    "arabic": "يمكن إحتساب كلا التسجيلين المتزامنين لكلا اللاعبين في مراجعة الفيديو.",
+    "arabic": "يمكن إحتساب كلا التسجيلين المتزامنين لكلا اللاعبين فى مراجعة الفيديو.",
     "english": "Simultaneous scoring techniques can be awarded to both Athletes in Video Review.",
     "type": "boolean",
     "options": [
@@ -4413,7 +4413,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يمكن منح النقاط لكلا اللاعبين في حالة التسجيل المتزامن.",
+    "explanation": "يمكن منح التسجيل المتزامن لكلا اللاعبين في مراجعة الفيديو.",
     "reference": {
       "article": "14.9",
       "page": "27"
@@ -4430,7 +4430,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "لا يلغي قاضي المراجعة قرارات القضاة إلا في حالة السنشو.",
+    "explanation": "لا يلغي قاضي الفيديو قرار قضاة الأركان إلا في مسألة السنشو.",
     "reference": {
       "article": "14.12",
       "page": "27"
@@ -4438,7 +4438,7 @@
   },
   {
     "id": 262,
-    "arabic": "يجب أن يشرف مدير البساط على إيقاف الكناساً المباراة ليعطى تعليمات للحكم فيما يختص بخرق قوانين المنافسات.",
+    "arabic": "يجب أن يشرف مدير البساط على إيقاف الكانسا المباراة ليعطى تعليمات للحكم فيما يختص بخرق قوانين المنافسات.",
     "english": "Tatami manager must supervise that KANSA stops the bout to instruct the Referee regarding a contravention of the Rules of Competition.",
     "type": "boolean",
     "options": [
@@ -4447,15 +4447,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يشرف مدير البساط على تدخل الكنساً.",
+    "explanation": "يشرف مدير البساط على إيقاف كانسا للمباراة لتوجيه الحكم بشأن مخالفة القانون.",
     "reference": {
-      "article": "15.2.1.3",
+      "article": "15.2.1(3)",
       "page": "29"
     }
   },
   {
     "id": 263,
-    "arabic": "الحكم يوضح الأخطاء التي رآها ويوقع التحذيرات والجزاءات كما أوجبها القانون.",
+    "arabic": "الحكم يوضح الأخطاء التى رآها ويوقع التحذيرات والجزاءات كما أوجبها القانون.",
     "english": "Referee indicates fouls observed, and impose warning and penalties as required by the rules.",
     "type": "boolean",
     "options": [
@@ -4464,15 +4464,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الحكم مسؤول عن تطبيق التحذيرات والجزاءات.",
+    "explanation": "يشير الحكم إلى المخالفات ويطبق التحذيرات والعقوبات المقررة.",
     "reference": {
-      "article": "15.3.1.7",
+      "article": "15.3.1(7)",
       "page": "29"
     }
   },
   {
     "id": 264,
-    "arabic": "الحكم سيكسر التعادل في حالة الترجيح \"هانتي\".",
+    "arabic": "الحكم سيكسر التعادل فى حالة الترجيح \"هانتى\".",
     "english": "Referee breaks the tie in case of HANTEI.",
     "type": "boolean",
     "options": [
@@ -4481,7 +4481,7 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الحكم يعلن الفائز بعد تصويت القضاة في الهانتي.",
+    "explanation": "صوت الحكم يكسر تعادل الهانتي.",
     "reference": {
       "article": "12.2.7",
       "page": "23"
@@ -4489,8 +4489,8 @@
   },
   {
     "id": 265,
-    "arabic": "إنها مسؤولية الكنساً دائماً التأكد قبل كل مباراة أن المعدات مطابقة للقانون.",
-    "english": "It is always KANSA ́S responsibility to ensure that the equipment is in accordance with the rules before each bout.",
+    "arabic": "إنها مسؤولية الكانسا دائما التأكد قبل كل مباراة أن المعدات مطابقة للقانون.",
+    "english": "It is always KANSA´S responsibility to ensure that the equipment is in accordance with the rules before each bout.",
     "type": "boolean",
     "options": [
       "صحيح",
@@ -4498,15 +4498,15 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "ليست المسؤولية دائماً على الكانسا؛ مساعدا الكانسا يفحصان الأدوات عند تعيينهما، ويتولى الكانسا ذلك مباشرة عند عدم وجودهما.",
+    "explanation": "المسؤولية تكون لمساعدي كانسا عند وجودهم، ويتولاها كانسا فقط عند عدم وجودهم.",
     "reference": {
-      "article": "4.3.2 / 15.5.3",
-      "page": "14 / 30"
+      "article": "4.3.2; 15.5.3",
+      "page": "14, 30"
     }
   },
   {
     "id": 266,
-    "arabic": "عندما لايسمع الحكم صافرة إنتهاء الوقت فسيطلق الكنساً صافرته.",
+    "arabic": "عندما لايسمع الحكم صافرة إنتهاء الوقت فسيطلق الكانسا صافرته.",
     "english": "In the event that the Referee does not hear the time-up bell, KANSA will blow his whistle.",
     "type": "boolean",
     "options": [
@@ -4515,7 +4515,7 @@
     ],
     "correctAnswer": false,
     "correctAnswerArabic": "خطأ",
-    "explanation": "إذا لم يسمع الحكم صافرة نهاية الوقت فإن مشرف التسجيل هو من يطلق صافرته، وليس الكانسا.",
+    "explanation": "مشرف التسجيل هو الذي يطلق الصافرة عند عدم سماع الحكم نهاية الوقت، وليس كانسا.",
     "reference": {
       "article": "15.6.2",
       "page": "31"
@@ -4523,7 +4523,7 @@
   },
   {
     "id": 267,
-    "arabic": "في نظام القاضيين، سيساعد القضاة الحكم بالإشارة إلى جوجاي، الإصطدام الزائد، ولمس الجلد للفئات التي يكون فيها ذلك خرقاً للقانون.",
+    "arabic": "فى نظام التحكيم ثنائي القضاة سيساعد القضاة الحكم بالإشارة إلى الخروج والإصطدام الزائد ولمس الجلد للفئات التي يكون فيها ذلك خرقا للقانون.",
     "english": "In two judging system, the Judges will assist the Referee by giving signals for JOGAI, excessive contact, and skin touch for categories where this contravenes the rules.",
     "type": "boolean",
     "options": [
@@ -4532,15 +4532,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "يساعد القضاة الحكم في الإشارة إلى هذه المخالفات.",
+    "explanation": "في نظام القاضيين يساعد القاضيان الحكم في الجوجاي والاصطدام الزائد ولمس الجلد المخالف للفئة.",
     "reference": {
-      "article": "ملحق 5",
+      "article": "ملحق 5، بند 2",
       "page": "41"
     }
   },
   {
     "id": 268,
-    "arabic": "في نظام القاضيين، سيظل الحكم مستقلاً في قرار التحذيرات والجزاءات.",
+    "arabic": "فى نظام التحكيم ثنائي القضاة سيظل الحكم مستقلا بقرار التحذيرات والجزاءات.",
     "english": "In two judging system, the Referee remain autonomous in applying warnings and penalties.",
     "type": "boolean",
     "options": [
@@ -4549,15 +4549,15 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "الحكم هو المسؤول الوحيد عن تطبيق التحذيرات والجزاءات.",
+    "explanation": "يبقى الحكم مستقلاً في تطبيق التحذيرات والعقوبات مع مراعاة حالة اتفاق القاضيين المنصوص عليها بالملحق.",
     "reference": {
-      "article": "ملحق 5",
+      "article": "ملحق 5، بند 2",
       "page": "41"
     }
   },
   {
     "id": 269,
-    "arabic": "في نظام القاضيين، إذا أشار القاضيان أو قاضٍ واحد والحكم بنقاط مختلفة لنفس اللاعب، فسيعطى الأعلى.",
+    "arabic": "فى نظام التحكيم ثنائي القضاة إذا أشار القاضيان أو أشار قاضى واحد والحكم بنقاط مختلفة لنفس اللاعب فسيعطى الأعلى.",
     "english": "In two judging system, if the two Judges, or one Judge and the Referee, show different points for the same competitors, the higher will be given.",
     "type": "boolean",
     "options": [
@@ -4566,9 +4566,9 @@
     ],
     "correctAnswer": true,
     "correctAnswerArabic": "صحيح",
-    "explanation": "في نظام القاضيين، تحتسب النقاط الأعلى في حالة الاختلاف.",
+    "explanation": "إذا اختلفت قيم النقاط في نظام القاضيين تمنح القيمة الأعلى.",
     "reference": {
-      "article": "ملحق 5",
+      "article": "ملحق 5، بند 8",
       "page": "41"
     }
   }
